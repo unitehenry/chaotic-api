@@ -1,0 +1,185 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Documentation · Chaotic TCG API</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Documentation for the Chaotic Trading Card Game API."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Documentation · Chaotic TCG API"/><meta property="og:type" content="website"/><meta property="og:url" content="https://unitehenry.github.io/chaotic-api/"/><meta property="og:description" content="Documentation for the Chaotic Trading Card Game API."/><meta property="og:image" content="https://unitehenry.github.io/chaotic-api/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://unitehenry.github.io/chaotic-api/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/chaotic-api/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/chaotic-api/js/scrollSpy.js"></script><link rel="stylesheet" href="/chaotic-api/css/main.css"/><script src="/chaotic-api/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/chaotic-api/"><img class="logo" src="/chaotic-api/img/card-back.png" alt="Chaotic TCG API"/><h2 class="headerTitleWithLogo">Chaotic TCG API</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavItemActive"><a href="/chaotic-api/docs/documentation" target="_self">Documentation</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="container mainContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/unitehenry/chaotic-api/blob/master/docs/docs/documentation.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 class="postHeaderTitle">Documentation</h1></header><article><div><span><p>Documentation for the Chaotic Trading Card Game API.</p>
+<h2><a class="anchor" aria-hidden="true" id="getting-started"></a><a href="#getting-started" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting Started</h2>
+<p>To begin with this API, let's start by making our first API call to the server.</p>
+<h3><a class="anchor" aria-hidden="true" id="making-an-api-call"></a><a href="#making-an-api-call" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Making an API Call</h3>
+<p>You can try this from your terminal.</p>
+<pre><code class="hljs css language-sh">$ curl http://www.chaoticga.me/creatures/DOP/15
+</code></pre>
+<p>This is the response that you should get.</p>
+<pre><code class="hljs css language-json">{
+    <span class="hljs-attr">"_id"</span>:<span class="hljs-string">"5c3be280775bf784097efcbf"</span>,
+    <span class="hljs-attr">"name"</span>:<span class="hljs-string">"Maxxor"</span>,
+    <span class="hljs-attr">"set"</span>:<span class="hljs-string">"DOP"</span>,
+    <span class="hljs-attr">"rarity"</span>:<span class="hljs-string">"Ultra Rare"</span>,
+    <span class="hljs-attr">"id"</span>:<span class="hljs-number">15</span>,
+    <span class="hljs-attr">"tribe"</span>:<span class="hljs-string">"OverWorld"</span>,
+    <span class="hljs-attr">"courage"</span>:<span class="hljs-number">100</span>,
+    <span class="hljs-attr">"power"</span>:<span class="hljs-number">65</span>,
+    <span class="hljs-attr">"wisdom"</span>:<span class="hljs-number">80</span>,
+    <span class="hljs-attr">"speed"</span>:<span class="hljs-number">50</span>,
+    <span class="hljs-attr">"energy"</span>:<span class="hljs-number">60</span>,
+    <span class="hljs-attr">"mugic"</span>:<span class="hljs-number">2</span>,
+    <span class="hljs-attr">"elements"</span>:<span class="hljs-string">"Fire, Earth"</span>,
+    <span class="hljs-attr">"types"</span>:<span class="hljs-string">"Hero"</span>,
+    <span class="hljs-attr">"ability"</span>:<span class="hljs-string">"{{MC}}: Heal 10 damage to target Creature."</span>,
+    <span class="hljs-attr">"flavor"</span>:<span class="hljs-string">"No OverWorlder has ever seen Maxxor’s face in battle because he is always in the frontline, leading the charge!"</span>,<span class="hljs-attr">"brainwashed"</span>:<span class="hljs-string">""</span>,
+    <span class="hljs-attr">"unique"</span>:<span class="hljs-string">"1"</span>,
+    <span class="hljs-attr">"loyal"</span>:<span class="hljs-string">"1"</span>,
+    <span class="hljs-attr">"legendary"</span>:<span class="hljs-string">""</span>,
+    <span class="hljs-attr">"artist"</span>:<span class="hljs-string">""</span>,
+    <span class="hljs-attr">"gender"</span>:<span class="hljs-string">"Male"</span>
+}
+</code></pre>
+<h3><a class="anchor" aria-hidden="true" id="getting-card-images"></a><a href="#getting-card-images" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting card images</h3>
+<p>To get card images, use endpoints that have the set and id of the card.</p>
+<p><code>http://www.chaoticga.me/DOP/15</code></p>
+<p>If you do this that <strong><a href="http://www.chaoticga.me/DOP/15">URL</a></strong>, this is what you should get.</p>
+<p><img src="http://www.chaoticga.me/DOP/15" alt="Chaotic Card"></p>
+<h2><a class="anchor" aria-hidden="true" id="chaotic-cards"></a><a href="#chaotic-cards" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Chaotic Cards</h2>
+<p>The following is how to make requests for many, or certain, cards in the database.</p>
+<h3><a class="anchor" aria-hidden="true" id="requesting-all-cards"></a><a href="#requesting-all-cards" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Requesting all cards</h3>
+<p>To get all cards in the Chaotic Trading Card Game, make a request to this endpoint</p>
+<p><code>http://www.chaoticga.me/cards</code></p>
+<p>This will return you an array with <em>all</em> cards in the game.</p>
+<h3><a class="anchor" aria-hidden="true" id="requesting-all-cards-by-a-type"></a><a href="#requesting-all-cards-by-a-type" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Requesting all cards by a type</h3>
+<p>You can even get all cards by their respective <strong><a href="/docs/docs#valid-parameters">type classifications</a></strong>.</p>
+<p><code>http://www.chaoticga.me/creatures</code></p>
+<p>This will return you an array with <em>all</em> cards in that class.</p>
+<h3><a class="anchor" aria-hidden="true" id="filtering-cards-by-set"></a><a href="#filtering-cards-by-set" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Filtering cards by set</h3>
+<p>To filter all cards by their respective sets, just ad the <strong><a href="/docs/docs#valid-parameters">set id</a></strong> to the end of the route.</p>
+<p><code>http://www.chaoticga.me/cards/DOP</code></p>
+<p>This will return you an array with <em>all</em> cards in a particular set.</p>
+<h3><a class="anchor" aria-hidden="true" id="getting-specific-card-data"></a><a href="#getting-specific-card-data" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting Specific Card Data</h3>
+<p>To get the data of a certain card, you must specify the cards <em>type</em>, <em>set</em>, and <em>id</em>.</p>
+<p><code>http:www.chaoticga.me/creatures/DOP/15</code></p>
+<p>This will return you the specific card's data.</p>
+<h2><a class="anchor" aria-hidden="true" id="valid-parameters"></a><a href="#valid-parameters" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Valid Parameters</h2>
+<p>These are all valid route parameters that are accepted by the API.</p>
+<h3><a class="anchor" aria-hidden="true" id="card-types"></a><a href="#card-types" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Card Types</h3>
+<table>
+<thead>
+<tr><th style="text-align:center">Card Type</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center"><code>/creatures</code></td></tr>
+<tr><td style="text-align:center"><code>/battlegear</code></td></tr>
+<tr><td style="text-align:center"><code>/locations</code></td></tr>
+<tr><td style="text-align:center"><code>/mugic</code></td></tr>
+<tr><td style="text-align:center"><code>/attacks</code></td></tr>
+</tbody>
+</table>
+<h3><a class="anchor" aria-hidden="true" id="card-sets"></a><a href="#card-sets" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Card Sets</h3>
+<table>
+<thead>
+<tr><th style="text-align:center">Set Name</th><th style="text-align:center">Set</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center">Alliances Unraveled</td><td style="text-align:center"><code>/AU</code></td></tr>
+<tr><td style="text-align:center">Dawn of Perim</td><td style="text-align:center"><code>/DOP</code></td></tr>
+<tr><td style="text-align:center">Forged Unity</td><td style="text-align:center"><code>/FUN</code></td></tr>
+<tr><td style="text-align:center">Marillian Invasion</td><td style="text-align:center"><code>/MI</code></td></tr>
+<tr><td style="text-align:center">Organized Play</td><td style="text-align:center"><code>/OP1</code></td></tr>
+<tr><td style="text-align:center">Rise of the Oligarch</td><td style="text-align:center"><code>/ROTO</code></td></tr>
+<tr><td style="text-align:center">Silent Sands</td><td style="text-align:center"><code>/SS</code></td></tr>
+<tr><td style="text-align:center">Turn of the Tide</td><td style="text-align:center"><code>/TOTT</code></td></tr>
+<tr><td style="text-align:center">Zenith of the Hive</td><td style="text-align:center"><code>/ZOTH</code></td></tr>
+</tbody>
+</table>
+<h2><a class="anchor" aria-hidden="true" id="models"></a><a href="#models" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Models</h2>
+<p>These are valid schemas for what you can expect to be returned for a given card's data.</p>
+<h3><a class="anchor" aria-hidden="true" id="creature"></a><a href="#creature" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Creature</h3>
+<table>
+<thead>
+<tr><th style="text-align:center">Property</th><th style="text-align:center">Type</th><th style="text-align:center">Details</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center">_id</td><td style="text-align:center">String</td><td style="text-align:center">Unique database id</td></tr>
+<tr><td style="text-align:center">Name</td><td style="text-align:center">String</td><td style="text-align:center">Name of the card</td></tr>
+<tr><td style="text-align:center">Set</td><td style="text-align:center">String</td><td style="text-align:center">The set id of the card</td></tr>
+<tr><td style="text-align:center">Rarity</td><td style="text-align:center">String</td><td style="text-align:center">The cards rarity in the game</td></tr>
+<tr><td style="text-align:center">Id</td><td style="text-align:center">Number</td><td style="text-align:center">The card's id number in its respective set</td></tr>
+<tr><td style="text-align:center">Tribe</td><td style="text-align:center">String</td><td style="text-align:center">The card's tribe in the game</td></tr>
+<tr><td style="text-align:center">Courage</td><td style="text-align:center">Number</td><td style="text-align:center">Average stat among the cards minimum and maximum potential value.</td></tr>
+<tr><td style="text-align:center">Power</td><td style="text-align:center">Number</td><td style="text-align:center">Average stat among the cards minimum and maximum potential value.</td></tr>
+<tr><td style="text-align:center">Wisdom</td><td style="text-align:center">Number</td><td style="text-align:center">Average stat among the cards minimum and maximum potential value.</td></tr>
+<tr><td style="text-align:center">Speed</td><td style="text-align:center">Number</td><td style="text-align:center">Average stat among the cards minimum and maximum potential value.</td></tr>
+<tr><td style="text-align:center">Energy</td><td style="text-align:center">Number</td><td style="text-align:center">Average stat among the cards minimum and maximum potential value.</td></tr>
+<tr><td style="text-align:center">Elements</td><td style="text-align:center">String</td><td style="text-align:center">Elements of the card that are comma seperated <br /> <code>&quot;Earth, Fire&quot;</code></td></tr>
+<tr><td style="text-align:center">Type</td><td style="text-align:center">String</td><td style="text-align:center">The card's type</td></tr>
+<tr><td style="text-align:center">Ability</td><td style="text-align:center">String</td><td style="text-align:center">Card's printed mechanical game text</td></tr>
+<tr><td style="text-align:center">Flavor</td><td style="text-align:center">String</td><td style="text-align:center">Card's flavor text printed</td></tr>
+<tr><td style="text-align:center">Unique</td><td style="text-align:center">String</td><td style="text-align:center">String with either <code>&quot;0&quot;</code> or <code>&quot;1&quot;</code>  <br /> <code>&quot;1&quot;</code> represents <code>true</code></td></tr>
+<tr><td style="text-align:center">Loyal</td><td style="text-align:center">String</td><td style="text-align:center">String with either <code>&quot;0&quot;</code> or <code>&quot;1&quot;</code>  <br /> <code>&quot;1&quot;</code> represents <code>true</code></td></tr>
+<tr><td style="text-align:center">Legendary</td><td style="text-align:center">String</td><td style="text-align:center"></td></tr>
+<tr><td style="text-align:center">Artist</td><td style="text-align:center">String</td><td style="text-align:center">The card art illustrator</td></tr>
+<tr><td style="text-align:center">Gender</td><td style="text-align:center">String</td><td style="text-align:center">The creature's gender</td></tr>
+</tbody>
+</table>
+<h3><a class="anchor" aria-hidden="true" id="location"></a><a href="#location" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Location</h3>
+<table>
+<thead>
+<tr><th style="text-align:center">Property</th><th style="text-align:center">Type</th><th style="text-align:center">Details</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center">_id</td><td style="text-align:center">String</td><td style="text-align:center">Unique database id</td></tr>
+<tr><td style="text-align:center">Name</td><td style="text-align:center">String</td><td style="text-align:center">Name of the card</td></tr>
+<tr><td style="text-align:center">Set</td><td style="text-align:center">String</td><td style="text-align:center">The set id of the card</td></tr>
+<tr><td style="text-align:center">Rarity</td><td style="text-align:center">String</td><td style="text-align:center">The cards rarity in the game</td></tr>
+<tr><td style="text-align:center">Id</td><td style="text-align:center">Number</td><td style="text-align:center">The card's id number in its respective set</td></tr>
+<tr><td style="text-align:center">Initiative</td><td style="text-align:center">String</td><td style="text-align:center">The card's printed initiative stat</td></tr>
+<tr><td style="text-align:center">Ability</td><td style="text-align:center">String</td><td style="text-align:center">Card's printed mechanical game text</td></tr>
+<tr><td style="text-align:center">Flavor</td><td style="text-align:center">String</td><td style="text-align:center">The card's printed flavor text</td></tr>
+<tr><td style="text-align:center">Unique</td><td style="text-align:center">String</td><td style="text-align:center"></td></tr>
+<tr><td style="text-align:center">Mirage</td><td style="text-align:center">String</td><td style="text-align:center"></td></tr>
+<tr><td style="text-align:center">Past</td><td style="text-align:center">String</td><td style="text-align:center"></td></tr>
+<tr><td style="text-align:center">Artist</td><td style="text-align:center">String</td><td style="text-align:center">The card art illustrator</td></tr>
+</tbody>
+</table>
+<h3><a class="anchor" aria-hidden="true" id="attack"></a><a href="#attack" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Attack</h3>
+<table>
+<thead>
+<tr><th style="text-align:center">Property</th><th style="text-align:center">Type</th><th style="text-align:center">Details</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center">_id</td><td style="text-align:center">String</td><td style="text-align:center">Unique database id</td></tr>
+<tr><td style="text-align:center">Name</td><td style="text-align:center">String</td><td style="text-align:center">Name of the card</td></tr>
+<tr><td style="text-align:center">Set</td><td style="text-align:center">String</td><td style="text-align:center">The set id of the card</td></tr>
+<tr><td style="text-align:center">Rarity</td><td style="text-align:center">String</td><td style="text-align:center">The cards rarity in the game</td></tr>
+<tr><td style="text-align:center">Id</td><td style="text-align:center">Number</td><td style="text-align:center">The card's id number in its respective set</td></tr>
+<tr><td style="text-align:center">Bp</td><td style="text-align:center">Number</td><td style="text-align:center">The card's build point value</td></tr>
+<tr><td style="text-align:center">Base</td><td style="text-align:center">Number</td><td style="text-align:center">The attack card's base damage</td></tr>
+<tr><td style="text-align:center">Fire</td><td style="text-align:center">Number</td><td style="text-align:center">The attack card's fire damage</td></tr>
+<tr><td style="text-align:center">Air</td><td style="text-align:center">Number</td><td style="text-align:center">The attack card's air damage</td></tr>
+<tr><td style="text-align:center">Earth</td><td style="text-align:center">Number</td><td style="text-align:center">The attack card's earth damage</td></tr>
+<tr><td style="text-align:center">Water</td><td style="text-align:center">Number</td><td style="text-align:center">The attack card's water damage</td></tr>
+<tr><td style="text-align:center">Ability</td><td style="text-align:center">String</td><td style="text-align:center">Card's printed mechanical game text</td></tr>
+<tr><td style="text-align:center">Flavor Text</td><td style="text-align:center">String</td><td style="text-align:center">The card's printed flavor text</td></tr>
+<tr><td style="text-align:center">Unique</td><td style="text-align:center">String</td><td style="text-align:center"></td></tr>
+<tr><td style="text-align:center">Artist</td><td style="text-align:center">String</td><td style="text-align:center">The card art illustrator</td></tr>
+</tbody>
+</table>
+<h3><a class="anchor" aria-hidden="true" id="mugic"></a><a href="#mugic" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Mugic</h3>
+<p>|Property|Type|Details|
+|:-:|:-:|:-:|`
+|_id|String|Unique database id|
+|Name|String|Name of the card|
+|Set|String|The set id of the card|
+|Rarity|String|The cards rarity in the game|
+|Id|Number|The card's id number in its respective set|
+|Tribe|String|The card's tribe in the game|</p>
+<h3><a class="anchor" aria-hidden="true" id="battlegear"></a><a href="#battlegear" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Battlegear</h3>
+<table>
+<thead>
+<tr><th style="text-align:center">Property</th><th style="text-align:center">Type</th><th style="text-align:center">Details</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center">_id</td><td style="text-align:center">String</td><td style="text-align:center">Unique database id</td></tr>
+<tr><td style="text-align:center">Name</td><td style="text-align:center">String</td><td style="text-align:center">Name of the card</td></tr>
+<tr><td style="text-align:center">Set</td><td style="text-align:center">String</td><td style="text-align:center">The set id of the card</td></tr>
+<tr><td style="text-align:center">Rarity</td><td style="text-align:center">String</td><td style="text-align:center">The cards rarity in the game</td></tr>
+<tr><td style="text-align:center">Id</td><td style="text-align:center">Number</td><td style="text-align:center">The card's id number in its respective set</td></tr>
+</tbody>
+</table>
+<h2><a class="anchor" aria-hidden="true" id="api-limits"></a><a href="#api-limits" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>API Limits</h2>
+<p><strong>The API limits all calls from original source to 100 calls every 15 minutes</strong></p>
+</span></div></article></div><div class="docs-prevnext"></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#getting-started">Getting Started</a><ul class="toc-headings"><li><a href="#making-an-api-call">Making an API Call</a></li><li><a href="#getting-card-images">Getting card images</a></li></ul></li><li><a href="#chaotic-cards">Chaotic Cards</a><ul class="toc-headings"><li><a href="#requesting-all-cards">Requesting all cards</a></li><li><a href="#requesting-all-cards-by-a-type">Requesting all cards by a type</a></li><li><a href="#filtering-cards-by-set">Filtering cards by set</a></li><li><a href="#getting-specific-card-data">Getting Specific Card Data</a></li></ul></li><li><a href="#valid-parameters">Valid Parameters</a><ul class="toc-headings"><li><a href="#card-types">Card Types</a></li><li><a href="#card-sets">Card Sets</a></li></ul></li><li><a href="#models">Models</a><ul class="toc-headings"><li><a href="#creature">Creature</a></li><li><a href="#location">Location</a></li><li><a href="#attack">Attack</a></li><li><a href="#mugic">Mugic</a></li><li><a href="#battlegear">Battlegear</a></li></ul></li><li><a href="#api-limits">API Limits</a></li></ul></nav></div><footer class="nav-footer" id="footer" style="display:none"><section class="sitemap"><a href="/chaotic-api/" class="nav-home"><img src="/chaotic-api/img/card-back.png" alt="Chaotic TCG API" width="66" height="58"/></a><div><h5>Docs</h5><a href="/chaotic-api/docs/en/doc1.html">Getting Started (or other categories)</a><a href="/chaotic-api/docs/en/doc2.html">Guides (or other categories)</a><a href="/chaotic-api/docs/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/chaotic-api/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>More</h5><a href="/chaotic-api/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://opensource.facebook.com/" target="_blank" rel="noreferrer noopener" class="fbOpenSource"><img src="/chaotic-api/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyright © 2019 Henry Unite</section></footer></div></body></html>
