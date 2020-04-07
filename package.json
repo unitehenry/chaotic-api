@@ -1,9 +1,10 @@
 {
   "name": "chaotic",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "Chaotic Trading Card Game",
   "main": "index.js",
   "scripts": {
+    "serve": "node api/index",
     "import": "node db/index"
   },
   "keywords": [
@@ -20,6 +21,7 @@
     "dotenv": "^8.2.0"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "mongoose": "^5.9.7"
   }
 }
