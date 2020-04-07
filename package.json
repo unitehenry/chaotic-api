@@ -1,0 +1,25 @@
+{
+  "name": "chaotic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "import": "node db/index"
+  },
+  "keywords": [
+    "Chaotic",
+    "Trading",
+    "Card",
+    "Game",
+    "TCG"
+  ],
+  "author": "Henry Unite <henry@unitehenry.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "mongoose": "^5.9.7"
+  }
+}

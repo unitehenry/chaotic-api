@@ -1,0 +1,227 @@
+name,set,rarity,id,initiative,ability,falvor,unique,mirage,past,artist
+Castle Bodhran,DOP,Super Rare,203,Power,"At the beginning of combat, each player may return a Mugic Card from their discard pile to their hand.","This strange stronghold is built in a style that might best be called ""bizzarechitecture.""",,,,
+Castle Pillar,DOP,Ultra Rare,204,Courage,"At the beginning of combat, if an engaged creature has higher Wisdom than the opposing engaged creature, it gains a Mugic counter.",,1,,,
+Cordac Falls,DOP,Common,205,OverWorld,"At the beginning of combat, engaged Creatures gains 5 Energy.",Cordac's teardrops plunge into the abyss with nary a splash or spray...,,,,
+Cordac Falls Plungepool,DOP,Common,206,UnderWorld,"At the beginning of combat, deal 5 damage to engaged Creatures.","...and strike the lake miles below, exploding outwards into the fray.",,,,
+Crystal Cave,DOP,Uncommon,207,Speed,"If an engaged Creature has lower Speed than the opposing engaged Creature, it deals 0 damage on its first attack.",The ancient Mugicians mined the hardest substance in all of Perim to protect their mystical melodies.,,,,
+Doors of the Deepmines,DOP,Uncommon,208,Speed,"At the beginning of combat, Creatures with Water gain 10 Energy.","In a rare sign of solidarity, all four tribes guard the massive doors, hoping they never open again.",,,,
+Dranakis Threshold,DOP,Super Rare,209,Courage,Mugic and abilities cannot be played.,The few who have survived utter nary a word of what lies beyond.,,,,
+Everrain,DOP,Uncommon,210,Courage,"Water attacks deal an additional 5 damage.
+Damage dealt by Earth attacks is reduced by 5.",Lake Ken-I-Po seeps through the UnderWorld ceiling in an unending reminder of the OverWorld's aqueous bounty.,,,,
+Eye of the Maelstrom,DOP,Uncommon,211,Power,"When Eye of the Maelstrom becomes the active Location, each player discards a Mugic Card.","No wind, no sound - just madness.",,,,
+Fear Valley,DOP,Uncommon,212,Wisdom,"At the beginning of combat, if an engaged Creature has lower Courage than the opposing engaged Creature, it loses 10 Energy.",One night here means a lifetime of nightmares.,,,,
+Forest of Life,DOP,Common,213,Wisdom,"At the beginning of combat, if an engaged creature has higher Power than the opposing engaged creature, it gains 5 Energy.",A place of perpetuity: nothing is born or perishes within.,,,,
+Gigantempopolis,DOP,Uncommon,214,Power,"At the beginning of combat, engaged OverWorld Creatures gain a Mugic counter.",The ancient beings who once dwelled here faded into oblivion - proving indisputably that size doesn’t matter.,,,,
+Glacier Plains,DOP,Super Rare,215,Power,UnderWorld Mugic Cards cost an additional Mugic counter to play.,"This frozen, remote region is as harsh and forbidding as the UnderWorld's Lava Pond.",,,,
+Gloomuck Swamp,DOP,Common,216,Courage,"Earth attacks deal an additional 5 damage.
+Damage dealt by Fire attacks is reduced by 5.",For very different reasons both Crawsectus and Antidaeon choose to call this murky mess home.,,,,
+Gothos Tower,DOP,Rare,217,Speed,"Creatures not named Lord Van Bloot have 10 less Courage.
+Lord Van Bloot has ""Invisibility: Strike 15"".",The horrific home of the harrowing Lord Van Bloot.,,,,
+Iron Pillar,DOP,Super Rare,218,Courage,Battlegear have no abilities.,The frequent quakes that rock the UnderWorld are blamed on the instability of this once-might prop.,,,,
+Kiru City,DOP,Rare,219,Wisdom,OverWorld Creatures have an additional 10 Energy.,The majestic capital of the OverWorld is named in memory of one of its greatest leaders.,,,,
+Lake Ken-I-Po,DOP,Ultra Rare,220,Power,Mugic cannot be targeted by Mugic or Abilities.,"Above the placid waters, Najarin's castle towers. A dim light flickers... and a mystery is born.",,,,
+Lava Pond,DOP,Rare,221,Speed,"Fire attacks deal an additional 5 damage.
+Damage dealt by Air attacks is reduced by 5.
+Creatures named Magmon have ""Fire 5"".",,,,,
+Mipedim Oasis,DOP,Rare,222,Courage,Mipedian Creatures deal an additional 10 damage with their first attack.,"For those struggling in the Mipedian Desert, this is a welcome sight. But it is what they can't see that will prove most dangerous.",,,,
+Mount Pillar,DOP,Rare,223,Wisdom,"When Mount Pillar becomes the active Location, activate Hive.","The Danian homeland provides vital structural support to the UnderWorld ceiling, explaining why Chaor has resisted its demolition.",,,,
+Ravanaugh Ridge,DOP,Common,224,Power,"At the beginning of combat, if a player controls an engaged Creature with Air, that player may look at the top three cards of their Attack Deck, put one of them on top of that deck and the others on the bottom in any order.",,,,,
+Riverlands,DOP,Uncommon,225,Wisdom,"When a Creature deals Water damage, Riverlands heals 5 damage to that Creature.",No one has yet to reach the source of the rushing waters. Could the Cothica be where it all begins?,,,,
+Runic Grove,DOP,Common,226,Courage,Only Generic Mugic may be played.,Secret symbols or a simple secret? Many have been tantalized by what remains indecipherable to this day.,,,,
+Stone Pillar,DOP,Super Rare,227,Wisdom,Engaged UnderWorld Creatures pay 1 less Mugic counter to play their first Mugic this turn.,"Without the Pillars there would be no Over and Under, but simply one World.",,,,
+Storm Tunnel,DOP,Common,228,Power,"Air attacks deal an additional 5 damage.
+Damage dealt by Water attacks is reduced by 5.",Even those who cannot fly do so here.,,,,
+Stronghold Morn,DOP,Super Rare,229,Speed,"At the beginning of combat, engaged Creatures gain Fire, Water, Air, and Earth.",,1,,,
+UnderWorld City,DOP,Super Rare,230,Speed,"Attacks played by Underworld creatures have ""Challenge Power 15: Deal 5 damage.""","Not known for his creativity, Chaor nevertheless won the capital-naming contest for which he was also the judge.",,,,
+UnderWorld Colosseum,DOP,Rare,231,Speed,Creatures with Fire deal an additional 10 damage on their first attack.,UnderWorlders have a simple way of settling arguments here: the one left standing is always right.,,,,
+Wooden Pillar,DOP,Super Rare,232,Wisdom,OverWorld Mugic Cards cost an additional Mugic counter to play.,"The Runic Grove takes root here, and UnderWorlders believe it grows even further down than up.",,,,
+Carnival of Confusion,ZOTH,Ultra Rare,92,Speed,"When Carnival of Confusion becomes the active Location, Creatures lose all Elemental Types. If a Creature lost Fire this way, it gains Water. If a Creature lost Water, it gains Air. If a Creature lost Air, it gain Earth. If a Creature lost Earth, it gains Fire.
+Elemental attacks deal an additional 5 damage.",,,,,
+Grand Hall of Muge's Summit,ZOTH,Super Rare,94,Power,"When a Mugic counter is removed from a Creature, Grand Hall of Muge's Summit deals 10 damage to the engaged Creature controlled by the same player.",Muges rarely feel comfortable sharing their secrets.,,,,
+Mount Pillar Reservoir,ZOTH,Common,95,Water,"Creatures have ""Fireproof 10.""
+Danian Creatures have ""Water 5.""",All Danians know that the Reservoir is the well-spring of life. It must be defended to the death.,,,,
+Oipont's Lookout,ZOTH,Rare,96,Courage,"Creatures with Air have Earth.
+While Hive is Active, Danians have Air and Earth.","From high above, Danians can see deep into the heart of the UnderWorld, including invading armies days in advance.",,,,
+Overworld Embassy at Mount Pillar,ZOTH,Uncommon,97,Wisdom,"When Overworld Embassy at Mount Pillar becomes the active Location, Uninfect all Creatures.","Though adorned with oah and jij plants from his village, one look outside his window reminds Raznus that he's far from home.",,,,
+Queen's Gate,ZOTH,Common,98,Speed,"At the beginning of combat, Creatures engaged with Scouts lose and cannot gain Invisibility.","""Did you hear something moving? Did you see something moving? I think I just touched something moving...""",,,,
+Sands of the Unseen,ZOTH,Uncommon,99,Courage,"Creatures with Air have ""Invisibility: Strike 10.""","Danians seek the answers to Mipedian invisibility, but they realize too late that some secrets should remain mysteries.",,,,
+Sha-Kree Flats,ZOTH,Super Rare,100,Mipedian,"At the beginning of combat, engaged Elementalists gain an Elemental type of their controller's choice.","Flat, dry, inhospitable. Perfect!",,,,
+The Barracks,ZOTH,Rare,91,Power,"At the end of combat, if a Warrior you control was engaged this turn, you may move that Creature to an unoccupied adjacent space.",Rest well tonight. Another harsh day awaits.,,,,
+The Darkened Dunes,ZOTH,Super Rare,93,Air,"Creatures with Earth have ""Range"" and ""Swift 1.""","The dark whirlwind descends, enveloping you in its black, velvet grip... and never lets go.",,,,
+Catacombs of the Conjurors,SS,Rare,91,Warbeast,"Reduce Recklessness damage dealt to Warbeasts by 5.
+Conjurors have ""Recklessness 5.""","Shunned by even the most tolerant of Mipedians, Conjurors continue to push the boundaries of Mugic.",,,,
+"Forest of Life, During Aichlyys",SS,Uncommon,92,Power,Creatures do not have Invisibility and cannot gain it.,"On those rare nights when the triad stars of Lup, Lec, and Teo shine above the forest, all secrets are brought to light.",,,,
+Indigo Grove,SS,Super Rare,94,Power,"When Indigo Grove becomes the active Location, you may sacrifice a non‐Conjuror Creature you control. If you do, return a Conjuror in your discard pile to play in any open space.",,,,,
+Iparu Jungle,SS,Ultra Rare,95,Wisdom,"When this becomes the active Location, flip a coin. If tails, shuffle Iparu Jungle into its owner's Location Deck.
+Mirage: At the beginning of combat, each engaged Creature in this space gains or loses Energy so its Energy is equal to its Scanned Energy.",,,1,,
+Mipedian Dew Farm,SS,Common,96,Courage,"Scouts have Water.
+Engaged Creatures with Water have ""{{MC}}: Heal 10 damage to target Creature.""","Under the sun, one drop is the difference between life and death.",,,,
+Mipedim Lounge,SS,Super Rare,97,Invisiblity,"Mirage: When an Attack Card is played by a Creature in this space, its controller may flip a coin. If tails, that player sacrifices his engaged Creature. If heads, the attack deals an additional 10 damage, and that player may flip again.",,,1,,
+Mipedim Mirage,SS,Rare,98,Danian,"Creatures have ""Swift 1.""
+Mirage: If an adjacent Creature can move into this space, it must do so.","No one believed what the Muges saw, except for Tiaane.",,1,,
+OverWorld Embassy at Mipedim,SS,Common,99,Wisdom,"When this becomes the active Location, shuffle any Mirage Locations in play into their owners' Location Decks. 
+Mipedians have Water.",Its outward tranquility masks the tumult within.,,,,
+"Rao'Pa Sahkk, The Ocean with No Water",SS,Common,100,Fire,"Air and Earth attacks deal an additional 5 damage.
+When a Water attack is played, that attack's controller turns the top card of their Location Deck face-up. It becomes the active Location.
+Mirage: At the end of combat, engaged Creatures in this space gain a Mugic counter.",,,1,,
+The Hunter's Perimeter,SS,Uncommon,93,Speed,"When The Hunter's Perimeter becomes the active Location, Mipedians gain ""Invisibility: Surprise.""
+At the beginning of combat, reveal a new active Location.
+Mirage: Creatures in this space cannot lose Invisibility. Invisibility abilities of Creatures in this space work against Creatures with Invisibility.",,,1,,
+Bodal's Arsenal,MI,Ultra Rare,195,Wisdom,"When this becomes the active Location, each player may return a Battlegear from their discard pile to play equipped to an unequipped Creature that player controls.",,,,,
+Brawlers' Burrow,MI,Common,196,Speed,"When this becomes the active Location, both players shuffle their Attack Decks and Attack Discard piles together.
+All Creatures have ""Outperform all Disciplines 5.""",,,,,
+Broken Edge,MI,Uncommon,197,Air,"Engaged Creatures have ""Outperform Speed 5.""
+Damage dealt by Wisdom Attacks is reduced by 5.",Nature wages its own war between the forest and the desert.,,,,
+Chamber of Waves,MI,Common,198,Wisdom,Creatures have 10 less in all Disciplines.,"As corrupted water flows through the pipes of the gigantic acoustic organ, a sound resonates that is both eerie, beautiful and inexplicably dangerous.",,,,
+Deadrange Gong,MI,Super Rare,199,Fire,"Chieftains have an additional 15 in all Disciplines and ""Water 5.""","Reverberating throughout the deep, M'arrillians can also receive commands by sensing vibrations in the water.",,,,
+Gambreor's Hut,MI,Super Rare,200,Power,"Creatures you control have ""Fireproof 5.""
+If a Mugic or ability would decrease a Creature's Discipline, that Mugic or ability decreases the Discipline by 10 less instead.",,1,,,
+Gloom-mire Night,MI,Common,201,Mipedian,Creatures cannot be relocated by Mugic or abilities.,"As Bodal sank into the murky swamp, he calculated that he had 45.7 seconds until he would be gargling black ooze.",,,,
+Hall of Fatigue,MI,Common,202,Speed,"Engaged Creatures have ""Exhaust Power 5"" and ""Exhaust Speed 5.""","When the body has nothing left to give, only the strong-willed fight on.",,,,
+Ijahni Outpost,MI,Super Rare,205,Air,"Your Creatures have 10 less Energy. 
+Mirage: Creatures may not move off this space unless their controller pays a Mugic counter from any Creature they control.",,,1,,
+Illusionary Lake,MI,Super Rare,206,Water,"Engaged Creatures do not have Water and cannot gain it.
+Mirage: Creatures in this space do not have Water and cannot gain it.",,,1,,
+Imaginary Walls,MI,Rare,207,Danian,"When this becomes the active Location, your opponent may return a Mugic Card in their discard pile to their hand.
+Attacks deal 10 less damage to M'arrillian and Minion Creatures.",,1,,,
+Jade Pillar,MI,Ultra Rare,209,Power,"When Jade Pillar becomes the active Location, put 10 Jade counters on it.
+Remove a Jade counter from Jade Pillar for every 5 attack damage dealt this turn.
+When the last counter is removed, Jade Pillar deals 50 damage to the Creature that played the last attack.",,,,,
+"Lava Pond, Milla'iin's Foothold",MI,Rare,210,Power,"When this becomes the active Location, each player reveals a random Mugic Card from their hand.
+Cards with the same name as the revealed cards may not be played.
+M'arrillian and Minion Creatures take 5 less damage from Mugic and abilities.",,,,,
+Mommark's Catapult Tower,MI,Common,211,Speed,"When this becomes the active Location, Creatures you control gain ""Swift 1.""",,,,,
+"Mount Pillar Reservoir, Neth'uar's Foothold",MI,Rare,212,Courage,"When this becomes the active Location, each player may return a Chieftain from their discard pile to play in an unoccupied space on their side of the Battleboard. 
+M'arrillian and Minion Creatures have ""Water 5.""",,,,,
+Open Doors of the Deepmines,MI,Super Rare,213,Minion,Creatures play their abilities as if each Creature's controller also controlled a Chieftain.,"""Prepare yourselves! This is the nightmare I foretold!"" 
+—Najarin",1,,,
+Psikoom Madness Chamber,MI,Common,216,Courage,"Engaged Creatures have ""Exhaust  Courage 5"" and ""Exhaust Wisdom 5.""",The lucky ones go insane.,,,,
+"Rao'Pa Sahkk, Ihun'kalin's Foothold",MI,Rare,217,Speed,"When this becomes the active Location, each player sacrifices a Battlegear.
+When a M'arrillian or Minion Creature wins a Challenge on an Attack it plays, that Creature gains 5 Energy.",,,,,
+"Riverlands, Erak'tabb's Foothold",MI,Rare,218,Wisdom,"When this becomes the active Location, each player removes a Mugic counter from a Creature they control.
+Attacks deal 5 less damage to M'arrillian and Minion Creatures.",,,,,
+Stormgrounds,MI,Uncommon,219,Courage,Minion Creatures' activated abilities cost an additional Mugic counter to play.,The lightning storm has raged for hundreds of years... and will continue to do so long after every creature is gone.,,,,
+The Heart of the Jungle,MI,Super Rare,203,OverWorld,"If a Mugic or ability would increase or decrease the Disciplines of one engaged Creature, it increases or decreases the Disciplines of both engaged Creatures instead.
+Mirage: Creatures in this space have an additional 10 to all Disciplines.",,1,1,,
+The Hive Gallery,MI,Uncommon,204,Earth,"Engaged Creatures have ""Outperform Courage 5."" 
+Damage dealt by Power Attacks is reduced by 5.","As long as we never forget the fallen, they will live forever.",,,,
+The Infectorium,MI,Rare,208,Courage,"At the beginning of combat, deal 15 damage to Infected engaged non-Danian Creatures.","As the breeding ground of millions of parasites, Danians can infect every creature in Perim a hundred times over.",,,,
+The OverWorld Library,MI,Uncommon,214,Water,"Engaged Creatures have ""Outperform Wisdom 5.""
+Damage dealt by Courage Attacks is reduced by 5.","From cookbooks to Cothica clues, every book written is within.",,,,
+The Pits,MI,Uncommon,215,Fire,"Engaged Creatures have ""Outperform Power 5.""
+Damage dealt by Speed Attacks is reduced by 5.",The UnderWorlders are fair - all are guilty until proven innocent.,,,,
+Ulmar's Projection Cavern,MI,Super Rare,220,Water,"When Ulmar's Projection Cavern becomes the active Location, your opponent reveals a new active Location.
+Mirage: At the beginning of each player's turn, if this space is unoccupied, that player may relocate one of their Creatures to this space.",,1,1,,
+Van Bloot's Banquet,MI,Super Rare,221,UnderWorld,"M'arrillian and Minion Creatures have an additional 5 Energy.
+When your engaged Creature loses Initiative, it gains 20 to all Disciplines.","A toast to my new friends! Together, we'll overthrow Chaor!",,,,
+Vidav's Refectorium,MI,Uncommon,222,Wisdom,"When this becomes the active Location, each player draws two Attack Cards, then discards two Attack Cards.","Though Vidav wants peace, his battle tactics are undeniably the best.",,,,
+Frozen Fire,ROTO,Uncommon,91,Wisdom,"When a Creature gains or loses a Mugic counter, Frozen Fire deals 5 damage to it.",The ocean of flames chills as it burns.,,,,
+Kiru City Tunnels,ROTO,Uncommon,92,Muge,"Creatures with 35 or more Scanned Energy deal 10 less attack damage.
+When any player shuffles their Attack Deck, that player reveals a new active Location.",,,,,
+Psi-fanger's Shelf,ROTO,Super Rare,93,Power,"When an Attack Card would be placed in an Attack Discard pile, instead place it on the bottom of its owner's Attack Deck.
+When a player would draw an Attack Card, instead they return an Attack Card in their Attack Discard pile to their hand.
+If any Attack Discard pile is empty, reveal a new active Location.",,,,,
+Royal Mipedian Academy of Melee Arts,ROTO,Rare,94,Speed,"Non‐attack damage is reduced to 0. 
+Mirage: Creatures in this space may not be the target of Mugic.","Trust not blades, for they break. Trust not shields, for they shatter. Trust only yourself, who can neither break nor shatter.",,1,,
+Siril'ean's Lair,ROTO,Rare,95,Courage,"At the beginning of combat, if a player has fewer Mugic Cards in hand than the number of Creatures they control, that player discards a Mugic Card.",,,,,
+Skeletal Springs,ROTO,Uncommon,96,OverWorld,"Creatures with Water have ""Water 5."" 
+Fluidmorphers cannot gain Mugic counters or use Mugic counters to pay for Mugic or abilities.",,,,,
+The Coralsmithy,ROTO,Rare,97,Fire,"When a Creature plays an attack that has both Fire and Water, its controller may swap that Creature's Battlegear with any Battlegear in its controller's discard pile.",,,,,
+The Oligarch's Path,ROTO,Common,98,Chieftain,"Chieftains have an additional 10 Energy.
+Calling of Aa'une costs 4 less Mugic counters to play.",Najarin's visions were getting more disturbing. How could the worst be still to come?!?,,,,
+The Rao'Pa Sahkk Chimegrid,ROTO,Common,99,Mugic counters,"When The Rao'Pa Sahkk Chimegrid becomes the active Location, each player places a Mugic counter on a Creature they control.",The sound reverberated far and wide - the Song of Doom!,,,,
+The Training Grounds,ROTO,Ultra Rare,100,Mugic ability,"At the beginning of combat, The Training Grounds deals 5 damage to each engaged Creature for each Mugic counter on that Creature.
+When a Creature wins combat, that Creature gains Mugic counters equal to its Mugic Ability.",,,,,
+"Brawlers' Burrow, Pugilist's Pit",TOTT,Common,91,Power,"Engaged Creatures have ""Disarm.""","Unfortunately for Solvis, eye gouging is still legal.",,,,
+Foothold Assault Trench,TOTT,Super Rare,92,Wisdom,"While all Creatures a player controls share a Tribe, that player's engaged Creature deals an additional 5 attack damage.",,1,,,
+"Glacier Plains, M'arrillian Melting Camp",TOTT,Super Rare,93,Fluidmopher,"At the beginning of combat, each player may sacrifice two Mugic counters. If a player does not, their engaged Creature loses 50 in each Discipline.",,,,,
+Lore's Chamber of Recall,TOTT,Rare,94,Power,"When this becomes the active Location, remove all cards in general discard piles from the game.
+Mirage: At the beginning of combat, engaged Creatures in this space with 30 or less Scanned Energy gain 30 Energy.",,,1,,
+Pouril Forest,TOTT,Rare,95,Courage,Creatures do not have and cannot gain Defender.,The most peaceful place in Perim... until Yokkis shows up and slaps a pie in your face!,,,,
+Prototype Demolition Field,TOTT,Super Rare,96,Speed,"If a Creature deals 20 or more damage with its first attack, destroy that Creature's Battlegear.",Finish first? I'm more worried about finishing in one piece!,,,,
+Shardcrafter's Workshop,TOTT,Rare,97,Wisdom,"Shards have ""Equipped Creature deals an additional 5 attack damage.""
+Battlegear may not be flipped face‐down.",Kha'rall are nearly unstoppable. The shards guarantee that they are.,,,,
+The Phalanx Portcullis,TOTT,Uncommon,98,Scanned energy,"Creatures with less than 50 Courage deal 5 less attack damage.
+Creatures with more than 100 Courage deal an additional 5 attack damage.",,,,,
+"The Storm Tunnel, Flooding",TOTT,Common,99,Speed,"Engaged Creatures have ""Water 5.""
+Engaged Creatures with Air have an additional 10 Energy.","The air drowns, the sky cries, the winds cease, the hope dies.",,,,
+"UnderWorld City, During Van Bloot's Ascent",TOTT,Uncommon,100,Courage,"Creatures not named Lord Van Bloot have 10 less Courage.
+Attack Cards played by Minions have ""Challenge Courage 15: Deal 5 damage.""",,,,,
+"Carnival of Confusion, Mind Games",FUN,Rare,89,Speed,"When a player would draw and play an Attack Card, instead they reveal and play the top card of their Attack Deck.","If I say I'm lying, am I telling the truth?",,,,
+Cryomorph Barricades,FUN,Uncommon,90,Power,"Creatures with Defender deal an additional 5 attack damage. 
+Mirage: Creatures in this space have ""Defender.""",Even Intress was flabbergasted that the Fluidmorphers built the wall in a day.,,1,,
+"Glacier Plains, M'arrillian Heat Cannon",FUN,Ultra Rare,91,Mugic counters,Sacrifice 50 Mugic counters: Win the game. Any player may play this ability.,"""If the ice melts, Perim will die. We must stop it... no matter what the sacrifice."" 
+—Tangath Toborn",,,,
+Gorram's Briefing,FUN,Common,92,Courage,"At the beginning of combat, each player's engaged Creature gains 5 Energy and 5 to all Disciplines for each Tribe that player controls.",The beginning of the end begins.,,,,
+Lake Blakeer,FUN,Super Rare,93,Wisdom,"At the beginning of combat, engaged M'arrillians lose 10 Energy. Engaged M'arillians named Aa'une gain 20 Energy instead.",The legend forged here will last for generations.,,,,
+"Lake Morn, Globe Storm",FUN,Common,94,Air,"When Lake Morn becomes the active Location, flip a coin. If heads, Creatures with Water take an additional 5 attack damage. If tails, Creatures with Water take 5 less attack damage.",,,,,
+M'arrillian Pulse Beacons,FUN,Common,95,Power,"When M'arrillian Pulse Beacons becomes the active Location, flip all face-up Battlegear face-down.",The M'arrillians need not be present to make their presence felt.,1,,,
+Numin Voidland,FUN,Uncommon,96,Scanned energy,"At the beginning of combat, engaged Creatures lose all Elemental Types and gain 10 Energy for each Elemental Type lost this way.","Nothing survives here, not even the M'arrillians themselves!",,,,
+Pyrogenousist's Hearth,FUN,Common,97,Fire,"At the beginning of combat, deal 10 damage to each engaged Creature with no Mugic counters.",,,,,
+Quarters of the Quartet,FUN,Super Rare,98,Mugic counters,"While a player controls exactly four Tribes, that player's Creatures have ""Untargetable by opponents.""","Four minds, one heart, Perim forever.",,,,
+"The Northrange, Highground",FUN,Rare,99,Courage,"When The Northrange becomes the active Location, choose a Tribe. All Creatures also count as that Tribe.
+Mirage: Creatures in this space count as all Tribes.",,,1,,
+"The Storm Tunnel, Ki'bro's Foothold",FUN,Common,100,Water,"All attacks also count as Water attacks.
+Damage dealt by Air attacks is reduced by 5.",Fighting the war on many fronts stretches even the M'arrillians to their limits.,,,,
+AZAIA Mindscrying Chamber,AU,Super Rare,189,M'arrillian,"When AZAIA Mindscrying Chamber is revealed, Creatures lose all Elemental Types.",Your most private secrets may be locked in the deepest recesses of your mind... but we hold the key.,1,,,
+Brawlers' Burrow,AU,Common,196,Speed,"When this becomes the active Location, both players shuffle their Attack Decks and Attack Discard piles together.
+All Creatures have ""Outperform all Disciplines 5.""",,,,,
+Broken Edge,AU,Uncommon,197,Air,"Engaged Creatures have ""Outperform Speed 5.""
+Damage dealt by Wisdom Attacks is reduced by 5.",Nature wages its own war between the forest and the desert.,,,,
+Castle Mommark,AU,Super Rare,190,Fire,"When Castle Mommark becomes the active Location, each player may sacrifice a Creature they control. If they do, they may return another Creature from their general discard pile to any unoccupied space on their side of the Battleboard.",,,,,
+Castle Rathwaq,AU,Common,191,Earth,The engaged Creature with the lowest Power deals 5 less damage with attacks.,"Grotesquely beautiful, the design is as twisted as its inhabitants.",,,,
+"City of Kehn-sep, Tablet Dig Site",AU,Rare,192,Mipedian,"At the beginning of combat, each player reveals the top 2 cards of their Attack Deck. Any player who reveals 3 or more total Build Cost in attacks puts 2 Mugic counters on their engaged Creature. Put the revealed cards on the bottom of the Attack Deck in any order.",,,,,
+"Dranakis Threshold, Portal to the Past",AU,Super Rare,193,Speed,"All Creatures are considered Past Creatures.
+Creatures have no Tribes.","The past, present and future all converge here.",,,1,
+Elmantiir,AU,Common,194,Elementalist,"At the beginning of combat, engaged Creatures gain 5 Energy for each Elemental Type they have.","As the Elmantiir manifested, Intress knew that she would win - the Emperors of the Elements had bestowed their might upon her.",,,,
+"Gigantempopolis, Chamber of the Oraklon",AU,Rare,195,Water,"Battlegear has ""Untargetable.""","Since the Oraklon allows one to peer into distant lands, it is no wonder the giants guarded it so closely... or that Vlar wanted it so badly!",,,1,
+Graalorn Forest,AU,Rare,196,Wisdom,"When a Creature plays an Elemental attack, heal 5 damage to that Creature.","The heart of the forest exhales, breathing life into those injured.",,,1,
+Herken's Feast,AU,Rare,197,Wisdom,The first attack each Creature plays this combat is reduced by 20 damage.,"The sumptuous meal would have thrilled royalty, but the guests had more important matters to digest.",,,,
+"Kaizeph, City of the Elements",AU,Super Rare,198,Number of Elements,Creatures take 5 less damage from attacks they share an Elemental Type with.,"Unlike all else, the Citadel is the foundation of everything.",,,,
+Kiru Village,AU,Rare,199,Air,Past Creatures have an additional 10 Energy.,"""Yes, Chaor's ancestor was one of the greatest OverWorlders of all time. I'm proud he was my friend, despite what he ultimately became."" 
+—Najarin",,,1,
+"Lake Ken-I-Po, Ritual Site",AU,Rare,200,Number of Elements,Creatures cannot gain or lose Elemental Types. ,"As the towers emerged, all wondered what more lay bellow the surface.",,,,
+Mipedim Tropics,AU,Rare,201,Courage,"Mipedians have Water and ""Water 5.""","Though widely dismissed as anomalies, the first minuscule desert patches were signs that paradise was not forever.",,,1,
+Mipedim Valley,AU,Rare,202,Water,Battlegear equipped to Creatures without Air is not flipped face-up at the start of combat.,Some Mipedians yearn for a home from the unforgiving desert. And they may have just found it.,,,,
+"Mount Pillar Reservoir, Liberated",AU,Rare,203,Danian,"When Mount Pillar Reservoir becomes the active Location, each player Infects an Uninfected Creature he or she controls.",The Danians' lifeblood is also the root of the Mipedians' hatred.,,,,
+Najarin's Castle,AU,Super Rare,204,Mugic Counters,"When Najarin's Castle becomes the active Location, each player may discard a Mugic Card. If they do, they may return a Mugic Card from their general discard pile to their hand.",,,,,
+Prexxor Chasm,AU,Super Rare,205,Past,"At the beginning of the turn, choose a Creature your opponent controls and they choose a Creature you control. Relocate your Creature into the opposing Creature's space and begin combat. This does not count toward your one combat per turn.",,,,1,
+"Prexxor Chasm, The Blight",AU,Ultra Rare,206,Power,"Non-Caretakers cannot be healed or gain Energy.
+Mirage: Creatures in this space have 20 less Energy.","Forever insatiable, The Blight consumes all.",,1,1,
+"Rao'Pa Sahkk, Condensation Ceremony",AU,Super Rare,207,Earth,Creatures without Water cannot spend Mugic counters to play Mugic or abilities.,"Fluidmorphers can manipulate all water, from vast oceans to individual droplets of vapor.",,,,
+"Riverlands, Abandoned Wastes",AU,Common,208,Fewest Elements,"When Riverlands becomes the active Location, each player shuffles their attack hand into their Attack Deck and draws two Attack Cards.",,,,,
+Rock River Canyon,AU,Super Rare,209,Courage,Creatures with Earth have an additional 10 Energy.,A metaphor for patience: just one tiny stream carved the land into a canyon over the course of a thousand generations.,,,,
+Star Towers of Kehn-sep,AU,Common,210,Air,"At the beginning of combat, the controller of the engaged Creature with the highest Wisdom may remove a Mugic counter from a Creature they control. If they do, they may put a Mugic counter on a Creature they control.",,,,,
+Tablet Sanctuary,AU,Common,211,Speed,"At the beginning of combat, the engaged Creature with the most Elemental Types gains a Mugic counter.","Though the tablet answered many long-debated questions, not every creature liked the answers.",,,,
+The Cliffs,AU,Rare,212,Power,"At the beginning of combat, all Creatures gain Earth.","No matter how hard they tried, the Danians could not win the staring contest.",,,,
+The Garden,AU,Rare,213,Speed,"At the beginning of combat, all Creatures gain Water.",Water is life.,,,,
+The Golden Heptagon,AU,Super Rare,214,Power,Creatures can play Mugic of any Tribe or affiliation.,"At the base of the Citadel, a golden room offers its visitors a taste of an elusive dream...",,,,
+The Hive Gallery,AU,Uncommon,204,Earth,"Engaged Creatures have ""Outperform Courage 5."" 
+Damage dealt by Power Attacks is reduced by 5.","As long as we never forget the fallen, they will live forever.",,,,
+The Magma Dam,AU,Super Rare,215,Air,"Creatures without Fire have ""Recklessness 5.""","""It only needs to hold until Chaor's hordes have amassed!"" 
+—Khybon",,,,
+The OverWorld Library,AU,Uncommon,214,Water,"Engaged Creatures have ""Outperform Wisdom 5.""
+Damage dealt by Courage Attacks is reduced by 5.","From cookbooks to Cothica clues, every book written is within.",,,,
+"The Passage, OverWorld",AU,Rare,216,OverWorld,"The first time a Creature gains an Elemental Type this turn, it gains 10 Energy.","From the warm rays of the inviting sun, the stairs spiral into chilling darkness...",,,,
+"The Passage, UnderWorld",AU,Rare,217,UnderWorld,"The first time a Creature loses an Elemental Type this turn, it loses 10 Energy.","...plunging into the void until a faint glow illuminates from bellow, a light not so inviting.",,,,
+The Phlogiston,AU,Rare,218,Courage,"At the beginning of combat, all Creatures gain Fire.","The land melts, boils and erupts, creating an ever-shifting landscape.",,,,
+The Pits,AU,Uncommon,215,Fire,"Engaged Creatures have ""Outperform Power 5.""
+Damage dealt by Speed Attacks is reduced by 5.",The UnderWorlders are fair - all are guilty until proven innocent.,,,,
+"The Storm Tunnel, Lingering Monsoon",AU,Common,219,Water,The engaged Creature with the lowest Speed plays attacks at random.,The scars of war remain long after the battle is over.,,,,
+The Storms,AU,Rare,220,Wisdom,"At the beginning of combat, all Creatures gain Air.","""Someone must have carved these statues. So where are they?"" 
+—Tiaane",,,,
+The Swartbron,AU,Common,221,Fire,The engaged Creature with the lowest Courage fails all Checks on attacks it plays.,Night flows like a river here.,,,,
+Vidav's Refectorium,AU,Uncommon,222,Wisdom,"When this becomes the active Location, each player draws two Attack Cards, then discards two Attack Cards.","Though Vidav wants peace, his battle tactics are undeniably the best.",,,,
+Silchaw's Mine,FAS,Rare,10,Courage,Attacks that would deal more than 20 damage to Creatures with Earth deal 20 damage instead.,"Since Aszil opened the Tremor Gate, the very bedrock of Silchaw's mine has gone mad!",,,,
+The Flame Gate,FAS,Common,12,Fire,All attacks count as Fire attacks.,"""Maybe we should look for another way in."" 
+—Mezzmarr",,,,
+"Carnival of Confusion, The Entangled Throne",OP1,Promo,82,Speed,"When an attack is played, flip a coin. If heads, that attack deals double damage. If tails, that attack deals 0 damage.",Here your fate rests with your fortune.,,,,
+Castle PIllar,OP1,Ultra Rare,18,Courage,"At the beginning of combat, if an engaged creature has higher Wisdom than the opposing engaged creature, it gains a Mugic counter","It's rumored that the most vicious creature in Perim is imprisoned here, but only Chaor truly knows.",1,,,
+Fear Valley,OP1,Uncommon,19,Wisdom,"At the beginning of combat, if an engaged Creature has lower Courage than the opposing engaged Creature, it loses 10 Energy.","No matter how far you run, you can never escape a nightmare.",,,,
+Kiru City,OP1,Rare,20,Wisdom,OverWorld Creatures have an additional 10 Energy.,"""We will rebuild our home on the ruins of Old Kiru. The UnderWorlders may have destroyed our city, but they can never destroy our spirit!"" 
+—Maxxor",,,,
+Annex of the Arcane,LR,Common,19,Wisdom,"At the beginning of combat, flip a coin. If heads, your engaged Creature gains a Mugic counter. If tails, the opposing engaged Creature gains a Mugic counter.
+Creatures with one or more Mugic counters have an additional 10 Energy.",,,,,
+Khybon's Scrapyard,LR,Uncommon,20,Power,"When a Battlegear is put into a discard pile, put a Scrap counter on Khybon's Scrapyard. Then, if it has 3 or more Scrap counters, return up to 1 Battlegear from your discard pile to play equipped to an unequipped Creature you control and your opponent reveals a new active Location.",,,,,
+"The Storm Tunnel, Flooding",SAS,Unavailable,0,Licence,,"The air drowns, the sky cries, the winds cease, the hope dies.",,,,
+Glacier Plains,LR,Super Rare,0,Power,UnderWorld Mugic Costs 1 additional Mugic Counter to play.,"This frozen, remote region is home to Blügon and other frosty Creatures.",,,,

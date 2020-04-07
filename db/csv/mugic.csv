@@ -1,0 +1,255 @@
+name,set,rarity,id,tribe,cost,ability,flavor,unique,past,artist
+Canon of Casualty,DOP,Uncommon,183,UnderWorld,1,Deal 20 damage to target Creature.,"Even before the first three notes finish playing, OverWorlders scramble for the nearest shelter.",,,
+Cascade Symphony,DOP,Rare,175,OverWorld,1,Target creature takes 5 less damage from Air or Fire attacks.,"""There is but one true language, and that is Mugic. All else is gibberish."" - Donmar",,,
+Chorus of the Hive,DOP,Common,191,Danian,1,Activate Hive.,What repels some attracts others. Is preference learned or ingrained?,,,
+Decrescendo,DOP,Common,165,Generic,1,Deal 5 damage to target Creature.,Minimalism to the max.,,,
+Discord of Disarming,DOP,Uncommon,184,UnderWorld,1,Destroy target Battlegear.,"As his Windstrider decomposes into shrapnel, Bodal calculates that it will take 56.4 seconds before he splats on the ground.",,,
+Ember Flourish,DOP,Uncommon,166,Generic,1,Heal 15 damage to target Creature with Air or Fire.,"No matter how many you carry with you, a song can never weigh you down.",,,
+Fanfare of the Vanishing,DOP,Rare,197,Mipedian,1,"Target Creature gains ""Invisibility: Strike 15"".","When a melody becomes memory, it will never disappear.",,,
+Fortissimo,DOP,Super Rare,167,Generic,1,"Target Creature gains 5 Courage, Power, Wisdom, Speed, and Energy.","Large is good. Larger is better. But really, really big is sometimes best.",,,
+Geo Flourish,DOP,Uncommon,168,Generic,1,Heal 15 damage to target Creature with Earth or Water.,Protect the land and the land will protect you.,,,
+Hymn of the Elements,DOP,Common,176,OverWorld,1,Target Creature gains an Elemental Type of your choice.,All elements stem from nature—as does the Cothica itself.,,,
+Interlude of Consequence,DOP,Super Rare,169,Generic,1,Shuffle target player's Attack Deck or Location Deck.,"In desperate situations, turmoil and confusion can be one's allies.",,,
+Melody of Malady,DOP,Super Rare,185,UnderWorld,1,Target engaged Creature gains 10 Energy. Deal 5 damage to another target engaged Creature.,"""A little bit more for me, a little bit less for you. Perfect!""
+—Zalvar",,,
+Melody of Mirage,DOP,Rare,198,Mipedian,1,Target attack deals 0 damage.,"Trust your ears, not your eyes.",,,
+Minor Flourish,DOP,Common,170,Generic,1,Heal 10 damage to target Creature.,"""Anyone can imitate a melody, but to hear it in one's head for the very first time... that is a gift."" 
+—Najarin",,,
+Mugic Reprise,DOP,Ultra Rare,177,OverWorld,2,Return target Mugic Card from your discard pile to your hand.,Everything that was once lost will be found again.,,,
+Notes of Neverwhere,DOP,Common,199,Mipedian,1,The active Location loses all abilities.,"""If you have all that you need, you are always home."" 
+—From an ancient Mugician text",,,
+OverWorld Aria,DOP,Super Rare,178,OverWorld,1,Heal 10 damage to target OverWorld Creature. Damage dealt by Fire attacks to that Creature is reduced by 5.,Mugicians choose host Creatures along tribe affiliations.,,,
+Refrain of Denial,DOP,Super Rare,179,OverWorld,2,Negate target Mugic.,Cacophony signaled the beginning of the end of peace for the Mugicians.,,,
+"Refrain of Denial, (OverWorld)",DOP,Super Rare,186,UnderWorld,1,Negate target Generic or OverWorld Mugic.,"""No such thing as Mugicians! Now fight!"" 
+—Dardemus",,,
+"Refrain of Denial, (OverWorld/UnderWorld)",DOP,Uncommon,192,Danian,1,Negate target OverWorld or UnderWorld Mugic.,"""The secret to using Mugic is to not try to solve its mysteries."" 
+—Lore",,,
+Song of Asperity,DOP,Rare,187,UnderWorld,1,"Target Creature gains ""Fire 5"" and ""Air 5"".","When anger is all-consuming, hatred is the gateway to a hideous power.",,,
+Song of Deflection,DOP,Ultra Rare,200,Mipedian,3,Change the target of target Mugic or ability with a single target.,Beauty is in the ears of the beholder - even discordant notes sound harmonious in dire situations.,,,
+Song of EmberNova,DOP,Rare,171,Generic,1,Deal 10 damage to target Creature with Air or Fire.,"Fire consumes air, suffocating the earth.",,,
+Song of Focus,DOP,Uncommon,180,OverWorld,1,"Target Creature gains 10 Courage, Power, Wisdom, and Speed.",,,,
+Song of Fury,DOP,Rare,188,UnderWorld,1,"Deal 10 damage to target Creature. Another target Creature gains ""Fire 5"".","""My legs or my Mugician? There is no choice. Cut them off!"" 
+—Miklon",,,
+Song of Futuresight,DOP,Common,172,Generic,1,Look at the top two cards of target player's Attack Deck or Location Deck. Put one of them on top of that deck and the other on the bottom.,Take care when peering into the future. Sometimes it is best to not know what comes.,,,
+Song of GeoNova,DOP,Rare,173,Generic,1,Deal 10 damage to target Creature with Earth or Water.,Forsake the land and the land will forsake you.,,,
+Song of Mandiblor,DOP,Super Rare,193,Danian,1,"Target Creature gains 5 Courage, Power, Wisdom, and Speed for each Danian in play.","Listen and learn the true strength of the Danian tribe—when you face one, you contend with all.",,,
+Song of Recovery,DOP,Uncommon,201,Mipedian,1,"Heal 10 damage to target Creature. That Creature gains ""Air 5"".",Tiaane believes that each Mugic is but a small piece of a great opus.,,,
+Song of Resistance,DOP,Uncommon,194,Danian,2,All damage dealt by attacks to the caster is reduced by 5.,Even the proudest Danian would never deny a chance to harden his shell.,,,
+Song of Resurgence,DOP,Uncommon,181,OverWorld,1,Heal 20 damage to target Creature.,"""Our understanding of Mugic is the direct inverse of our gratitude for its existence."" 
+—Najarin",,,
+"Song of Revival, (UnderWorld)",DOP,Ultra Rare,189,UnderWorld,2,Return target UnderWorld Creature Card in your discard pile to play in any open space.,The Mugicians believed that anything that once was cannot be lost forever.,,,
+Song of Stasis,DOP,Rare,182,OverWorld,1,Target Creature cannot move.,A melody has the power to move you... or not.,,,
+Song of Surprisal,DOP,Common,195,Danian,1,"Target Creature gains ""Range"" and ""Swift 1"".",The usefulness of Mugic in battle is but a side effect. Its true purpose remains unknown.,,,
+Song of Symmetry,DOP,Rare,196,Danian,1,Target engaged Creature gains 10 Energy. Deal 10 damage to another target engaged Creature.,"Your strength is now mine, my weakness is now yours!",,,
+Song of Treachery,DOP,Common,190,UnderWorld,1,"Target Creature loses 15 Courage, Power, Wisdom, and Speed.",One cannot move forward if one's always watching one's own back.,,,
+Song of Truesight,DOP,Common,174,Generic,1,Target creature loses Invisibility.,"A melody may help you see things more clearly, so how can sound be invisible?",,,
+Trills of Diminution,DOP,Common,202,Mipedian,1,Target engaged Creature loses all abilities.,Even the simplest sounds can resonate in one's mind.,,,
+Cascading Rondo,ZOTH,Super Rare,71,UnderWorld,1,"Swap your Attack Discard pile with your Attack Deck, the shuffle your Attack Deck.","Though he appeared exhausted, he was merely getting his second wind.",,,
+Casters' Warsong,ZOTH,Uncommon,87,Generic,1,"Deal 5 damage to target Creature.
+If the caster of this Mugic is a Muge, deal an additional 10 damage.","A sword can pierce the body, but a song can pierce the soul.",,,
+Chorus of Cothica,ZOTH,Ultra Rare,88,Generic,1,Target Creature may play Mugic of any tribe.,"Some speak of the one true song, the Mugic that unites all Perim.",,,
+Composition of Concentration,ZOTH,Common,66,OverWorld,1,Target Creature gains 30 in the discipline of your choice.,Mugic can raise the spirit to immeasurable heights.,,,
+Danian Element Choral,ZOTH,Rare,76,Danian,1,Target Creature gains all Elemental Types your Creatures have.,Harmonies can never be sung alone.,,,
+Defender's Song,ZOTH,Uncommon,67,OverWorld,1,"Creatures you control gain ""Defender"".",What inspires us to sacrifice ourselves for the ones that we love?,,,
+Dissonance of Distraction,ZOTH,Common,72,UnderWorld,1,Target Creature loses 30 in the discipline of your choice.,Mugic can sink the spirit to immeasurable depths.,,,
+Elemental Denial,ZOTH,Uncommon,73,UnderWorld,x,Target Creature loses X Elemental Types of your choice.,Some believe the Cothica and nature are irrevocably linked... understand one and rule the other!,,,
+Elemental Elegy,ZOTH,Super Rare,77,Danian,1,"Target Creature loses an Elemental Type of your choice. If that Creature has no Elemental Types, it cannot move instead.",,,,
+Forgotten Origins,ZOTH,Super Rare,89,Generic,3,Target player removes all cards in his or her general discard pile from the game.,It was the most beautiful song I've ever heard... but now I can't even remember a single note.,,,
+Gear Glissando,ZOTH,Common,83,Mipedian,1,Flip target Battlegear face-up or face-down.,Most Muges believe that the problem with machines is that they exist at all.,,,
+Hive Destruction,ZOTH,Uncommon,74,UnderWorld,1,Deactivate Hive.,"How absurd! The Danians act courageous, but they're merely thespians pretending to be warriors! We will rend their dirty hides into chaos!",,,
+Hive Unsung,ZOTH,Rare,78,Danian,0,"Deactivate Hive.
+When you play Hive Unsung, you may pay a Mugic counter. If you do, return Hive Unsung to your hand when it resolves.",Some songs leave the audience in silence.,,,
+Infectious Melody,ZOTH,Uncommon,79,Danian,2,Infect up to two target Uninfected Creatures.,A tune so chilling that it makes your skin crawl.,,,
+Melodic Might,ZOTH,Super Rare,84,Mipedian,1,"Draw two Attack Cards, then discard two Attack Cards.","When Plan A fails, switch to Plan B. 
+When Plan B fails... flee!",,,
+Melody of the Meek,ZOTH,Rare,90,Generic,1,"If target Creature with 30 or less Scanned Energy would take greater than 10 damage from a single source, it takes 10 damage instead.",,,,
+Momental Virtuosity,ZOTH,Rare,68,OverWorld,2,"Target Creature gains 50 in the discipline of your choice.
+Target Creature gains 50 in another discipline of your choice.  (You may target the same Creature.)",,,,
+Prelude of Protection,ZOTH,Common,69,OverWorld,1,"Target Creature gains ""Fireproof 10"", ""Airproof 10"", ""Earthproof 10"", and ""Waterproof 10"".","Perhaps the Cothica is in the light, the land, the very winds that blow!",,,
+Purge Dirge,ZOTH,Ultra Rare,80,Danian,3,"Deal 5 damage to target Creature for each Mandiblor you control and each Infected Creature in play, then Uninfect all Creatures.","This may sting a little. But usually, a lot.",1,,
+Recurring Rescue,ZOTH,Super Rare,70,OverWorld,1,"Heal 10 damage to target Creature.
+If the target of Recurring Rescue has 30 or less Scanned Energy, return Recurring Rescue to your hand when it resolves.",Ahh... a song so soothing that OverWorlders yearn to hear it again and again.,,,
+Serenade of Subordinance,ZOTH,Rare,75,UnderWorld,2,"Target Creature loses 50 in the discipline of your choice. 
+Target Creature gains 50 in another discipline of your choice. (You may target the same Creature.)",,,,
+Song of Encompassing,ZOTH,Common,81,Danian,1,Creatures you control gain the Creature Type Mandiblor in addition to their other types.,"All I heard was the buzzing... the deafening, maddening buzzing!",,,
+Song of Resilience,ZOTH,Common,82,Danian,1,"If target Creature has Fire, it gains ""Fireproof 10""; if it has Air, it gains ""Airproof 10""; if it has Earth, it gains ""Earthproof 10""; if it has Water, it gains ""Waterproof 10"".",,,,
+Song of Shelter,ZOTH,Rare,85,Mipedian,1,Target Creature you control may not be the target of Mugic or abilities.,"How seven little notes can create such diverse wonders is one of the great, unsolvable mysteries of Perim.",,,
+Switch Riff,ZOTH,Uncommon,86,Mipedian,1,Target unengaged Mipedian Creature you control swaps spaces with another target unengaged Mipedian Creature you control.,Beware if you see two sets of footprints... but only one Mipedian.,,,
+Armament Adagio,SS,Common,86,Mipedian,1,Swap any Battlegear equipped to two target Creatures controlled by the same player.,"It's true that we can accomplish great feats alone, but together, we can accomplish miracles.",,,
+Echoes of Empty Hands,SS,Uncommon,78,OverWorld,1,Destroy all Battlegear equipped to target engaged Creature. That Creature gains 10 Energy.,"""Even lifeless machines have a life force."" 
+—Vidav",,,
+Fighters' Fanfare,SS,Ultra Rare,87,Mipedian,2,"The next time an attack would deal damage to a Creature this turn, it deals damage to target engaged Creature of your choice instead.",The existence of Mugic is proof enough that nothing is impossible.,1,,
+Hymn of Teleportation,SS,Super Rare,88,Mipedian,1,"Choose one:
+Move target Mirage Location in play to any place on the Battleboard. 
+If the active Location is a Mirage, put it into play on any space on the Battleboard and reveal a new active Location.",,,,
+Melody of Parasitic Mayhem,SS,Uncommon,84,Danian,1,"Infect target Uninfected engaged Creature. If Hive is Active, Uninfect all Creatures controlled by an opponent and deal 5 damage to target engaged Creature for each Creature Uninfected this way instead.",,,,
+Rhyme of the Reckless,SS,Rare,79,OverWorld,1,"When target attack deals damage, deal the same amount of damage to the Creature that played that attack.","The eyes show that which can be seen, but the ears reveal that which is real.",,,
+Song of Desperation,SS,Rare,82,UnderWorld,1,Target engaged Creature gains 30 Energy. Checks and Challenges on Attacks that Creature plays deal no damage. ,,1,,
+Song of the Dyad,SS,Common,80,OverWorld,1,"Choose one: 
+Heal 10 damage to target Creature.
+Deal 10 damage to target Creature.",What brings happiness to one brings pain to another.,,,
+Strain of Ash,SS,Uncommon,83,UnderWorld,0,"Sacrifice a Battlegear equipped to an unengaged UnderWorld Creature you control. If you do, destroy target Battlegear.","As his Ice Cloak vanished, Bodal calculated he had 8.5 seconds until the firestorm immolated him.",1,,
+Strain of Clarity,SS,Uncommon,76,Generic,0,"Choose one: 
+Shuffle target Mirage Location into its owner's Location Deck.
+If the active Location is a Mirage, shuffle it into its owner's Location deck and that player reveals a new active Location.",,1,,
+Strain of Expensive Delusions,SS,Rare,89,Mipedian,0,Destroy all Battlegear equipped to Creatures at target Mirage Location. Shuffle that Mirage Location into its owner's Location Deck.,,1,,
+Strain of Infection,SS,Rare,85,Danian,0,Uninfect up to three Infected Creatures. Target Danian Creature gains a Mugic counter for each Creature Uninfected Strain of Infection way.,"Little parasites, big rewards.",1,,
+Strain of the Tide,SS,Super Rare,81,OverWorld,0,Remove any number of OverWorld Creatures in your discard pile from the game. Heal 10 damage to target Creature for each card you remove this way.,,1,,
+Tune of Xerium,SS,Uncommon,90,Mipedian,1,"Sacrifice a Battlegear. If you do, return another Battlegear from your discard pile to play equipped to an unequipped Creature you control.",,1,,
+Void Dirge,SS,Common,77,Generic,1,Remove up to three target cards in a player's general discard pile from the game.,Do not dwell on the past. What's lost is best forgotten.,,,
+Allegro,MI,Uncommon,190,Mipedian,2,"Target Creature gains 50 Speed.
+If your engaged Creature won Initiative this turn, Allegro's cost is reduced by 2 Mugic counters.","Even with Spectral Viewers, the invasion squad could no longer find the elusive Mipedians.",,,
+Aria of Enragement,MI,Uncommon,191,Mipedian,1,"Target Creature gains ""Recklessness 5.""","""Be gone, you fool! The Cothica won't save Perim! Look at the devastation even a hint of its power can cause!"" 
+—Sobtjek",,,
+Ballad of the Belittled,MI,Rare,156,Generic,1,Deal 20 damage to target Creature that has no Disciplines greater than 25.,"Always pick off the weak before they grow up and pick you off
+",,,
+Cadence Clash,MI,Rare,157,Generic,1,Negate target Mugic and return that card to its owner's hand.,There is nothing worse for a Muge than the stunning sound of silence.,,,
+Carnivore's Keening,MI,Rare,158,Generic,1,"Target Creature gains 30 Energy and ""Recklessness 10.""","""This is where we draw the line! Protect the Riverlands!"" 
+—Tartarek",,,
+Chromatic Postlude,MI,Super Rare,180,UnderWorld,X,Deal 5 damage to target Creature for each Mugic counter spent to play Chromatic Postlude.,"""What you call 'overkill' is what I call 'being thorough.'"" 
+—Takinom",,,
+Deep Dirge,MI,Ultra Rare,159,Generic,1,Target Creature plays its abilities as if that Creature's controller also controlled a Chieftain.,"As his eyes glazed over, all he could think was, ""Obey, obey, obey.""",,,
+Desert's Wrathsong,MI,Super Rare,192,Mipedian,2,Destroy target Creature with 0 Speed and 0 Power.,"Under the burning sun, even the hardiest desiccate in a matter of minutes.",1,,
+Deserter's Finale,MI,Rare,181,UnderWorld,1,Deal 5 damage to target Creature. Deal an additional 10 damage to that Creature if it has Water.,"""The fire of the UnderWorld will burn forever!"" 
+—Chaor",,,
+Disarming Theme,MI,Rare,193,Mipedian,1,"Target Creature with Invisibility gains ""Invisibility: Disarm.""",Each time Tangath tried to pick up his blade his unseen foe knocked it away again.,,,
+Dissonance of Will,MI,Super Rare,175,OverWorld,1,Negate target activated Creature ability.,"Mugic, like memory, is fleeting.",,,
+Domestic Hive Hymn,MI,Rare,185,Danian,1,"Target Creature gains 10 Energy.
+If Hive is active, that Creature gains an additional 10 Energy.","With my hive family, I am more ""we"" than ""me.""",,,
+Draining Dirge,MI,Uncommon,186,Danian,1,Heal 15 damage to target Mandiblor.,"Though Mandiblors are treated as the dregs of society, Queen Illexia loves all her children equally.",,,
+Duality Dirge,MI,Rare,160,Generic,3,"Target Creature gains or loses Courage, Power, Wisdom and Speed to make its Disciplines equal to its Scanned Disciplines and cannot be the target of Mugic or abilities.",,,,
+Ecstatic Fanfare,MI,Uncommon,176,OverWorld,1,"Target Creature gains 20 Wisdom, 15 Courage, 10 Speed and 5 Power.",Najarin found it more interesting than prophetic that he had seven letters in his name.,,,
+Effervescent Etude,MI,Common,161,Generic,1,Deal 15 damage to target M'arrillian Creature.,"Melodies to some, noise to others.",,,
+Empowering Serenade,MI,Common,177,OverWorld,1,Target Creature gains 10 Energy and 10 Wisdom.,"""We all fail, my friend. But how we respond to failure - now that is the sign of a champion."" 
+—Maxxor",,,
+Etude of Exhaustion,MI,Common,162,Generic,1,"Target Creature gains ""Exhaust all Disciplines 5.""","As the battle dragged on from days to weeks, the battalion lost the will to keep fighting.",,,
+Falsetto,MI,Common,182,UnderWorld,1,"Target Creature loses 20 Power, 15 Speed, 10 Courage and 5 Wisdom.","Before: Chaor 
+After: H'earring",,,
+Fanfare of the Brain,MI,Ultra Rare,163,Generic,2,"Target Creature gains 25 Courage and 25 Wisdom. If the target is a Minion, it gains another 25 Courage and 25 Wisdom.",,,,
+Fatiguing Falsetto,MI,Common,164,Generic,2,"Target Creature gains ""Exhaust all Disciplines 15.""","""If you have patience, you can win a war without fighting a single battle."" 
+—Vidav's teachings",,,
+Final Fugue,MI,Uncommon,183,UnderWorld,1,"Target Creature gains 15 Energy and ""Recklessness 5.""","With adrenaline pumping through his veins, Ragetrod hardly felt a thing when he rammed headfirst through three stone pillars.",,,
+Fluidmorpher's Fanfare,MI,Super Rare,165,Generic,2,"Target Creature gains a Mugic counter and ""Water 5.""","""Defeat the enemy from within. When they no longer know whom to trust, they'll crumble on their own!"" 
+—Phelphor",,,
+Improvisational Melody,MI,Uncommon,184,UnderWorld,2,"Deal 10 damage to target Creature.
+If your engaged Creature dealt 20 or more attack damage this turn, Improvisational Melody's cost is reduced by 2 Mugic counters.",,,,
+Intense Polyphony,MI,Uncommon,187,Danian,2,"Activate Hive.
+If your engaged Creature has taken 15 or more attack damage this turn, Intense Polyphony's cost is reduced by 2 Mugic counters.","Against the Danians, there is no such thing as a one-on-one fight.",,,
+Melody of Miracles,MI,Uncommon,178,OverWorld,2,"Heal 15 damage to target Creature.
+If your engaged Creature won a Wisdom Challenge this turn, Melody of Miracles' cost is reduced by 2 Mugic counters.",,,,
+Melody of Mirrored Actions,MI,Rare,166,Generic,2,Destroy target Battlegear equipped to an engaged Creature.,"Mugic is a sword that pierces invulnerable armor, a shield that blocks unstoppable strikes.",,,
+Nourishing Nocturne,MI,Uncommon,167,Generic,2,"Sacrifice a Minion Creature. If you do, target engaged Creature gains Energy equal to the Scanned Energy of the sacrificed Creature.","I know you think you gave it your all, but I bet I can coax out a little more.",,,
+Odd Opus,MI,Rare,179,OverWorld,2,Target Creature gains 15 Energy and 15 to all Disciplines.,"When a mere seven notes can change the course of history, that is the very definition of a miracle.",,,
+Predator's Song,MI,Ultra Rare,168,Generic,1,"Sacrifice an unengaged Creature. If you do, target engaged Creature loses X from each Discipline where X is the sacrificed Creature's Scanned Disciplines. If the sacrificed Creature is a Minion, engaged Creatures also lose 10 Energy.",,,,
+Prelude to Dominance,MI,Uncommon,169,Generic,1,Deal 10 damage to target Creature.,"Strike first, strike fast, strike hard, strike last.",,,
+Psionic Serenade,MI,Ultra Rare,170,Generic,2,"Remove a Minion Creature Card in your general discard pile from the game. If you do, deal damage to target engaged Creature equal to the removed card's Scanned Energy.",,1,,
+Rhythms of Rage,MI,Super Rare,188,Danian,2,"Target Mandiblor gains ""Outperform Courage 5."" If it is Infected, it gains ""Earth 5."" If Hive is active, it also gains 15 Energy.",,,,
+Selective Strain,MI,Common,194,Mipedian,1,Target Creature gains 25 to a Discipline of your choice. That Creature loses 25 to another Discipline of your choice.,"Every up has a down, every left has a right. The Cothica is always in balance.",,,
+Song of Stable Shields,MI,Super Rare,171,Generic,2,Target Creature's Disciplines cannot be increased or decreased by Mugic or abilities.,"If every counter has a counter, what can we count on?",,,
+Specific Diminishing,MI,Common,172,Generic,1,Target Creature loses 20 to a Discipline of your choice.,"When the wise become dumb 
+Or the fast become slow 
+They've already lost 
+And they don't even know",,,
+Surprising Riffs,MI,Common,173,Generic,1,Flip target Battlegear face-down.,"Unfortunately for Gronmar, his Telebracers sputtered and died seconds before the toxic tidal wave struck him full force.",,,
+Symphony of Similarity,MI,Common,189,Danian,1,Target Creature gains 5 to all Disciplines for each Mandiblor you control.,,,,
+Tonal Destruction,MI,Common,174,Generic,X,Your opponent reveals X Mugic Cards from his or her hand and you choose one of them. Your opponent discards the chosen card.,"If you eliminate the cause, you'll never face the consequences.",,,
+Calling of Aa'une,ROTO,Super Rare,83,M'arrillian,4,"If Aa'une the Oligarch, Projection won combat this turn while equipped with Baton of Aa'une and you played Rage of Aa'une this turn, flip over Aa'une the Oligarch, Projection.",,,,
+Curemorph Chords,ROTO,Common,84,M'arrillian,2,Heal 20 damage to target Fluidmorpher.,"It was hardly fair. As their mortal wounds instantly healed, the irresistible force became even more unstoppable.",,,
+Decelerating Requiem,ROTO,Uncommon,85,M'arrillian,4,Destroy target Creature with 0 Speed.,"As his pulse plummeted, his heart beat slower... slower... and fell silent.",,,
+Denial Refrain of the Deep,ROTO,Common,86,M'arrillian,3,Negate target Mugic.,"When Bodal realized that only four of his seven notes played, he calculated that he only had 2.5 seconds until Erak'tabb's tentacle squished him like an overripe djobwon.",,,
+Harmonies of the Wind,ROTO,Rare,82,Mipedian,1,Target M'arrillian or Minion cannot move or play activated abilities.,"When Perim is at its darkest, the Cothica lights the path of hope.",,,
+Intress' Healing Ballad,ROTO,Rare,79,OverWorld,2,Heal 5 damage to target engaged Creature for each Mugic counter on opposing Creatures.,,,,
+Kopond's Composition,ROTO,Rare,80,UnderWorld,3,Deal 5 damage to target engaged Creature for each Mugic counter on opposing Creatures. ,,1,,
+Mightsingers Requiem,ROTO,Uncommon,87,M'arrillian,4,Destroy target Creature with 0 Power.,"When a pebble becomes as heavy as a boulder, your life will soon be over.",,,
+Mindproof March,ROTO,Rare,81,Danian,2,Heal 5 damage to target Creature and deal 5 damage to another target Creature for each Danian you control with Water.,,,,
+Requiem of Fear,ROTO,Uncommon,88,M'arrillian,4,Destroy target Creature with 0 Courage.,There is no need to fight if your foe is in flight!,,,
+Requiem of Lost Minds,ROTO,Uncommon,89,M'arrillian,4,Destroy target Creature with 0 Wisdom.,A word to the wise: the wise need no words.,,,
+Sound of Noise,ROTO,Super Rare,77,Generic,2,Negate target M'arrillian or Generic Mugic.,The silence was deafening.,,,
+Unheard Melody,ROTO,Ultra Rare,90,M'arrillian,6,Destroy target Creature with no Mugic counters.,Who knows why Mugicians exist. Just be thankful they do.,1,,
+Vexing Waveform,ROTO,Rare,78,Generic,1,"Target Creature gains ""Recklessness 5.""
+When you play Vexing Waveform you may pay an additional 2 Mugic counters. If you do, the target Creature gains an additional ""Recklessness 5.""",,,,
+Armament Alteration Anthem,TOTT,Rare,85,Mipedian,2,"Destroy all Battlegear equipped to engaged Creatures. Then, if you only control Mipedians, return a Battlegear from your discard pile to play equipped to your engaged Creature.",,,,
+Choral of the Apparition,TOTT,Super Rare,82,Danian,2,"Sacrifice an unengaged Mandiblor. If you do, return target Danian from your discard pile to play in the Battleboard space where the sacrificed Mandiblor was. If you control only Danians, return it in any open space instead.",,,,
+Dirge of the Desert,TOTT,Common,86,Mipedian,2,"Target Creature gains ""Invisibility: Surprise"" and ""Invisibility: Strike 10.""","The desert wind erases footprints, making the invisible even more undetectable.",,,
+Fanfare of Elemental Champions,TOTT,Uncommon,76,OverWorld,1,"Target Creature gains an Elemental Type of your choice. If you control only OverWorld Creatures, that Creature also gains ""Element 5"" of the chosen Elemental Type.",,,,
+Harmonious Highsong,TOTT,Rare,77,OverWorld,2,"Heal 30 damage to target Creature. If you control only OverWorld Creatures, it gains 30 Energy instead.","""I know enough about Mugic to know that I know very little indeed."" 
+—Najarin",,,
+Intimidating Melody of M'arr,TOTT,Rare,88,M'arrillian,1,Target engaged Creature loses 30 to all Disciplines.,"As sudden fatigue overwhelmed his body, Bodal calculated that he had 4.3 seconds to escape before he became Milla'iin's appetizer.",,,
+Katharaz's Cacophony,TOTT,Uncommon,83,Danian,1,"Heal 5 damage to your engaged Creature for each Elemental Type it has. If you control only Danian Creatures, also deal 5 damage to the opposing engaged Creature for each Elemental Type that Creature has.",,,,
+March of the M'arrillian Minions,TOTT,Super Rare,89,M'arrillian,3,Target Minion gains 2 Mugic counters.,"With thousands of different Creatures having millions of unique talents, Aa'une has infinite methods to abuse and exploit them.",,,
+Minion's Freesong,TOTT,Common,78,OverWorld,1,Target Minion plays its abilities as if its controller did not also control a Chieftain.,"""If we fail to rescue our friends soon, we will never turn back the tide."" 
+—Maxxor",,,
+Nocturne of the Elements,TOTT,Rare,79,UnderWorld,2,"Target opposing engaged Creature loses all Elemental Types. If you control only UnderWorld Creatures, deal 5 damage to that Creature for each Elemental Type lost this way.",,,,
+Roar of the Mob,TOTT,Common,80,UnderWorld,1,Deal 10 damage to target Creature for each Mugic counter on it.,It was a sound I never heard before. As if the Mugicians were screaming in pain.,,,
+Shock Song,TOTT,Uncommon,81,UnderWorld,2,"Deal 10 damage to target Creature. If you control only UnderWorld Creatures, also destroy that Creature's Battlegear.",Achieving the impossible is simple... as long as you know which seven notes to play.,,,
+Symphonic Pelagic Maresong,TOTT,Super Rare,90,M'arrillian,3,Mugic and activated abilities may not be played. (Mugic and activated abilities played before this resolves are unaffected.),"The tune died, as did any chance of reclaiming the Riverlands.",1,,
+Symphony of the Guard,TOTT,Uncommon,87,Mipedian,1,"Target Creature gains ""Earth 5"" and ""Air 5."" If you only control Mipedian Creatures, it also gains ""Outperform Speed 5.""",Never forget your roots. All answers lie there.,,,
+Unisong,TOTT,Common,84,Danian,1,"Target Danian gains 10 Energy. If Hive is active, it also gains 10 Courage for each Danian you control.",Unite and fight... or divide and die!,,,
+Adaptive Progression,FUN,Uncommon,84,Danian,2,Negate target Elemental Attack.,,,,
+Denying Dirge,FUN,Uncommon,82,UnderWorld,1,Target Creature cannot be healed or gain Energy.,"If you make sure the weak remain weak, the outcome will never be bleak.",,,
+Iflar's Improvisation,FUN,Uncommon,86,Mipedian,2,"Target non-Mipedian gains ""Invisibility: Strike 30.""","""A secret shared can never be unshared... but so be it."" 
+—Prince Iflar",,,
+Illusion Glissando,FUN,Rare,87,Mipedian,0,Relocate target Mirage on the Battleboard to any space.,"As they wandered from sand dune to sand dune in search of the Cothica, little did they know that the Cothica was never there to begin with.",,,
+Intertwined Melody,FUN,Rare,83,UnderWorld,2,Target Creature engaged with a non-UnderWorlder you control loses an Elemental Type of your choice and loses 30 to all Disciplines.,"""I never thought an UnderWorlder would save my life. I owe you... unfortunately."" 
+—Gespedan",,,
+Jig of Reinforcement,FUN,Uncommon,77,Generic,1,"Target Creature gains 
+10 Energy if it's an OverWorlder.
+""Fire 5"" if it's an UnderWorlder.
+20 to all Disciplines if it's a Danian.
+""Invisibility: Strike 10"" if it's a Mipedian.",,,,
+Monophone Mayhem,FUN,Rare,78,Generic,2,Choose a Tribe. Creatures of that Tribe may not gain Mugic counters.,The Mugician's singing turned into screams. There will be no more music this day.,,,
+Ode to Obscurity,FUN,Rare,85,Danian,X,"Infect X Uninfected Creatures. If you control a non-Danian, Infect another X Uninfected Creatures.","Where most see the tragedies of war, the wise see opportunity.",,,
+Opus Opposed,FUN,Super Rare,79,Generic,1,Heal 5 damage to target Creature for each Tribe you control.,"One is none. 
+Two may do. 
+Three? Maybe. 
+But four... we soar!",,,
+Ostinato of Oban'emre,FUN,Super Rare,88,M'arrillian,2,Target M'arrillian or Minion gains 10 Energy for each Minion in all discard piles.,"Living in harsh waters, the M'arrillians learned to scrounge even the smallest shred to survive.",,,
+Skysong Arpeggio,FUN,Rare,80,OverWorld,1,"Target Creature gains 30 Wisdom and ""Outperform Wisdom 5.""","As Milla'iin fell into his lava trap, Bodal calculated that it would boil into a yummy seafood soup in 32.8 seconds.",,,
+Vidav's Voicing,FUN,Uncommon,81,OverWorld,1,Target non-OverWorlder gains 20 Energy.,"""There are seven tenets to victory, and it is no coincidence that seven notes are the keys to each."" 
+—Vidav's teachings",,,
+Aegis Airia,AU,Common,184,Mipedian,1,Negate target attack. The next attack played deals 0 damage.,"Each note a melody, each melody an aria, each aria a symphony, each symphony a miracle.",,,
+Ancestral Anthem,AU,Rare,179,Danian,0,"Remove a Creature Card in your general discard pile from the game. If you do, activate Hive.","Resourceful and efficient, Danians recycle everything in order to survive... including corpses!",,,
+Anthem of Stone,AU,Common,163,Generic,1,"Target Creature gains Earth. If that Creature already has Earth, it gains ""Earth 5"" instead.","The earth split, toppling the towers, erasing the castle from memory.",,,
+Battlesong of Depletion,AU,Common,174,UnderWorld,2,Creatures engaged with the caster lose all Elemental Types.,"Isolated from the embrace of the universe, Heptadd felt alone, empty and - for the first time - afraid.",,,
+Battlesong of Renewal,AU,Common,169,OverWorld,1,Caster heals 25 Damage.,The search for the Cothica is also a search into yourself. You cannot find one without the other.,,,
+Bonding Battlesong,AU,Rare,185,Mipedian,1,"When target opposing Creature heals or gains Energy from a Mugic or activated ability, the caster of this Mugic also heals or gains that much Energy. ",,,,
+Consuming Cacophony,AU,Super Rare,175,UnderWorld,2,"Deal 20 damage to target Creature. If the caster of this Mugic has Fire, deal an additional 10 damage.",Flames feed upon flames in a voracious conflagration.,,,
+Counterpoint of Chaos,AU,Rare,176,UnderWorld,1,Target Creature cannot gain Elemental Types.,"Once again, ""Mugic Tester"" ranked as the second most dangerous job in Perim... just behind Chaor's sparring partner.",,,
+Decomposition,AU,Rare,177,UnderWorld,1,Target Creature fails all Discipline checks on attacks it plays.,"His strength faltered 
+His bravery waned 
+His feet dragged 
+As we went insane",,,
+Diminuendo,AU,Common,164,Generic,1,Target Creature loses 5 Energy and 5 to all Disciplines.,"Aivenna dug deep, willing herself to keep fighting... but her body had nothing left to give.",,,
+Dischord of Flame,AU,Common,165,Generic,1,"Target Creature gains Fire. If that Creature already has Fire, it gains ""Fire 5"" instead.","The grey coat of ash choked the petals, wilting the leaves, wilting the soul.",,,
+Elemental Counterpoint,AU,Common,180,Danian,1,Target attack deals 10 less damage for each Elemental Type that attack has.,"""You call that a Pebblestorm?! That was more like a Pebblebreeze!"" 
+—Wamma",,,
+Elemental Denial,AU,Uncommon,73,UnderWorld,x,Target Creature loses X Elemental Types of your choice.,Some believe the Cothica and nature are irrevocably linked... understand one and rule the other!,,,
+Empowering Encore,AU,Rare,181,Danian,1,Target Creature gains all Elemental Types Creatures in your discard pile have.,"""As long as you believe that the impossible is only what has yet to be accomplished, everything is possible."" 
+—Lore",,,
+Fluid Fugue,AU,Super Rare,170,OverWorld,2,"Heal 25 damage to target Creature. If the caster of this Mugic has Water, that Creature also gains a Mugic counter.",Seven notes... infinite possibilities.,,,
+Gear Glissando,AU,Common,83,Mipedian,1,Flip target Battlegear face-up or face-down.,Most Muges believe that the problem with machines is that they exist at all.,,,
+Harmonics of Water,AU,Common,166,Generic,1,"Target Creature gains Water. If that Creature already has Water, it gains ""Water 5"" instead.","And with one final wave, the flood washed away all remaining traces of the now-forgotten civilization.",,,
+Howl of the Wind,AU,Common,167,Generic,1,"Target Creature gains Air. If that Creature already has Air, it gains ""Air 5"" instead.","The tornado ripped across the fields, destroying the harvest, starving the land.",,,
+Interlude of Interruption,AU,Rare,171,OverWorld,1,Negate target Mugic unless the Creature that played it pays an additional Mugic counter.,"When the Mugicians sing, all of Perim is blessed.",,,
+Rocky Refrain,AU,Super Rare,182,Danian,2,"Target engaged Creature gains 5 Energy for each Elemental Type the opposing engaged Creature has. If the caster of this Mugic has Earth, the target Creature gains an additional 5 Energy for each Elemental Type the opposing engaged Creature has.",,,,
+Searing Symphony,AU,Rare,178,UnderWorld,1,Deal 10 damage to target Creature for each Elemental Type it has.,The rain not only nourishes but drowns. The embers warm as well as burn.,1,,
+Silent Requiem,AU,Rare,186,Mipedian,1,Negate target Mugic or ability that targets a Creature with Invisibility.,"Unseen, unheard, unhittable... unbeatable!",,,
+Sonata of Storms,AU,Super Rare,187,Mipedian,2,"Target Creature gains ""Range"" and ""Swift 3."" If the caster of this Mugic has Air, that Creature also gains ""Invisibility: Surprise.""","As the thief sped away, Gespedan blamed himself for leaving the battle plans out in the open.",,,
+Song of the Dyad,AU,Common,80,OverWorld,1,"Choose one: 
+Heal 10 damage to target Creature.
+Deal 10 damage to target Creature.",What brings happiness to one brings pain to another.,,,
+Song of Elemental Attunement,AU,Rare,172,OverWorld,1,Target Creature gains all of its Scanned Elemental Types.,"""As ice, liquid and vapor are different forms of water, the four elements are simply different forms of nature."" 
+—Intress",,,
+Song of Translocation,AU,Rare,188,Mipedian,1,Relocate target Creature you control to any unoccupied space on the Battleboard.,"""There's no shame in losing a fight. There's only shame in losing your life."" 
+—Headmaster Ankhyja",,,
+Swartbron Battlesong,AU,Rare,168,M'arrillian,3,"If the caster is engaged, the opposing engaged Creature and the caster each gain Energy equal to their lowest Discipline.","In a maddening gyre, delving into the secrets of Mugic only reveals more secrets.",,,
+Symphony of Shielding,AU,Rare,173,OverWorld,2,Target attack or Mugic deals 0 damage.,"As Maxxor fearlessly charged through the rain of flaming arrows, he added another tale to his legend.",,,
+Unbalancing Battlesong,AU,Rare,183,Danian,1,Caster gains 15 Energy and Creatures engaged with caster lose 15 Energy.,"""Mugic is older than time and stronger than power. It will outlast us all."" 
+—Tharc",,,
+Najarin's Tower of Song,LR,Ultra Rare,17,OverWorld,3,"Deal 20 damage to target Creature on your side of the Battleboard.
+That Creature's controller discards a random Mugic Card from his or her hand.",,,,
+Ulmar's Activating Arpeggio,LR,Uncommon,18,UnderWorld,1,Flip target face-down Battlegear face-up. Destroy that Battlegear at the start of the next turn.,,1,,
+Fortissimo,OP1,Super Rare,17,Generic,1,"Target Creature gains 5 Courage, Power, Wisdom, Speed, and Energy.","""The Cothica existed before the beginning. It will survive long past our end."" 
+—Najarin",,,
+Song of Transportation,BR,Uncommon,,Mipedian,1,Turn the top card of your Location Deck face up. This becomes the new active location,The shortest distance between two points is not always a straight line,,,
+Swarm song,BR,Rare,,Danian,1,Deal 15 damage to target Creature.,"The insects eclipsed the sun, turning day into night",,,

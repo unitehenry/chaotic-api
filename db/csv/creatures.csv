@@ -1,0 +1,787 @@
+name,set,rarity,id,tribe,courage,power,wisdom,speed,energy,mugic,elements,types,ability,flavor,brainwashed,unique,loyal,legendary,artist,gender
+Arias,DOP,Common,1,OverWorld,55,65,30,55,50,0,Earth,Warrior,Support: Power 5,"If you think he looks angry now, you should have been at the nose-piercing!",,,,,,Male
+Ario,DOP,Rare,72,Mipedian,50,55,25,55,40,1,Air,Royal Warrior,Invisibility: Strike 15,"Though not in his prime, Ario is always primed for battle.",,,,,,Male
+Attacat,DOP,Uncommon,2,OverWorld,30,65,60,105,50,0,,Guardian Warrior,Swift 1,"""A ferocious warrior – when he finally gets up the nerve to battle.” – Intress",,,,,,Male
+Barath Beyond,DOP,Super Rare,29,UnderWorld,40,85,15,65,60,1,Fire,Ethereal Warrior,"Fire 5
+Intimidate: Power 10 
+Recklessness 5",,,,,,,Male
+Biondu,DOP,Common,73,Mipedian,45,40,30,35,40,1,Fire,Elite,Invisibility: Strike 15,"The Mipedian desert may be home, but Biondu covets the land beyond the sand.",,,,,,Male
+Blazier,DOP,Super Rare,3,OverWorld,35,40,60,25,40,2,Earth,Scout,{{MC}}: Look at the top two cards of target player's Location Deck. Put one of them on top of that deck and the other on the bottom.,"This small, scrappy spy maps enemy territory for the OverWorld’s warriors.",,,,,,Male
+Blügon,DOP,Rare,4,OverWorld,35,65,70,45,40,0,Water,Elementalist,Water 5,The Frozen - mysterious creatures who inhabit Glacier Plains - count Blügon as their friend.,,,,,,Male
+Bodal,DOP,Common,5,OverWorld,40,40,80,60,45,1,,Caretaker,Support: Wisdom 5,The trouble with Bodal is that Bodal is troubled.,,,,,,Male
+Borth-Majar,DOP,Super Rare,30,UnderWorld,45,85,85,40,45,1,,Commander,"Intimidate: Power 10
+Intimidate: Wisdom 10",Brains or Brawn? One can’t decide ... and one doesn’t need to.,,,,,,Male
+Brathe,DOP,Uncommon,74,Mipedian,55,45,65,55,55,1,,Elite,Invisibility: Strike 15,"Because invisible Mipedians cast no reflection, Brathe’s vanity is a dangerous thing.",,,,,,Male
+Chaor,DOP,Ultra Rare,31,UnderWorld,95,90,70,60,70,3,Fire,Conqueror Warrior,{{MC}}{{MC}}{{MC}}: Negate target OverWorld Mugic or ability that targets Chaor.,"“We’ll take Kiru City, and the UnderWorld will rule all of Perim!” - Chaor",,1,1,,,Male
+Crawsectus,DOP,Super Rare,6,OverWorld,60,45,40,25,50,0,"Earth, Water",Elementalist,Earth 5,His hard exterior hides an even harder interior.,,,,,,Male
+Dardemus,DOP,Common,32,UnderWorld,60,75,20,65,50,0,Fire,Taskmaster,Intimidate: Courage 10,"This UnderWorld prison guard has a simple policy that works: whip first, whip fast, whip last.",,,,,,Male
+Donmar,DOP,Rare,7,OverWorld,45,65,65,50,45,2,,Caretaker,{{MC}}: Heal 10 damage to target Creature.,Deciphering the Runic Grove’s mysterious markings is Donmar’s devotion... and the likely cause of his dementia.,,,,,,Male
+Dractyl,DOP,Common,8,OverWorld,25,70,50,75,40,0,,Scout,"Range
+Swift 1",The high-flying OverWorld messenger and spy.,,,,,,Male
+Drakness,DOP,Super Rare,33,UnderWorld,65,45,85,50,40,0,Fire,Ethereal,Mugic played by Creatures you control that deal damage deal an additional 5 damage.,Trust not your own shadow - for Drakness dwells there before he strikes,,1,,,,"Ambiguous, Male"
+Ekuud,DOP,Rare,57,Danian,40,60,30,40,45,1,Earth,Noble,Hive: Ekuud has an additional 5 Energy for each Mandiblor you control and each Infected Creature in play.,"“Fear the enemy, yes. But fear me more!” – Ekuud",,,,,,Male
+Formicidor,DOP,Common,58,Danian,60,40,35,40,40,1,Earth,Squadleader Scout,Hive: Formicidor has an additional 10 Courage for each Mandiblor you control and each Infected Creature in play.,"Because he dares to roam the UnderWorld, Formicidor knows secrets even some UnderWorlders do not.",,,,,,Male
+Frafdo,DOP,Uncommon,9,OverWorld,85,80,45,75,35,0,,Guardian,Support: Courage 5,This winged warrior makes his nest at Castle Bodhran.,,,,,,Male
+Galin,DOP,Uncommon,59,Danian,65,70,40,65,50,0,,Mandablor,Hive: Galin has an additional 10 Speed for each Mandiblor you control and each Infected Creature in play.,"Galin believes he can speak with his Danian ancestors, who have yet to tell him anything of much use.",,,,,,Male
+Gespedan,DOP,Common,10,OverWorld,45,50,35,100,35,1,,Scout,"Support: Speed 5
+Swift 1","No matter how swiftly Gespedan sprints, he can’t outrun his one, tragic mistake.",,,,,,Male
+Ghuul,DOP,Common,34,UnderWorld,50,85,15,35,35,0,Fire,Taskmaster,"Range
+Swift 1","“How many more until you’re satisfied, Mommark? Every mistake grows their number!” - Maxxor",,,,,,Male
+Grook,DOP,Uncommon,35,UnderWorld,30,110,20,60,45,0,Fire,Taskmaster,Intimidate: Power 10,“Mugic? Bah! What can a Mugician do that I can’t do with my fists?” – Grook,,,,,,Male
+H'earring,DOP,Uncommon,36,UnderWorld,70,30,55,45,50,1,,Scout,{{MC}}: Look at the top three cards of target player's Location Deck and put them back in any order.,"Perhaps the most effective of the UnderWorld spies, H’earring mainly puts his supersonic skills to work for himself.",,,,,,Male
+Heptadd,DOP,Ultra Rare,11,OverWorld,50,50,50,50,50,1,"Fire, Air, Earth, Water",Guardian Muge,Heptadd may play Mugic of any tribe.,Some in Perim believe that Heptadd knows where the Cothica is.,,1,1,,,Male
+Hota,DOP,Uncommon,60,Danian,40,55,35,30,30,2,Fire,Mandablor Muge,,“Hota is the least ‘Danian’ Danian I know.” – Ibiaan,,,,,,Male
+Ibiaan,DOP,Uncommon,61,Danian,45,60,65,30,50,0,Earth,Mandablor,Hive: Ibiaan has an additional 5 Wisdom for each Mandiblor you control and each Infected Creature in play,"“If Ibiaan’s so smart, why is he still a Mandiblor?” – Hota",,,,,,Male
+Intress,DOP,Super Rare,12,OverWorld,40,35,40,55,40,1,Water,Hero,Water 5,The secret behind Maxxor’s bond with Intress is also the wedge that keeps them apart.,,,,,,Female
+Junda,DOP,Common,62,Danian,35,55,50,40,50,1,,Squadleader,{{MC}}: Activate Hive.,"Every Mandiblor aspires to be a Squadleader. So, even while Junda faces the enemy, he’s also watching his back.",,,,,,Male
+Kannen,DOP,Rare,63,Danian,25,20,70,25,40,1,,Battlemaster,"{{MC}}: Activate Hive
+Sacrifice Kannen: Return a Mandiblor card from your discard pile to any open space.",“My life is my Tribe!” – Kannen,,,,,,Male
+Kebna,DOP,Uncommon,64,Danian,65,30,55,35,45,1,Fire,Squadleader,Hive: Kebna has an additional 5 Energy for each Mandiblor you control  and each Infected Creature in play.,There’s a fine line between bravery and insanity. Kebna crosses that line daily.,,,,,,Male
+Kerric,DOP,Uncommon,37,UnderWorld,45,30,45,65,50,0,Air,Scout,"Range
+Swift 1",Provides crucial aerial surveillance of the Cordac Plungepool.,,,,,,Male
+Khybon,DOP,Uncommon,38,UnderWorld,75,25,85,20,40,1,,Taskmaster,"Intimidate: Courage 10
+Intimidate: Wisdom 10","“Yeah, I could build that.” – Khybon",,,,,,Male
+Klasp,DOP,Rare,39,UnderWorld,65,95,30,65,65,0,Fire,Taskmaster,"Recklessness 5
+Sacrifice Klasp: Deal 10 damage to target Creature.","If you find yourself seeing eye-to-eye with Klasp, it means you previously had not.",,,,,,Male
+Krekk,DOP,Common,40,UnderWorld,10,85,20,60,40,0,Fire,Commander Scout,"Intimidate: Power 10
+Range ",“Fear is a great motivator. Just look at Krekk.” – Lord Van Bloot,,,,,,Male
+Kughar,DOP,Common,41,UnderWorld,65,85,25,45,50,0,Fire,Taskmaster,Intimidate: Power 10,"On bad days, Kughar is angry, furious and enraged. On good days, he’s just angry and furious.",,,,,,Male
+Laarina,DOP,Uncommon,13,OverWorld,35,20,50,30,30,2,"Earth, Water",Scout,,“I don’t steal; I liberate lost valuables. And the only problem I have with what I do is the possibility of getting caught.” —Laarina,,,,,,Female
+Lhad,DOP,Common,65,Danian,65,65,70,25,40,0,Fire,Mandablor,,"“Unless we become one, we will become none.” – Mandiblor war cry",,,,,,Male
+Lord Van Bloot,DOP,Ultra Rare,42,UnderWorld,75,115,50,95,65,2,Earth,Conquerer Muge,"While a Creature engaged with Lord Van Bloot has less than 65 Courage, that Creature has 10 less Energy.","“I may serve Chaor, but in time, Chaor will serve me!” – Lord Van Bloot",,1,1,,,Male
+Lore,DOP,Super Rare,66,Danian,30,35,70,30,25,3,,Muge,{{MC}}: Deal 10 damage to target Creature and heal 10 damage to Lore.,"As a spirit leader of the Danians, many believe this shaman may one day lead his Tribe to the Cothica.",,1,,,,Male
+Maglax,DOP,Uncommon,14,OverWorld,70,60,25,30,40,0,Earth,Guardian,Earth 5,Mommark’s monstrous creation has one thing going for him: a magnetic personality!,,,,,,Male
+Magmon,DOP,Rare,43,UnderWorld,75,60,20,35,55,1,Fire,Elementalist,"Fire 5
+Recklessness 5",Magmon’s demeanor will melt your heart ... after burning through the rest of you.,,,,,,"Ambiguous, Male"
+Mallash,DOP,Rare,67,Danian,30,25,45,35,30,2,Earth,Battlemaster,Hive: Mallash has an additional 5 Energy for each Mandiblor you control and each Infected Creature in play.,"“Irresponsible? It’s self-preservation.” – Mallash, rebuffing critics of his “Attack-first, make-sure-it’s-an-enemy-later” policy",,,,,,Male
+Malvadine,DOP,Uncommon,75,Mipedian,50,75,40,55,50,0,,Elite Warrior,"Invisibility: Strike 10
+Invisibility: Surprise",,,,,,,Male
+Marquis Darini,DOP,Rare,76,Mipedian,45,40,65,40,40,0,"Fire, Air",Royal,Creatures you control with Invisibility deal an additional 5 damage with their first attack each combat.,Proponent of peace but staunch defender of Mipedian sovereignty.,,1,,,,Male
+Maxxor,DOP,Ultra Rare,15,OverWorld,100,65,80,50,60,2,"Fire, Earth",Hero,{{MC}}: Heal 10 damage to target Creature.,"No OverWorlder has ever seen Maxxor’s face in battle because he is always in the frontline, leading the charge!",,1,1,,,Male
+Miklon,DOP,Common,44,UnderWorld,20,75,30,60,50,1,,Taskmaster,,"After the “accident,” Khybon crafted the gyropod that keeps this prison guard on patrol.",,,,,,Male
+Najarin,DOP,Rare,16,OverWorld,60,30,90,35,30,2,,Strategist Muge,{{MC}}{{MC}}: Return target Mugic Card from your discard pile to your hand.,“The search for the Cothica is the means to an end. But finding it may mean the end.” – Najarin,,1,,,,Male
+Nauthilax,DOP,Uncommon,45,UnderWorld,70,60,40,55,60,1,Water,Elementalist,Recklessness 5,"Few UnderWorlders can swim, which makes Nauthilax crucial to Chaor’s maritime intelligence gathering.",,,,,,Male
+Odu-Bathax,DOP,Rare,68,Danian,55,60,50,40,35,1,Earth,Warrior,Odu‐Bathax has an additional 5 Energy for each Mandiblor you control and each Infected Creature in play.,Odu-Bathax is the defender of the North Gate at Mount Pillar.,,,,,,Male
+Owis,DOP,Super Rare,17,OverWorld,60,25,55,30,45,1,Water,Guardian,"{{MC}}: Heal 5 damage to target Creature. 
+{{MC}}: Heal 10 damage to Owis.",UnderWorlders have made countless attempts to breach Cordac Falls. Owis has repelled all but one... the one that haunts him.,,,,,,Male
+Prince Mudeenu,DOP,Super Rare,77,Mipedian,55,35,70,30,45,1,,Royal,Invisibility: Strike 20,"Obsessed with controlling the Cothica, he will risk the freedom of the Mipedians to find it.",,1,,,,Male
+Psimion,DOP,Common,18,OverWorld,45,30,55,40,45,1,Earth,Strategist,Support: Wisdom 5,“Simple” Psimion is not... though his seeming to be so has certain advantages.,,,,,,Male
+Pyrithion,DOP,Rare,46,UnderWorld,25,80,40,65,50,0,Fire,Commander,"Intimidate: Courage 10
+Intimidate: Wisdom 10",“Telling the truth only goes so far. But lying? That gets you where you’re going.” – Pyrithion,,,,,,Male
+Qwun,DOP,Common,78,Mipedian,55,40,55,90,35,0,Air,Scout,Invisibility: Surprise,"With Qwun’s blinding Speed, using his Invisibility is rarely necessary.",,,,,,Male
+Rarran,DOP,Uncommon,47,UnderWorld,65,60,30,60,50,0,Fire,Scout,Range,"A prison guard with Dardemus and Miklon, Rarran has not revealed his secret to them: he is one of Mommark’s creations.",,,,,,Male
+Rellim,DOP,Uncommon,19,OverWorld,50,65,60,40,50,1,Water,Caretaker,Support: Courage 5,“The Mill is not my only interest. I also enjoy beating on UnderWorlders.” – Rellim,,,,,,Male
+Rothar,DOP,Rare,48,UnderWorld,75,90,25,50,70,0,Earth,Commander,"Intimidate: Power 10
+Recklessness 5",“I don’t run. I don’t flinch. But I don’t care either.” – Rothar,,,,,,Male
+Shimmark,DOP,Uncommon,79,Mipedian,60,50,30,70,45,1,,Stalker,Invisibility: Strike 10 ,Shimmark is like a footprint in the sand: quickly gone with the wind.,,,,,,Male
+Siado,DOP,Common,80,Mipedian,60,45,60,55,30,1,Air,Stalker,Invisibility: Surprise,"Scout, sentry, spy: Siado is a triple threat to every Mipedian enemy.",,,,,,Male
+Skartalas,DOP,Common,69,Danian,55,45,40,55,40,2,,Controller,Sacrifice Skartalas: Activate Hive.,It’s rumored that Skartalas has had secret dealings with Van Bloot and that their bitter feud is simply an act to hide an alliance.,,,,,,Male
+Skithia,DOP,Uncommon,49,UnderWorld,65,25,55,40,35,1,Fire,Commander,Fire 5,"Van Bloot’s most trusted aide, Skithia is also Takinom’s avowed enemy.",,,,,,Female
+Skreeth,DOP,Rare,50,UnderWorld,80,65,60,20,55,0,,Warrior,"Range
+Swift 1",Skreeth’s boldness may be his undoing some day. Spineless he’s not!,,,,,,Male
+Slurhk,DOP,Common,20,OverWorld,45,35,35,40,50,0,"Earth, Water",Guardian,,"As poison spreads throughout the Mipedian’s body, Slurhk sneers. He will enjoy reclaiming his desert homeland – one lizard at a time.",,,,,,Male
+Sobtjek,DOP,Uncommon,81,Mipedian,40,25,65,40,30,1,Air,Muge,"{{MC}}, Sacrifice Sobtjek: Deal 25 damage to target Creature.",Few Mipedians can outlast Sobtjek in a parfkew eating contest.,,,,,,Male
+Solvis,DOP,Rare,51,UnderWorld,45,60,65,35,40,2,,Taskmaster,{{MC}}{{MC}}: Deal 10 damage to target Creature.,The proof of the theory of natural selection or devolution defined?,,,,,,Male
+Staluk,DOP,Rare,21,OverWorld,35,45,25,40,50,0,Earth,Warrior,"Earth 5
+Swift 1",This Mommark creation is slow to start... and difficult to stop.,,,,,,Male
+Takinom,DOP,Super Rare,52,UnderWorld,60,65,20,90,40,1,,Commander,"Sacrifice an UnderWorld Creature: Heal 25 damage to Takinom
+Swift 1",Takinom unearthed a shocking secret bond with her archenemy Intress that she’s wisely kept from Chaor…,,,,,,Female
+Tangath Toborn,DOP,Super Rare,22,OverWorld,40,45,40,30,30,1,"Fire, Earth",Strategist Warrior,{{MC}}: Heal 10 damage to Tangath Toborn.,"“I battle because I must. But in my heart, I know that war is not the answer.” – Tangath Toborn",,,,,,Male
+Tartarek,DOP,Rare,23,OverWorld,90,45,90,25,35,1,,Hero,"{{MC}}: Target Creature gains ""Swift 1"".","Brave enough to take on any battle, wise enough to avoid most.",,,,,,Male
+Tiaane,DOP,Rare,82,Mipedian,65,40,50,20,40,2,,Muge,"{{MC}}, Sacrifice Tiaane: Deal 25 damage to target Creature.","Tiaane has studied Mugic with Najarin himself, earning him respect throughout the OverWorld.",,,,,,Male
+Toxis,DOP,Uncommon,53,UnderWorld,45,70,40,50,50,2,Fire,Elementalist,Recklessness 5,"A resident of the Pits outside the UnderWorld prison, escapees beg to return to their cells after encountering Toxis.",,,,,,Male
+Ubliqun,DOP,Rare,83,Mipedian,35,45,60,60,35,2,,Stalker,{{MC}}: Ubliqun can move to any space on the board as if it were adjacent.,"When this warrior takes to the air, look out! But looking may do you no good, as you might see nothing …until it’s too late!",,,,,,Male
+Ulmar,DOP,Super Rare,54,UnderWorld,40,20,70,35,25,2,Fire,Conquerer,{{MC}}: Deal 10 damage to target Creature.,Takinom thinks that Chaor’s “go-to” guy for Battlegear has a screw loose himself.,,,,,,Male
+Uro,DOP,Common,84,Mipedian,60,60,40,60,45,0,,Elementalist,"Invisibility: Strike 5. 
+Invisibility: Surprise",,,,,,,Male
+Valanii Levaan,DOP,Uncommon,70,Danian,50,50,15,25,50,1,Earth,Noble,Hive: Valanii Levaan has an additional 10 Power for each Mandiblor you control  and each Infected Creature in play. ,"When his Squadleaders don’t execute orders, Valanii Levaan orders executions.",,,,,,Male
+Velreth,DOP,Uncommon,24,OverWorld,55,80,40,25,45,1,,Warrior,Swift 1,Velreth is easy to find: just follow the path of destruction.,,,,,,Male
+Vidav,DOP,Common,25,OverWorld,45,30,50,35,35,2,,Strategist,{{MC}}: Heal 15 damage to target Creature.,he treaty of Vidav could have brought peace to the warring tribes of Perim ... if only its leaders had been willing to accept it.,,,,,,Male
+Vinta,DOP,Uncommon,85,Mipedian,40,60,35,40,35,1,Air,Stalker,Invisibility: Strike 10,Many trespassers have felt the breath of Vinta as they breached the Mipedim Oasis. But they have felt it too late.,,,,,,Male
+Wamma,DOP,Common,71,Danian,40,55,30,25,50,0,Fire,Mandablor,Hive: Wamma has an additional 5 Energy for each Mandiblor you control and each Infected Creature in play.,"Most Mandiblors are diligent, dedicated warriors. Wamma is not like most Mandiblors.",,,,,,Male
+Xaerv,DOP,Uncommon,26,OverWorld,40,25,45,60,30,2,Air,Elementalist,Air 5,“You got Xaerved.” - Xaerv,,,,,,Male
+Xield,DOP,Super Rare,55,UnderWorld,95,40,35,15,20,0,,Elementalist,Deal 10 damage to Xield: Target Creature gains 10 Energy. This ability can only be used once per turn.,"When the arrows shattered against his back, Xield knew he had found his calling.",,,,,,Male
+Yokkis,DOP,Super Rare,27,OverWorld,20,20,20,20,50,2,Earth,Hero,Support: All Disciplines 5,"He may look funny from a distance, but get too close and the joke’s on you.",,,,,,Male
+Zalic,DOP,Rare,28,OverWorld,45,55,40,40,45,2,,Guardian,{{MC}}: Heal 15 damage to Zalic.,"This confidant of Intress never sleeps, so Maxxor has appointed him guardian of the Passage between the OverWorld and the UnderWorld.",,,,,,Male
+Zaur,DOP,Common,56,UnderWorld,65,75,35,25,50,1,,Warrior,,"""'Failure' is such a harsh word. Let's just say my experiment had unintended consequences."" —Mommark",,,,,,Male
+Zhade,DOP,Common,86,Mipedian,65,60,40,60,30,1,Air,Stalker,Invisibility: Surprise,Some lead. Some follow. Zhade is content just to hang around.,,,,,,Male
+Aggroar,ZOTH,Common,1,OverWorld,55,35,65,45,40,0,Earth,Strategist,"Strategists you control have ""Defender.""","Flickers like a frozen flame, strikes like a burning shard.",,,,,,Male
+Arkanin,ZOTH,Uncommon,31,Mipedian,55,35,70,55,40,2,,Muge,"{{MC}}: Deal 5 damage to target Creature.
+{{MC}}: Heal 10 damage to target Creature.
+Arkanin can spend Mugic counters from other Muges you control to activate its abilities.","Some Muges avoid fighting, but Arkanin jumps into the heat of battle.",,,,,,Male
+Balaan,ZOTH,Common,16,Danian,65,35,50,25,55,1,,Squadleader,"Sacrifice Balaan: Activate Hive.
+When Balaan is placed in your discard pile, Infect target Uninfected Creature.","As his enemy sprouted antennae, Balaan knew his queen would be proud.",,,,,,Male
+Bierk,ZOTH,Rare,17,Danian,65,50,50,40,40,0,Water,Squadleader,"At the beginning of each turn, if your opponent controls an UnderWorld Creature, Activate Hive.
+Hive: Fireproof 10",Bierk was once seen cannonballing into the Lava Pond.,,,,,,Male
+Daj Huun,ZOTH,Common,18,Danian,70,50,35,70,45,0,,Mandiblor,"Swift 2
+Hive: Daj Huun cannot move and has an additional 10 Energy.","""Look up 
+Look around 
+Never forget 
+To look down"" 
+—UnderWorld nursery rhyme",,,,,,Male
+Dasalin,ZOTH,Uncommon,19,Danian,35,35,65,25,40,1,Water,Mandiblor,"Water 5
+Hive: Dasalin does not have ""Water 5"" and has ""{{MC}}: Heal 10 damage to target Mandiblor"" instead.",Quench your spirit as well as your thirst.,,,,,,Male
+Dibanni,ZOTH,Rare,32,Mipedian,55,35,70,55,30,2,,Muge,{{MC}}: Target adjacent Creature gains a Mugic counter.,"""I can only open the door to understanding the true mysteries of Mugic. I can force no one to walk through it."" 
+—Dibanni",,1,,,,Male
+Dubin,ZOTH,Common,20,Danian,50,35,50,25,30,2,,Controller,"{{MC}}: Infect target Uninfected Creature.
+While an opponent controls an Infected Creature, Dubin has an additional 5 Energy.",How does the parasite take control? Who knows... who cares?!,,,,,,Male
+Faash,ZOTH,Uncommon,21,Danian,50,65,35,55,50,2,Fire,Elementalist,"Deactivate Hive: Faash gains ""Fire 5."" Hive cannot be Activated again this turn. (Hive must be active to Deactivate it.)",,,,,,,Male
+Garv,ZOTH,Rare,2,OverWorld,50,25,75,30,55,2,,Caretaker,{{MC}}: Flip target Battlegear face-up or face-down.,Speaker of a thousand languages - from bird to bacteria - the bulbous monk wanders the land and watches life flourish with every step.,,1,,,,Male
+Geltod,ZOTH,Common,6,UnderWorld,45,70,45,40,45,1,,Muge,Discard an UnderWorld Mugic Card: Deal 5 damage to target Creature.,"Ah-choo! Oh, gross! I just 'geltodded' into my hands.",,,,,,"Ambiguous, Male"
+Hammerdoom Chantcaller,ZOTH,Ultra Rare,7,UnderWorld,50,55,40,55,65,1,Fire,Warrior,"Attacks played by Hammerdoom Chantcaller deal an additional 5 damage to Danian Creatures. If Hive is active, attacks played by Hammerdoom Chantcaller deal an additional 5 damage to Underworld Creatures instead.",,,1,,,,Male
+Hune Marquard,ZOTH,Uncommon,3,OverWorld,40,35,65,50,30,2,,Muge,"When an opposing Creature plays a Danian Mugic, Hune Marquard gains a Mugic counter.","As the foremost authority on Danian Mugic, he works to unlock their mysteries... and how to exploit them.",,,,,,Male
+Illazar,ZOTH,Super Rare,8,UnderWorld,45,70,60,55,40,2,Air,Muge,"When a Creature you control leaves play, if that Creature had one or more Mugic counters on it, remove a Mugic counter from target Creature.",No one believed Bodal when he said he was struck by a streaking rainbow.,,1,,,,Male
+"Illexia, The Danian Queen",ZOTH,Ultra Rare,22,Danian,50,65,65,25,55,2,Earth,Noble,"Your adjacent Creatures have ""Defender.""
+When a Mandiblor or an Infected Creature is put into a discard pile, Illexia gains a Mugic counter.
+{{MC}}: Activate Hive.
+Hive: Mugic counters on Illexia count as Mandiblors you control when counting Mandiblors.",,,1,1,,,Female
+Jaal,ZOTH,Uncommon,23,Danian,45,35,65,30,50,0,Earth,Warrior,"When Jaal deals Earth damage to an Uninfected Creature, Infect that Creature.
+While engaged with an Infected Creature, Jaal has ""Earth 5.""",,,,,,,Male
+Kamangareth,ZOTH,Uncommon,9,UnderWorld,60,70,30,55,55,0,Earth,Commander,Deal 15 damage to Kamangareth while engaged: Deactivate Hive.,"""Stalk, isolate, destroy. Do these three things and the Danians are powerless!"" —Kamangareth
+
+",,,,,,Female
+Kelvedran,ZOTH,Common,24,Danian,35,50,35,55,40,0,Air,Mandiblor,"Fireproof 10
+Earthproof 10",,,,,,,Male
+Khavakk,ZOTH,Rare,25,Danian,35,50,35,25,30,2,Water,Muge,"{{MC}}: Deal 5 damage to target Creature.
+{{MC}}, Deactivate Hive: Deal 15 damage to target Creature.","""Power, strength and stamina? Overrated."" 
+—Khavakk",,,,,,Male
+Khritlaan,ZOTH,Super Rare,26,Danian,65,50,65,25,40,2,Water,Noble,"While Khritlaan is in your discard pile, Mandiblor cards in your discard pile count as Mandiblors you control when counting Mandiblors.","""Even from the grave shall you serve Illexia."" 
+—Khritlaan",,,,,,Male
+Kolmo,ZOTH,Super Rare,33,Mipedian,60,55,50,40,65,0,Air,Elite,"Invisibility: Disarm
+While engaged with a Danian Noble, Kolmo has ""Invisibility: Strike 20.""
+Range
+Swift 1",,,1,,,,Male
+Lomma,ZOTH,Super Rare,4,OverWorld,55,50,60,35,40,2,Water,Guardian,"Defender
+Water 5
+The first attack against Lomma each combat deals 10 less damage.","After losing her family as a child, Lomma vowed that none would terrorize her tribe again.",,,,,,Female
+Mahrrant,ZOTH,Super Rare,27,Danian,35,60,65,25,40,1,,Mandiblor Muge,"When an Infected Creature is put into a discard pile, Mahrrant gains a Mugic counter.
+{{MC}}: Activate Hive.",Never let anything go to waste - including your fallen foes.,,,,,,Male
+Munnari,ZOTH,Common,34,Mipedian,40,50,50,70,35,1,Air,Stalker,Invisibility: Disarm,"As Tangath Toborn reached for his blade, his heart sank when he realized he only had his sheath at his side.",,,,,,Male
+Narfall,ZOTH,Uncommon,10,UnderWorld,45,70,45,40,50,0,Fire,Elementalist,"When Narfall becomes engaged, deal 5 damage to opposing engaged Creature for each Elemental Type that Creature has.","The breeze suddenly died, as if all hope left the world.",,,,,,Male
+Ornathor,ZOTH,Common,11,UnderWorld,75,55,45,55,45,0,,Taskmaster,Waterproof 10,,,,,,,Male
+"Ramarhvir, The Danian Hivebringer",ZOTH,Ultra Rare,28,Danian,35,65,50,25,50,1,Air,Noble Mandiblor Muge,"When Hive is activated, you may move a Mugic counter from a Danian you control to Ramarhvir, the Danian Hivebringer.
+{{MC}}{{MC}}: Return target Mandiblor card in your discard pile to play in an open space.",,,,,,,Male
+"Raznus, Ambassador to the Danians",ZOTH,Super Rare,5,OverWorld,60,20,70,40,40,0,"Earth, Water",Ambassador,"Danian Creatures you control may play OverWorld Mugic.
+Fireproof 10",Raznus yearned to forge an alliance. The Danians had other ideas.,,1,,,,Male
+Ribbian,ZOTH,Super Rare,35,Mipedian,45,50,40,45,40,1,Air,Scout,"Invisibility: Disarm
+Air 5
+When a Creature deals damage to itself, that damage is increased by 5.",Ribbian quickly learned that it's much easier to give orders than to take them.,,,,,,Male
+Slufurah,ZOTH,Rare,12,UnderWorld,45,65,65,20,40,1,Fire,Muge,"Muges have ""Sacrifice this Creature: Deal 10 damage to target Creature.""
+
+","""You've run out of Mugicians? Do not fear. I know how you can still be useful."" 
+—Slufurah",,,,,,Male
+Strikto,ZOTH,Rare,13,UnderWorld,50,45,75,40,40,1,Fire,Warrior,"When Strikto gains a Mugic counter, it loses 10 Energy.
+When a Creature deals damage to Strikto, that Creature loses 5 Energy.",,,,,,,Male
+Swassa,ZOTH,Uncommon,14,UnderWorld,45,65,45,55,50,0,Fire,Warrior,"Deal 10 damage to a Creature you control: That Creature gains ""Swift 2"". This ability can only be used once per turn.","Rule #31: Never disobey a leader who wields four weapons at once.",,,,,,Female
+Tassanil,ZOTH,Rare,29,Danian,60,45,55,50,40,0,Water,Noble Elementalist,"Water 5 
+Hive: Tassanil has an additional 5 Energy for each Elemental Type opposing Creatures have.
+Tassanil counts as a Mandiblor.",,,1,,,,Male
+Ultadur,ZOTH,Super Rare,15,UnderWorld,40,85,30,75,55,1,,Commander,"Commanders you control have Fire and ""Recklessness 5.""
+Ultadur may not gain Mugic counters","And in an instant, the village was gone, the land was scorched and the fields would never flower again.",,,,,,Male
+Yondaf,ZOTH,Rare,30,Danian,50,35,65,20,30,0,"Fire, Earth",Controller,"When an opposing Uninfected Creature is targeted by a Mugic you control, Infect that Creature.","Forget your Tribe, forget your friends, forget yourself. You are one of us now!",,,,,,Male
+Arbeid,SS,Uncommon,1,OverWorld,45,30,50,35,35,2,Water,Guardian,{{MC}}: Target attack deals 5 damage. This ability can only be used once per turn.,"""Keep attacking. I'll let you know when it stops tickling."" 
+—Arbeid",,1,1,,,Male
+Atrapol,SS,Common,11,UnderWorld,65,55,25,15,45,0,Earth,Warrior,"When Atrapol wins a Power Challenge on an attack it plays, destroy target Battlegear equipped to the opposing engaged Creature.","Like most UnderWorlders, Atrapol fights best when he's already winning.",,,,,,Male
+"Blazvatan, the Epic Warbeast",SS,Ultra Rare,21,Mipedian,150,75,50,150,70,0,"Air, Earth",Warbeast,"Air 5
+Earth 5
+Recklessness 25",Conjuring is worthless without control.,,1,1,,,Ambiguous
+Bylkian,SS,Rare,22,Mipedian,50,15,50,30,35,2,,Royal Conjuror,"Reduce Recklessness damage dealt to Warbeasts you control by 10.
+{{MC}}: Reduce Recklessness damage dealt to Warbeasts you control by an additional 10.",,,,,,,Male
+Clodor,SS,Common,2,OverWorld,40,55,95,35,50,0,,Warrior,"When Clodor wins a Wisdom Challenge on an attack it plays, it gains a Mugic counter.","Without the harness, Clodor's unstable spark would have exploded and destroyed Perim long ago.",,,,,,"Ambiguous, Male"
+Drimesse,SS,Common,23,Mipedian,30,30,60,40,45,2,,Conjuror,"Reduce Recklessness damage dealt to Warbeasts you control by 10.
+If Drimesse has no Mugic counters, sacrifice it.","""Stop this madness! Haven't you learned from your mistakes?!"" 
+—Sobtjek",,,,,,Male
+Enre-hep,SS,Ultra Rare,24,Mipedian,50,20,80,50,50,1,,Muge,"When a Creature you control is put into your discard pile from play, Enre‐hep gains a Mugic counter for each Mugic counter on that Creature.
+{{MC}}: Target Creature gains ""Recklessness 5"".",,,1,1,,,Male
+Ere,SS,Common,25,Mipedian,50,75,20,100,50,0,Air,Warbeast,"Range
+Swift 4
+Recklessness 10 ","Born of sand and storm, Ere can traverse the Mipedim Desert in mere seconds.",,,1,,,Ambiguous
+Fivarth,SS,Super Rare,26,Mipedian,15,15,15,15,15,2,,Conjuror,"Reduce Recklessness damage dealt to Warbeasts you control by 5.
+Fivarth may not be the target of Mugic or abilities.","""Our so-called 'leaders' have failed us. Now we must control our own destiny!"" 
+—Fivarth",,,,,,Male
+Gnarlus,SS,Super Rare,27,Mipedian,50,30,30,65,45,2,,Warrior,"Damage dealt to Gnarlus by Mugic is reduced to 0.
+{{MC}}{{MC}}: Damage dealt to target Creature by Mugic is reduced to 0.",,,,,,,Male
+"Hammerdoom Chantcaller, Assimilated",SS,Super Rare,16,Danian,70,40,55,55,55,0,Earth,Mandiblor Warrior,"Hive: Fireproof 10
+Attacks played by Hammerdoom Chantcaller deal an additional 5 damage to UnderWorld Creatures.",,,1,1,,,Male
+Hifdan,SS,Uncommon,3,OverWorld,50,25,35,35,40,0,"Fire, Earth",Scout,"When a Creature you control gains a Mugic counter, Hifdan gains ""Range"" and ""Swift 2"".","Though feared by many for looking like an UnderWorlder, Hifdan is as loyal to Maxxor as they come.",,,,,,Male
+Iparu,SS,Ultra Rare,4,OverWorld,25,25,25,25,50,1,"Fire, Air",Elementalist,"At the beginning of combat, Iparu gains or loses Courage, Power, Wisdom and Speed so those values become equal to the opposing engaged Creature's Scanned Courage, Power, Wisdom and Speed.",,,1,1,,,"Ambiguous, Male"
+Kalt,SS,Common,5,OverWorld,55,30,35,40,40,2,Water,Elementalist Muge,"{{MC}}: Another target Creature gains an Elemental Type of your choice. If that Creature is an Elementalist, it also gains a Mugic counter. This ability can only be used once per turn.
+",,,,,,,Male
+Karraba,SS,Super Rare,6,OverWorld,60,30,40,40,35,3,,Muge,{{MC}}: Heal 10 damage to target Creature for each Mugic counter on Karraba. This ability can only be used once per turn.,,,,,,,Male
+"Kinnianne, Ambassador to the Mipedians",SS,Super Rare,7,OverWorld,60,35,65,60,50,2,Earth,Ambassador,"If a Mugic or ability would heal a Mipedian you control, it heals an additional 5 damage.
+Kinnianne may play Mipedian Mugic",,,1,,,,Female
+"Kolmo, Assimilated",SS,Super Rare,17,Danian,75,70,30,60,60,1,Earth,Mandiblor,"Invisibility: Surprise
+While engaged with a Mipedian Royal, Kolmo has ""Invisibility: Strike 20.""
+{{MC}}: If Kolmo is not engaged, relocate it to an open space on the Battleboard.",,,1,,,,Male
+Kopond,SS,Super Rare,12,UnderWorld,30,15,50,20,20,3,,Muge,{{MC}}: Deal 5 damage to target Creature for each Mugic counter on Kopond. This ability can only be used once per turn. ,,,,,,,Male
+Lanker,SS,Uncommon,28,Mipedian,75,50,90,30,30,1,,Warrior,"Lanker loses 5 Energy: Choose Courage, Power, Wisdom, orSpeed. Target Creature gains 15 in the chosen discipline.",,,,,,,Male
+Lobanne,SS,Uncommon,18,Danian,35,30,55,35,35,3,,Mandiblor Muge,"{{MC}}: For each Mugic counter on Lobanne, choose ""Fireproof 10,"" ""Airproof 10,"" ""Earthproof 10"" or ""Waterproof 10."" Target Creature gains the chosen abilities. This ability can only be used once per turn.",,,,,,,Male
+Makrabon,SS,Common,19,Danian,20,30,50,25,35,2,,Controller,"When Makrabon gains a Mugic counter, Infect target Uninfected Creature.
+{{MC}}: Activate or Deactivate Hive",,,,,,,Male
+Melke,SS,Common,29,Mipedian,60,30,20,65,40,0,"Air, Earth",Stalker,"Invisibility: Strike 10 
+If a Mirage Location is in play, Melke has an additional ""Invisibility: Strike 10.""",Beware when crossing The Hunter's Perimeter. You may become the hunted.,,,,,,Male
+Na-inna,SS,Common,30,Mipedian,60,20,50,50,45,1,,Royal,"0{{MC}}: Remove a Mugic counter from target Creature. If you do, put a Mugic counter on another Creature controlled by the same player. This ability can only be used once per turn.",,,,,,,Female
+Olkiex,SS,Super Rare,8,OverWorld,40,65,70,30,50,0,Water,Strategist,"When a Creature you control gains a Mugic counter, flip target face-up Battlegear face-down.","Though Bodal takes credit for the repairs, Olkiex loves working for such a ""charismatic"" boss.",,,,,,Male
+Phelphor,SS,Super Rare,13,UnderWorld,55,65,60,50,45,1,Water,Conqueror Scout,"At the beginning of your turn, you may relocate target Creature to an open space on the Battleboard adjacent to that Creature.","Everyone wants to know what's behind the Doors, but none more than him.",,,,,,Male
+Ranun,SS,Uncommon,31,Mipedian,45,25,55,45,35,2,,Conjuror,"Reduce Recklessness damage dealt to Warbeasts you control by 10.
+{{MC}}: Heal 10 damage to target Creature.",I will not rest until both Maxxor and Chaor pay for their treachery!,,,,,,Male
+"Raznus, Assimilated",SS,Rare,20,Danian,50,20,75,30,50,1,Water,Mandiblor Ambassador,"{{MC}}: Danians you control may not be the target of Mugic or abilities. This ability can only be used once per turn.
+
+",,,1,,,,Male
+Saand,SS,Uncommon,32,Mipedian,50,30,50,75,50,0,Air,Elite,"Invisibility: Surprise
+Air 5
+At the beginning of your turn, you may sacrifice Saand. If you do, each player removes a total of 3 Mugic counters from among any Creatures they control.
+If Saand has any Mugic counters, sacrifice it.",,,,,,,Male
+Titanix,SS,Uncommon,33,Mipedian,75,50,20,75,60,0,,Warbeast,"Intimidate: Courage 50
+Intimidate: Speed 50
+Recklessness 20","""Sobtjek, admit that the rewards far outweigh the risks."" 
+—Drimesse",,,1,,,Ambiguous
+Uboraan,SS,Rare,34,Mipedian,50,75,20,75,50,0,"Air, Earth",Warbeast,"Fireproof 10 
+Waterproof 10 
+Recklessness 15",Uboraan is a smallish Warbeast... only about the size of twenty Chaors.,,,1,,,Ambiguous
+Viqtarr,SS,Rare,9,OverWorld,75,45,75,35,40,0,"Earth, Water",Strategist,"While Viqtarr has both higher Courage and Wisdom than the opposing engaged Creature, the first attack against it each combat deals 0 damage.",,,,,,,Male
+Vyll,SS,Uncommon,14,UnderWorld,55,35,75,30,40,2,,Muge,{{MC}}{{MC}}: Remove a Mugic counter from target Creature.,"As the ""Annihilator of Mugic,"" Vyll prevents the casting of Mugic by targeting the source - the Mugicians themselves.",,,,,,Male
+Wytod,SS,Rare,10,OverWorld,50,25,55,30,40,1,,Muge,Sacrifice Wytod: Choose a new target for target Mugic which only targets a single Creature.,"Few Creatures have saved both Maxxor and Najarin's lives. None but Wytod have done so twice!
+
+",,,,,,Male
+Xelfe,SS,Rare,35,Mipedian,50,40,35,80,40,3,,Scout,"{{MC}}: Target Creature gains ""Range"" and ""Swift X,"" where X is the number of Mugic counters on Xelfe.",,,,,,,Male
+Zapetur,SS,Rare,15,UnderWorld,55,60,25,35,35,0,"Fire, Earth",Commander,"Sacrifice a Battlegear: Deal 5 damage to target Creature. This ability can only be used once per turn.
+Sacrifice Zapetur: Destroy target Battlegear.",,,,,,,Male
+Accato,MI,Common,1,OverWorld,55,45,70,35,65,1,Fire,Minion Warrior,Support: Wisdom 10,,Outperform Wisdom 5,,,,,Male
+Akkrean,MI,Rare,2,OverWorld,40,40,70,45,35,2,Air,Guardian Muge,{{MC}}: Deal 10 damage to target Creature on your side of the Battleboard.,"Rarely to enemies enter his lands, and almost never do they leave unscathed.",,,,,,Male
+Alazdan,MI,Rare,43,Mipedian,55,35,65,20,40,2,"Air, Water",Minion Muge,"{{MC}}{{MC}}, Sacrifice Alazdan: Deal 35 damage to target engaged Creature.",,"{{MC}}{{MC}}, Sacrifice Alazdan: Target engaged Creature loses 35 to all Disciplines.",1,,,,Male
+Aokua,MI,Rare,15,UnderWorld,100,100,100,100,50,1,,Commander,Exhaust all Disciplines 10,"Aokua was the first to learn that if you can get past the hardened shell, Danians are both nutritious and delicious.",,,,,,Male
+Asadab,MI,Common,16,UnderWorld,20,55,55,30,25,2,Water,Minion Muge,{{MC}}: Target Creature gains 15 Power.,,{{MC}}: Deal 5 damage to target Creature and it loses 10 Power.,,,,,Male
+Bivike,MI,Super Rare,44,Mipedian,65,50,40,70,50,1,"Air, Earth",Scout,"While engaged with a M'arrillian, Bivike has ""Invisibility: Strike 20.""
+While in a space with a Mirage, Bivike's Disciplines can't be raised or lowered.",,,,,,,Male
+Bladez,MI,Rare,17,UnderWorld,80,90,35,30,60,0,"Fire, Air",Minion Warrior,"If an Attack Card played by Bladez would deal 0 damage, it deals 15 damage instead.",,"Attacks played by Bladez have ""Opposing engaged Creature loses 10 to all Disciplines.""",,,,,Male
+Brimflame,MI,Common,18,UnderWorld,60,90,45,60,60,0,"Fire, Air",Taskmaster Minion,"While equipped, Brimflame has ""Fire 5.""",,Sacrifice a Battlegear equipped to Brimflame: Destroy target Battlegear.,,,,,Male
+Chaac,MI,Common,29,Danian,70,40,50,35,45,2,,Squadleader Minion,"Hive: Chaac has an additional 15 Energy.
+{{MC}}: Infect target Uninfected Creature.",,{{MC}}: Target Creature loses an Elemental Type of your choice.,,,,,Male
+"Dakkamal, Melee Trainer",MI,Uncommon,45,Mipedian,25,20,55,45,30,2,Fire,Elite Minion,"{{MC}}: Target Creature gains ""Invisibility: Strike 10.""",,{{MC}}: Target Creature loses 25 Speed.,,,,,Male
+Drazz,MI,Super Rare,30,Danian,80,60,35,20,60,0,"Earth, Water",Mandiblor Minion,"While Infected, Drazz has ""Earth 5.""
+Hive: Outperform Courage 5",,Water 5,,,,,Male
+Ebberim,MI,Uncommon,46,Mipedian,50,40,45,70,35,1,Earth,Stalker Minion,{{MC}}: Ebberim gains Air.,,{{MC}}: Relocate target opposing unengaged Creature into an unoccupied space adjacent to it.,,,,,Female
+Ebena'bakku,MI,Ultra Rare,57,M'arrillian,50,50,50,50,50,0,Water,Chieftain,"While your engaged Creature has more Mugic counters than the opposing engaged Creature, your opponent must play Attack Cards at random.",,,1,1,,,Ambiguous
+Erak'tabb,MI,Rare,58,M'arrillian,40,55,85,25,45,0,Water,Chieftain,"Attacks played by Creatures you control have ""Challenge Wisdom 50: Deal 10 damage.""",,,1,1,,,Ambiguous
+Fazkaal,MI,Super Rare,47,Mipedian,35,45,50,30,55,1,"Fire, Air",Minion Muge,"When a Mugic counter is removed from the opposing engaged Creature, that Creature loses 20 to all Disciplines.",,"When a Mugic counter is removed from the opposing engaged Creature, Fazkaal gains a Mugic counter.",,,,,Male
+"Frafdo, The Hero",MI,Super Rare,3,OverWorld,50,70,90,85,55,0,,Hero Warrior,"While you control no other Creatures, Frafdo has an additional 45 Energy.","""Thirty against one? It hardly seems fair... for you."" 
+—Frafdo",,,,,,Male
+Gambreor,MI,Uncommon,19,UnderWorld,35,50,45,45,35,2,,Taskmaster Minion,"{{MC}}, Sacrifice a Battlegear: Heal 15 damage to target Creature.",,"{{MC}}, Sacrifice a Battlegear: Heal 10 damage to target Creature and it gains 10 Power.",,,,,Male
+Gan'trak,MI,Rare,59,M'arrillian,50,50,50,50,50,0,,Chieftain,"Attacks played by your Creatures reduce the opposing engaged Creature's Disciplines by an amount equal to the damage they would deal instead of dealing damage.
+If a Creature has 0 in all Disciplines, destroy it.",,,1,1,,,Ambiguous
+Grindaald,MI,Common,4,OverWorld,25,35,60,40,35,2,,Caretaker Minion,{{MC}}: Heal 10 damage to target Creature.,,{{MC}}: Heal 10 damage to target Creature and it loses 10 Wisdom.,,,,,Male
+Gronmor,MI,Super Rare,5,OverWorld,75,50,80,50,60,0,"Fire, Earth, Water",Guardian Minion,"Support: All Disciplines 5
+Fire 5",,"Support: Energy 5
+Outperform Wisdom 5",,,,,Male
+Hermatred,MI,Common,31,Danian,85,50,45,30,50,0,Water,Mandiblor Minion,"Outperform Courage 5
+Hive: Hermatred has an additional 5 Energy for each Mandiblor you control and each Infected Creature in play.",,"Water 5
+While engaged with an Infected Creature, Hermatred has an additional 15 Energy.",,,,,Male
+Ihun'kalin,MI,Rare,60,M'arrillian,55,60,40,85,45,0,Water,Chieftain,Discard two Mugic Cards: Destroy target engaged Creature with 0 Speed.,,,1,1,,,Ambiguous
+"Ikkatosh, Guardian of Nature",MI,Rare,6,OverWorld,45,35,85,60,55,1,"Fire, Water",Elementalist,"When a Muge or Elementalist you control wins combat, it gains a Mugic counter.","Having lived for ages, Ikkatosh vaguely remembers the last time the Doors were open. It did not end well.",,,1,,,"Ambiguous, Male"
+Ilx,MI,Super Rare,20,UnderWorld,60,90,25,35,70,1,Air,Ethereal Conqueror,"Air 5 
+Recklessness 5 
+While engaged with an unequipped Creature, Ilx has an additional ""Air 5"" and ""Recklessness 5.""",,,,,,,"Ambiguous, Male"
+Irrabeq,MI,Uncommon,32,Danian,75,35,50,60,55,1,"Earth, Water",Mandiblor Minion,"Water 5 
+Hive: Irrabeq has an additional 10 Energy.",,"While engaged with an Infected Creature, Irrabeq has ""Outperform Courage 5.""",,,,,Male
+Issaley,MI,Rare,7,OverWorld,60,50,75,40,55,1,Water,Caretaker Minion,Water 5,,"Opposing Creatures with Water have ""Exhaust all Disciplines 10.""",,,,,Ambiguous
+Jumbad,MI,Common,48,Mipedian,30,25,60,75,50,1,Earth,Minion Muge,{{MC}}: Target Creature gains 10 Speed and 10 Wisdom.,,{{MC}}: Target Creature loses 10 Speed and 10 Wisdom.,,,,,Male
+Kalanju,MI,Rare,33,Danian,50,35,55,40,40,1,Earth,Squadleader Minion,"{{MC}}: Infect target Uninfected Creature.
+Hive: While Infected, Kalanju has an additional 30 Energy.",,"{{MC}}: Infect target Uninfected Creature. 
+{{MC}}: Uninfect target Infected Creature.",,,,,"Ambiguous, Male"
+Katharaz,MI,Ultra Rare,34,Danian,50,30,45,35,45,2,"Air, Earth, Water",Elementalist,"Hive: Katharaz has ""Elementproof all Elemental Types 15.""","""Unite and fight! If we lose the Reservoir, the rest of Mount Pillar will fall!"" 
+—Katharaz",,,,,,Male
+"Kileron, Warbeast of the Dust Storm",MI,Ultra Rare,49,Mipedian,40,70,30,70,50,0,"Air, Earth",Warbeast,"Recklessness 25 
+Air 5  
+Earth 5  
+Creatures and Battlegear Cards that would be placed in a discard pile are removed from the game instead.",,,1,1,,,Ambiguous
+Klar'nok,MI,Super Rare,61,M'arrillian,30,40,55,80,40,0,Water,Chieftain,Discard a Mugic Card: Target Elemental Attack deals 15 less damage.,,,1,1,,,Ambiguous
+Kraade,MI,Common,21,UnderWorld,50,65,40,50,45,1,"Fire, Earth",Minion Scout,Swift 2,,Intimidate: Power 20,,,,,Male
+Kreaal,MI,Rare,22,UnderWorld,40,85,15,50,65,1,"Fire, Air",Ethereal Warrior,"UnderWorld Creatures you control have ""Intimidate: Power 20"" and ""Exhaust all Disciplines 5.""",Kreaal cannot be brainwashed because he has no brain to begin with.,,,1,,,"Ambiguous, Male"
+Lendai,MI,Rare,35,Danian,80,40,60,40,55,0,"Earth, Water",Squadleader,"While Lendai is Uninfected, it has ""Water 5.""
+While Lendai is Infected, it may not be the target of Mugic or abilities.",,,,,,,Male
+Lyssta,MI,Ultra Rare,23,UnderWorld,60,80,30,55,60,0,"Air, Earth",Conqueror Warrior,"When Lyssta wins Initiative, it gains ""Outperform Power 10"" and ""Air 10."" ",,,1,,,,Female
+Lystone,MI,Common,8,OverWorld,25,30,60,25,30,3,,Minion Muge,{{MC}}{{MC}}: Target Creature gains 30 to all Disciplines.,,{{MC}}: Target Creature gains 10 to all Disciplines.,,,,,Female
+"Maliph, Guard of the Palace",MI,Super Rare,50,Mipedian,50,40,35,100,55,0,"Air, Earth",Elite Warrior,"Invisibility: Surprise
+Invisibility: Strike 15
+When Maliph wins combat, relocate Maliph into an unoccupied space adjacent to it.",,,,,,,Male
+Milla'iin,MI,Rare,62,M'arrillian,35,85,65,30,55,0,Water,Chieftain,Discard two Mugic Cards: Destroy target engaged Creature with 0 Power.,,,1,1,,,Ambiguous
+Mivindal,MI,Super Rare,36,Danian,65,30,45,40,40,1,Water,Battlemaster Minion,Sacrifice Mivindal: Return target Mandiblor in your discard pile to play in an unoccupied space on your side of the Battleboard.,,"Sacrifice Mivindal: When target Chieftain is destroyed, return it to play in an unoccupied space.",,,,,Male
+Mizkio,MI,Uncommon,51,Mipedian,55,45,40,65,45,1,"Air, Earth",Elite Minion,"Invisibility: Surprise
+Earth 5",,"Invisibility: Strike 5
+Swift 2",,,,,Female
+"Nauthilax, Tainted",MI,Super Rare,24,UnderWorld,80,100,40,65,60,0,,Minion Scout,"Exhaust all Disciplines 5 
+When Nauthilax wins a Power Challenge, it gains an Elemental Type of your choice.",,"Recklessness 5 
+When Nauthilax deals exactly 25 attack damage, destroy target Battlegear. 
+Outperform Power 5",,,,,Male
+Necrabe,MI,Ultra Rare,37,Danian,100,25,70,35,35,2,Air,Noble,"{{MC}}: Infect target Uninfected Creature.
+If a Creature would be returned to play from a discard pile, remove it from the game and Necrabe gains 2 Mugic counters instead.",,,1,,,,Male
+Neth'uar,MI,Rare,63,M'arrillian,85,55,45,65,55,0,Water,Chieftain,"Attacks played by Creatures you control have ""Challenge Courage 50: Deal 10 damage.""",,,1,1,,,Ambiguous
+Nimmei,MI,Rare,38,Danian,75,45,35,50,50,1,"Air, Earth, Water",Noble,Hive: Nimmei has an additional 5 Energy and 5 to all Disciplines for each Mandiblor you control and each Infected Creature in play.,"Though young and untested, Nimmei's heart more than makes up for years of experience.",,,1,,,Male
+Okaxor,MI,Super Rare,9,OverWorld,45,25,75,30,40,3,Water,Caretaker Minion,{{MC}}: Target Creature gains 25 to a Discipline of your choice.,,{{MC}}: Target Mugic or ability cannot increase or decrease any Creature's disciplines.,,,,,Male
+Ooloo,MI,Uncommon,25,UnderWorld,40,70,35,40,55,1,"Fire, Air",Minion Warrior,"Air 5
+Recklessness 5",,"Outperform Power 5
+Exhaust all Disciplines 5",,,,,"Ambiguous, Male"
+Owayki,MI,Rare,52,Mipedian,40,50,45,85,60,1,"Fire, Air",Royal,"Mipedians you control with Invisibility have an additional 20 Speed and ""Invisibility: Strike 5.""
+Air 5","Neither alive nor dead, the ghost of Hunter's Perimeter haunts the haunted.",,,1,,,Male
+Ragetrod,MI,Uncommon,26,UnderWorld,55,75,40,50,55,2,"Fire, Earth",Commander Minion,"Outperform Power 5
+Recklessness 5",,{{MC}}: Relocate target opposing unengaged Creature into an unoccupied space adjacent to it.,,,,,Male
+"Rarran, Tainted",MI,Rare,27,UnderWorld,30,90,20,85,50,0,Air,Minion Scout,Swift 3,,"If a Creature with Range moves into a space occupied by a Creature you control, Rarran may intercept as though it had Defender and was adjacent.",,,,,Male
+Rath'tab,MI,Ultra Rare,64,M'arrillian,60,20,100,40,40,0,Water,Chieftain,Discard a Mugic Card: Remove all Mugic counters on target engaged Creature.,,,1,1,,,"Ambiguous, Male"
+Rebant,MI,Common,39,Danian,95,20,65,40,30,3,,Battlemaster Minion Muge,{{MC}}: Activate Hive.,,{{MC}}: Heal 10 damage to target Uninfected Creature.,,,,,Male
+Ritzu'dag,MI,Super Rare,65,M'arrillian,50,50,50,50,50,0,Water,Chieftain,"At the beginning of combat, your engaged Creature gains 50 to its lowest Discipline.",,,1,1,,,Ambiguous
+Savell,MI,Super Rare,53,Mipedian,25,30,55,60,40,2,Air,Conjuror Minion,Reduce Recklessness damage dealt to Warbeasts you control by 10 for each Mugic counter on Savell.,,Increase Recklessness damage dealt to Warbeasts by 10 for each Mugic counter on Savell.,,,,,Male
+Sirri,MI,Common,54,Mipedian,50,50,35,80,50,1,"Air, Earth",Minion Scout,Invisibility: Strike 10,,Outperform Speed 5,,,,,Male
+Tabaal,MI,Uncommon,40,Danian,65,30,40,60,40,2,"Air, Water",Mandiblor Minion,{{MC}}: Infect target Uninfected Creature.,,Sacrifice a Mandiblor: Infect up to three target Uninfected Creatures.,,,,,Male
+"Tangath Toborn, in Training",MI,Super Rare,10,OverWorld,50,75,85,35,65,2,"Fire, Earth, Water",Hero Warrior,"{{MC}}: Tangath Toborn gains or loses Courage, Power, Wisdom and Speed to make its Disciplines equal to its Scanned Disciplines.",,,,,,,Male
+Targubaj,MI,Uncommon,11,OverWorld,45,55,65,50,45,1,Fire,Minion Muge,{{MC}}: Heal 10 damage to target engaged Creature.,,{{MC}}: Relocate target opposing unengaged Creature into an unoccupied space adjacent to it.,,,,,Male
+"Tartarek, Psi Overloader",MI,Ultra Rare,12,OverWorld,100,40,100,60,65,2,"Fire, Earth",Hero Minion,"{{MC}}: Target Creature gains 35 Wisdom. 
+Discard an OverWorld Mugic Card: Destroy target Chieftain with 100 or more Wisdom. ",,Tartarek may use its normal abilities.,,,,,Male
+Tinnoi,MI,Rare,55,Mipedian,40,60,20,60,45,1,Earth,Stalker Minion,Invisibility: Strike 15,,Intimidate: All Disciplines 10,,,,,Male
+Tomugar,MI,Super Rare,28,UnderWorld,35,50,60,25,40,2,Air,Minion Muge,{{MC}}: Target Creature gains 25 to a Discipline and loses 10 to another.,,"{{MC}}, Discard a Mugic Card: Target opponent discards a random Mugic Card. Use only once per turn.",1,,,,Male
+Trimdaal,MI,Uncommon,13,OverWorld,45,50,80,40,45,1,"Fire, Water",Minion Elementalist,Fire 5,,Water 5,,,,,Male
+Uholdan,MI,Uncommon,41,Danian,70,50,40,55,55,2,"Earth, Water",Squadleader Minion,"{{MC}}: Activate Hive.
+Hive: Uholdan has an additional 10 Energy.",,{{MC}}: Relocate target opposing unengaged Creature into an unoccupied space adjacent to it.,,,,,Male
+Ulmquad,MI,Super Rare,42,Danian,75,50,40,60,55,2,"Air, Water",Battlemaster Minion,{{MC}}: Deal 10 damage to target Creature and Ulmquad gains 10 Energy.,,{{MC}}: Deal 10 damage to target Creature and it loses 20 Courage.,,,,,Male
+Wistanne,MI,Common,56,Mipedian,30,45,45,50,40,2,,Minion Muge,{{MC}}: Heal 10 damage to target Creature and it loses 25 Speed.,,"{{MC}}: Heal 15 damage to target adjacent Creature.
+Swift 1",,,,,"Ambiguous, Female"
+Wrenges,MI,Uncommon,14,OverWorld,30,25,45,40,35,2,,Minion Muge,{{MC}}: Heal 15 damage to target engaged Creature.,,"{{MC}}: Heal 10 damage to target Creature. If that Creature is on your side of the Battleboard, it also gains 10 to all Disciplines.",,,,,Male
+Xis'torq,MI,Uncommon,66,M'arrillian,60,50,70,50,45,0,Water,Chieftain,"Creatures you control have ""Elementproof all Elemental Types 10.""",,,1,1,,,Ambiguous
+"Aa'une the Oligarch, Projection",ROTO,Ultra Rare,29,M'arrillian,50,50,50,50,50,0,Water,Chieftain,Aa'une the Oligarch starts the game and comes into play with this side face-up.,,,1,1,,,"Ambiguous, Male"
+"Aa'une the Oligarch, Avatar",ROTO,Ultra Rare,29,M'arrillian,200,200,200,200,100,0,Water,Chieftain,"Outperform all Disciplines 20
+Discard a Mugic Card: Your opponent sacrifices a Creature.",The source of all nightmares is here. The end of Perim is now.,,1,1,,,Ambiguous
+Aer'dak,ROTO,Rare,30,M'arrillian,45,60,50,65,55,0,Water,Fluidmorpher,"Fluidmorph
+{{MC}}: Target Creature loses Range.
+{{MC}}{{MC}}{{MC}}: Deal 20 damage to target Creature with Swift.
+10{{MC}}: Destroy all opposing Creatures with Range.",,,,,,,"Ambiguous, Female"
+Agrino Jaldar,ROTO,Rare,15,Danian,80,50,40,55,55,1,,Minion Warrior,"Hive: Agrino Jaldar has an additional 5 Energy for each Danian you control.
+Agrino Jaldar deals an additional 5 damage to Minions.",,"Agrino Jaldar has an additional 5 Energy for each Minion you control.
+Agrino Jaldar deals an additional 5 damage to Infected Creatures.",,,,,Male
+Aivenna,ROTO,Super Rare,1,OverWorld,80,50,90,40,70,0,,Hero Warrior,"Outperform Courage 5 
+Outperform Wisdom 5 
+While you control a Muge, Aivenna has ""Support All Disciplines 5.""",,,1,1,,,Female
+Anger'keem,ROTO,Common,31,M'arrillian,35,55,65,35,40,0,Water,Fluidmorpher,"Fluidmorph
+4{{MC}}: Target attack deals 25 damage.",,,,,,,"Ambiguous, Male"
+Appelai,ROTO,Uncommon,22,Mipedian,50,45,60,35,40,1,,Conjuror,"Reduce Recklessness damage dealt to Warbeasts you control by 10 for each Mugic counter on Appelai.
+When a Warbeast you control becomes the target of a Mugic or ability your opponent controls, Appelai gains a Mugic counter.",,,,,,,Male
+Arrthoa,ROTO,Rare,2,OverWorld,65,50,65,60,60,0,Fire,Minion Scout,"While an opposing Creature has Water, Arrthoa has ""Range"" and ""Swift 1.""",,"While an opposing Creature has Swift, Arrthoa has ""Defender.""",,,,,Male
+"Attacat, Tactical Aid",ROTO,Common,3,OverWorld,60,35,55,100,55,1,"Earth, Water",Strategist Minion,"{{MC}}: Heal 10 damage to target adjacent OverWorld Creature.
+Swift 2",,"{{MC}}: Heal 10 damage to target adjacent M'arrillian Creature.
+Range, Swift 1",,,,,Male
+Aureban,ROTO,Super Rare,16,Danian,80,50,40,55,55,0,Earth,Battlemaster Minion,"Waterproof 10
+Hive: Aureban has an additional 10 Energy for each Infected Creature your opponent controls.",,Uninfect an Infected Creature you control: Deactivate Hive.,,,,,Male
+"Bahrakatan, The Coralsmith",ROTO,Ultra Rare,32,M'arrillian,60,75,60,50,40,0,Water,Kha'rall,"Battlegear cannot be destroyed by Mugic or abilities. (Battlegear may still be sacrificed or flipped face‐
+down.)","Once Bahrakatan forged the shards, Aa'une knew that success was guaranteed.",,1,1,,,"Ambiguous, Male"
+Biakan,ROTO,Uncommon,4,OverWorld,55,45,75,40,50,1,"Air, Water",Caretaker Minion,"If an opponent would reveal a new active Location on your turn, instead you reveal a new active Location.",,"When an opposing Creature wins Initiative, reveal the top card of your Location Deck and it becomes the new active Location.",,,,,Ambiguous
+Blaaxa,ROTO,Super Rare,8,UnderWorld,30,35,70,45,25,0,,Ethereal Minion,Reveal an Attack Card from your hand: Target Attack with the same name as the revealed card deals 0 damage.,,Reveal a Mugic Card from your hand: Negate target Mugic with the same name as the revealed card.,,,,,"Ambiguous, Female"
+Dhilas,ROTO,Uncommon,17,Danian,65,45,60,30,40,2,Water,Noble Muge,"{{MC}}: Heal 10 damage to target Mandiblor.
+Hive: Danian Mugic you play which deals damage deals an additional 5 damage.",,,1,,,,Male
+Dror'niq,ROTO,Uncommon,33,M'arrillian,40,50,30,20,50,0,Water,Fluidmorpher,"Fluidmorph
+{{MC}}: The next time Dror'niq is dealt attack damage, deal 10 damage to the Creature which played that attack.
+4{{MC}}: When target Creature is dealt attack damage, deal 10 damage to the Creature which played that attack.",,,,,,,Male
+Epitrinne,ROTO,Super Rare,23,Mipedian,70,30,45,95,60,1,"Fire, Earth",Minion Muge,Damage which would be dealt to Epitrinne by Mugic is reduced to 0.,,Damage which would be dealt to Chieftains you control by Mugic is reduced to 0.,,,,,Male
+Fal'makin,ROTO,Common,34,M'arrillian,40,55,90,60,50,0,Water,Chieftain,Discard 2 Mugic Cards: Destroy target engaged Creature with 0 Wisdom.,,,1,1,,,Ambiguous
+Fla'gamp,ROTO,Super Rare,35,M'arrillian,65,25,45,55,50,0,Water,Fluidmorpher,"Fluidmorph 
+{{MC}}: Look at the top card of target player's Location Deck.
+{{MC}}: Put the top card of target player's Location Deck on the bottom of that deck.
+{{MC}}{{MC}}: Your opponent reveals a new active Location.",,,,,,,"Ambiguous, male"
+Fliandar,ROTO,Ultra Rare,18,Danian,85,45,75,35,60,1,"Earth, Water",Squadleader,Uninfect 3 Infected Creatures: Activate Hive and heal all damage on Fliandar.,"Part Squadleader, part Parasite, all Danian.",,,,,,Male
+Gimwei,ROTO,Rare,5,OverWorld,70,40,85,35,60,1,"Fire, Air",Minion Elementalist,"Fire 5
+When Gimwei is dealt 20 or more damage from a single source, deal 5 damage to target Creature.",,"Outperform Wisdom 5
+When Gimwei deals 20 or more damage with a single attack, it gains 20 to all Disciplines",,,,,Male
+Glost,ROTO,Rare,24,Mipedian,75,50,30,75,45,0,"Air, Earth",Warbeast,"Glost has an additional 5 Energy, ""Earth 5"", and ""Air 5"" for each Conjuror in your discard pile.
+Recklessness 20","If more Warbeasts are our only hope for survival, I fear for our future!",,1,1,,,Ambiguous
+"H'earring, Tainted",ROTO,Rare,9,UnderWorld,45,65,40,50,50,1,,Minion Scout,"At the beginning of combat, look at your opponent's attack hand and choose an Attack Card. They discard it and then draw an Attack Card.",,"{{MC}}, remove a Mugic counter from each other Creature you control: Look at the top three cards of target player's Location Deck and choose one. It becomes the new active Location.",,,,,Male
+Headmaster Ankhyja,ROTO,Ultra Rare,25,Mipedian,55,75,45,100,65,0,"Air, Earth",Stalker,"Invisibility: Strike 15
+Creatures cannot lose Invisibility.
+Invisibility abilities work against Creatures with Invisibility.
+If you lost Initiative, your engaged Creature gains ""Strike 10.""",,,1,1,,,Male
+Hune Paltanin,ROTO,Super Rare,6,OverWorld,75,15,110,15,40,2,,Caretaker,"When a Mugic counter is removed from an opposing non‐OverWorld Creature, heal 10 damage to target Creature.","She is rarely seen outside the Library, but Maxxor needs all the help he can get.",,1,1,,,Female
+Ikub'ra,ROTO,Common,36,M'arrillian,40,40,90,50,45,0,Water,Kha'rall,"Intimidate: Wisdom 30
+Fireproof 25
+Ikub'ra deals an additional 5 attack damage to OverWorld Creatures.","""So there IS someone who despises OverWorlders more than me!"" 
+—Chaor",,,,,,"Ambiguous, Male"
+Jus'hebban,ROTO,Common,37,M'arrillian,45,25,90,95,50,0,Water,Chieftain,"Attacks played by Creatures you control have ""Challenge Speed 50: Deal 10 damage.""",,,1,1,,,Ambiguous
+"Khybon, The Renegade",ROTO,Uncommon,10,UnderWorld,60,50,70,20,50,1,Air,Taskmaster Minion,"At the beginning of combat, if Khybon is equipped, it gains 10 Energy.",,"At the beginning of combat, Khybon gains 5 Energy for each Battlegear in each discard pile.",,,,,Male
+Klencka,ROTO,Common,19,Danian,45,55,50,85,55,1,"Air, Water",Mandiblor Minion,"Waterproof 10
+Hive: Outperform Courage 5",,Outperform Courage 5,,,,,Male
+Lam'inkal,ROTO,Common,38,M'arrillian,25,50,55,25,60,0,"Air, Water",Fluidmorpher Scout,"Fluidmorph
+Swift 2",Learn to wield water as a weapon and you'll find that you are never unarmed.,,,,,,Male
+Mik'banin,ROTO,Uncommon,39,M'arrillian,40,90,50,40,45,0,Water,Kha'rall ,"Intimidate: Power 30
+Airproof 25
+Mik'banin deals an additional 5 attack damage to UnderWorld Creatures.","The strategy was obvious but efficient: invade, subjugate, annihilate.",,,,,,Male
+Mock'adyn,ROTO,Common,40,M'arrillian,45,40,50,35,35,0,Water,Fluidmorpher Muge,"Fluidmorph
+{{MC}}{{MC}}: Heal 5 damage to target Creature.
+4{{MC}}: Heal 25 damage to all Creatures you control.",,,,1,,,Male
+"Najarin, Fluidmorpher's Foe",ROTO,Ultra Rare,7,OverWorld,30,35,70,45,25,3,,Overworld Hero Strategist,"When an opposing Creature not named Najarin gains a Mugic counter, Najarin gains a Mugic counter.
+{{MC}}: Target Creature gains 5 Energy.
+{{MC}}{{MC}}: Negate target M'arrillian Mugic.",,,1,,,,Male
+Nivenna,ROTO,Super Rare,11,UnderWorld,40,50,90,60,30,3,,Conqueror Muge,"{{MC}}: Choose an Elemental Type. Target Creature which dealt attack damage this turn gains ""Element 10"" of the chosen Elemental Type. Use this ability only once per turn.
+Warriors you control have an additional 10 to all Disciplines. ",,,1,1,,,Female
+Nunk'worn,ROTO,Super Rare,41,M'arrillian,50,70,70,45,60,0,"Fire, Water",Fluidmorpher Warrior,"Fluidmorph
+Attacks played by Nunk'worn also count as Fire and Water attacks.
+If Nunk'worn has exactly 3 Mugic counters on it when it is defeated, you may return it to play in an open space on your side of the Battleboard with no Mugic counters.",,,1,,,,Male
+Otinee,ROTO,Common,26,Mipedian,35,40,55,65,55,1,"Earth, Water",Minion Scout,Swift 2,,Water 5,,,,,Male
+"Phelphor, Of the Deep",ROTO,Uncommon,42,M'arrillian,35,40,60,55,40,0,Water,Fluidmorpher Scout,"Fluidmorph
+{{MC}}: Relocate target opposing unengaged Creature into an unoccupied space adjacent to it.
+4{{MC}}: Creatures lose Swift and may not move or relocate into unoccupied spaces.",,,,,,,Male
+Rasbma Darini,ROTO,Super Rare,27,Mipedian,45,55,50,85,55,0,Earth,Royal Minion,"Invisibility: Surprise
+Invisibility: Strike 10
+Earth 5 ",,Creatures do not have and cannot gain Invisibility.,,,,,Male
+Ri'oha,ROTO,Rare,43,M'arrillian,50,60,45,40,40,0,Water,Fluidmorpher,"Fluidmorph
+{{MC}}{{MC}}: Swap the Battlegear equipped to two target Kha'rall Creatures controlled by the same player.
+4{{MC}}: Return target Shard in your discard pile to play equipped to an unequipped Kha'rall you control.",,,,,,,Female
+Rol'doi,ROTO,Common,44,M'arrillian,90,50,40,40,45,0,Water,Kha'rall Warrior,"Intimidate: Courage 30
+Waterproof 25
+Rol'doi deals an additional 5 attack damage to Danian Creatures.","As the waves crash in his wake, his claws slash through you!",,,,,,"Ambiguous, Male"
+"Siril'ean, The Songthief",ROTO,Ultra Rare,45,M'arrillian,45,20,75,20,25,0,Water,Fluidmorpher Muge,"Fluidmorph 
+4{{MC}}: Negate target non‐M'arrillian Mugic.
+5{{MC}}: Play a Mugic Card of any tribe in your opponent's discard pile without paying its Mugic cost. Then remove that Mugic Card from the game.",,,1,1,,,Male
+Stelgar,ROTO,Rare,12,UnderWorld,65,65,65,65,65,0,"Fire, Air",Minion Warrior,"When Stelgar deals attack damage, it gains 10 to all Disciplines.
+If Stelgar has more than 125 Power, destroy it.",,"When Stelgar wins combat, it gains a Mugic counter.
+If Stelgar has 2 or more Mugic counters on it, destroy it.",,,,,Male
+Taffial,ROTO,Rare,28,Mipedian,60,50,60,65,45,2,Earth,Royal Stalker,Attacks played by Creatures you control deal an additional 5 damage if there is an Attack Card with the same name in your Attack Discard pile.,,,1,,,,Male
+"Takinom, The Shadowknight",ROTO,Ultra Rare,13,UnderWorld,50,90,40,70,65,1,"Fire, Air",Commander,"Strike 10
+{{MC}}: The next attack made by Takinom counts as its first attack this combat.
+Swift 2",,,1,1,,,Female
+Tarbok,ROTO,Common,20,Danian,75,35,45,40,50,1,"Fire, Air",Mandiblor,"Waterproof 15 
+Hive: Tarbok has an additional 15 Energy.","""My only fear is that I have no fear."" 
+—Tarbok",,,,,,Male
+Tasqa,ROTO,Common,14,UnderWorld,35,55,50,35,45,1,Air,Taskmaster Scout,{{MC}}: Deal 15 damage to target adjacent equipped Creature.,Never attack a fully-armored Drill Dozer head-on when you can simply remove one screw to disable its systems.,,,,,,Female
+Vitar'zu,ROTO,Uncommon,46,M'arrillian,50,40,40,90,45,0,Water,Kha'rall,"Intimidate: Speed 30
+Earthproof 25
+Vitar'zu deals an additional 5 attack damage to Mipedian Creatures.",The Stalkers remained invisible. Now they were the ones being stalked.,,,,,,Male
+"Wamma, Hive Ordnance",ROTO,Super Rare,21,Danian,55,45,65,35,50,0,Fire,Mandiblor,"When a Mandiblor comes into play from a discard pile, Wamma gains a Mugic counter.
+Battlegear equipped to Infected Creatures is not flipped face-up when those Creatures become engaged.",,,,,,,Male
+"Agitos, Eloquent Motivator",TOTT,Super Rare,8,UnderWorld,95,40,75,25,35,2,,Commander,"At the beginning of your turn, UnderWorld Creatures you control gain ""Intimidate: Courage 20"" and ""Intimidate: Power 20.""
+{{MC}}{{MC}}: Target Creature gains ""If an adjacent opposing Creature can move into this Creature's space, it must do so.""",,,,,,,Male
+Ailav,TOTT,Uncommon,15,Mipedian,50,30,60,75,50,1,"Air, Earth",Conjuror Warrior,Reduce damage dealt to Warbeasts you control by 5.,"""Warbeasts the size of palaces are under my control. Why would I ever fear a M'arrillian!?"" 
+—Ailav",,1,,,,Male
+Aval'par,TOTT,Super Rare,29,M'arrillian,35,70,40,65,50,0,Water,Chieftain,"Discard a Mugic Card: Target Chieftain gains ""Untargetable.""",,,1,1,,,"Ambiguous, Male"
+Drabe,TOTT,Common,1,OverWorld,55,30,65,35,50,2,,Caretaker Muge,{{MC}}: Target Creature gains 15 Energy.,Each tattoo symbolizes a fallen friend. Drabe fears he will add several more before the fighting is done.,,,1,,,Male
+Dreg'ora,TOTT,Rare,30,M'arrillian,55,65,25,35,55,0,Water,Kha'rall Warrior,Creatures engaged with Dreg'ora have 10 less Energy for each Discipline they have below 30.,The Kha'rall could care less about the subtleties of brainwashing. Their way is much easier... and messier.,,,,,,Male
+Elhadd,TOTT,Rare,22,Danian,100,50,75,80,50,0,Earth,Mandiblor Scout,"While Elhadd is in your discard pile, Mandiblors you control have ""Outperform Courage 5.""","To everyone's great surprise, it was Elhadd who discovered a link between the Kha'rall and their shards.",,,,,,Male
+Emna'ool,TOTT,Common,31,M'arrillian,85,70,30,45,50,0,Water,Chieftain,Discard two Mugic Cards: Destroy target engaged Creature with 0 Courage.,,,1,1,,,Ambiguous
+Eximiar,TOTT,Common,9,UnderWorld,60,70,30,15,55,0,"Fire, Air",Warrior,"Outperform Power 5
+While engaged with an UnderWorld Creature, Eximiar has ""Fire 5"" and ""Recklessness 5.""","""You call them weak-minded. I call them traitors!"" 
+—Eximiar",,,,,,Male
+Gaffat-ra,TOTT,Rare,16,Mipedian,40,100,100,50,50,0,Air,Warbeast,"Defender: Conjuror
+Non-attack damage dealt to adjacent Royals is dealt to Gaffat-ra instead.
+Recklessness 10","As the war turns grim, even Royals have begun to accept the Warbeasts.",,1,1,,,Ambiguous
+Gal'drad,TOTT,Common,32,M'arrillian,65,85,35,40,50,0,Water,Chieftain,"Attacks played by Creatures you control have ""Challenge Power 50: Deal 10 damage.""",,,1,1,,,"Ambiguous, Male"
+Galmedar,TOTT,Uncommon,10,UnderWorld,75,100,60,35,60,0,Earth,Commander Minion,"While a Creature engaged with Galmedar has Power less than 65, that Creature may not be healed or gain Energy.",,Each Creature you control deals an additional 5 attack damage to Creatures that share a Tribe with it.,,,,,Male
+Hiadrom,TOTT,Common,23,Danian,70,35,55,40,55,1,"Earth, Water",Mandiblor Warrior,Hive: Hiadrom has an additional 15 Energy and Creatures engaged with it have 15 less Energy.,"Hiadrom excavates a new area of the UnderWorld, searching for a new home for the Danians.",,,1,,,Male
+"Iflar, The Crown Prince",TOTT,Ultra Rare,17,Mipedian,30,20,50,75,45,1,Air,Royal,"Invisibility: Surprise
+Invisibility: Strike 20
+Untargetable","""If he's so weak and scrawny, why am I the one covered in bruises!?""",,1,1,,,Male
+"Intress, Natureforce",TOTT,Ultra Rare,2,OverWorld,95,65,90,70,55,2,"Earth, Water",Elementalist,{{MC}}: Creatures you control gain 5 Energy for each Elemental Type they have.,"""Despite our differences, since the Cothica flows through each of us, we are all united."" 
+—Intress",,1,1,,,Female
+Ivelaan,TOTT,Uncommon,24,Danian,80,50,65,75,60,2,Water,Mandiblor,"While Ivelaan is in your discard pile, Mandiblors you control have an additional 25 to all Disciplines.","On his first venture into the OverWorld, Ivelaan discovered something that changed the course of Danian history forever.",,,,,,Male
+Jaidwarl,TOTT,Common,3,OverWorld,45,45,70,30,50,1,Earth,Minion Elementalist,{{MC}}: Target Creature gains all Elemental Types your Creatures have.,,{{MC}}: Target Creature loses all Elemental Types your Creatures have.,,,,,Male
+Ki'bro,TOTT,Rare,33,M'arrillian,60,30,50,40,50,0,Water,Chieftain,"When a Battlegear you control is flipped face-up, look at the top two cards of your Location Deck. Put one of them on top of that deck and the other on the bottom.",,,1,1,,,Ambiguous
+Klawam,TOTT,Rare,11,UnderWorld,15,95,15,60,45,0,,Taskmaster Minion,Sacrifice Klawam: Deal 20 damage to target engaged Creature.,,Sacrifice Klawam: Target engaged Creature loses 20 to all Disciplines.,,,,,Male
+"Lord Van Bloot, Servant of Aa'une",TOTT,Ultra Rare,12,UnderWorld,75,50,75,55,60,2,"Earth, Water",Conqueror Minion,"While a Creature engaged with Lord Van Bloot has less than 65 Courage, it does not have and cannot gain any Elemental Types.",,"While a Creature engaged with Lord Van Bloot has less than 65 Courage, it has ""Recklessness 5"" and ""Exhaust all Disciplines 5.""",1,,,,Male
+Makanaz,TOTT,Common,25,Danian,75,90,50,75,65,0,"Fire, Earth",Mandiblor Warrior,"While Makanaz is in your discard pile, Mandiblors you control have an additional 15 Energy.","""I pound and pummel with this arm while I slam and smash with the other... and I still have limbs to spare!""",,,,,,Male
+"Na-inna, Rebel of the Roa'Po Sahkk",TOTT,Rare,18,Mipedian,30,20,55,30,35,0,,Royal Minion,"At the beginning of your turn, each player adds a Mugic counter to a Creature they control with no Mugic counters.",,"At the beginning of your turn, each player pays a Mugic counter from any Creature they control.",1,,,,Female
+Neekwin,TOTT,Rare,26,Danian,75,40,90,35,65,1,"Air, Water",Mandiblor Elementalist,"While unequipped, Neekwin has ""Water 5"" and ""Untargetable.""","""The only battles the Danians ever lost were ones that I didn't fight."" 
+—Neekwin",,,,,,Male
+"Noaz, Mipedian Cavalerist",TOTT,Uncommon,19,Mipedian,90,40,35,95,50,0,"Air, Earth",Stalker Warrior,"At the beginning of your turn, Noaz gains ""Air 10"" and ""Invisibility: Surprise.""
+Swift 1",No fugitive has ever escaped from his mount's speed... or his blade!,,,,,,Male
+"Olkiex, Driver Extraordinaire",TOTT,Uncommon,4,OverWorld,65,50,40,35,55,1,Fire,Strategist,"When Olkiex plays an Attack Card while equipped, it gains 5 Energy.","It only took six straight Prototype Demolition Field victories for Bodal to acknowledge that Olkiex was a ""capable"" driver.",,,,,,Male
+"Ørth, The Empowerer",TOTT,Rare,13,OverWorld,85,100,40,20,40,1,Earth,Elementalist,"While the Initiative of the active Location is an Elemental Type, your engaged Creature has ""Element 5"" in that Elemental Type.","Alliances can be forged in the heat of battle, but trust? That is not as easy.",,1,,,,"Ambiguous, Male"
+"Ozlai, Chaor's Pilot",TOTT,Rare,34,UnderWorld,70,40,30,85,45,1,Air,Taskmaster Scout,"While equipped, Ozlai has ""Outperform Speed 5.""
+When a Battlegear goes to your opponent's discard pile, deal 5 damage to target Creature.",,,,,,,Male
+Part'soa,TOTT,Uncommon,6,M'arrillian,30,35,80,40,45,0,Water,Fluidmorpher,"Fluidmorph
+{{MC}}{{MC}}: Target Creature loses 20 to all Disciplines.","As the water rises inch by inch, Part'soa knows that victory is one step closer.",,,,,,Male
+"Rellim, Watermaster",TOTT,Super Rare,20,OverWorld,85,75,55,25,50,1,Water,Caretaker Minion,Other Creatures you control with Water have an additional 10 Energy.,,"M'arrillians you control have ""Water 5.""",1,,,,Male
+Ruhban,TOTT,Common,27,Mipedian,30,45,55,85,60,1,"Air, Earth",Stalker Scout,"Invisibility: Surprise
+Swift 1","""You cowards! We don't need Maxxor's help! We can defeat the M'arrillians on our own!""",,,1,,,Male
+Topar,TOTT,Ultra Rare,14,Danian,70,45,45,30,45,2,,Mandiblor Muge,"At the beginning of your turn, Infect target Uninfected Creature.
+When an Infected Danian you control is targeted by a Mugic or ability, Uninfect that Creature and negate the Mugic or ability.",,,,,,,Male
+Ustabe,TOTT,Common,28,UnderWorld,35,85,20,60,60,0,"Fire, Air",Ethereal Warrior,"Intimidate: Power 30
+Intimidate: Speed 30
+Recklessness 5","""I don't care what it's made of... as long as it can fight!"" 
+—Chaor",,,1,,,"Ambiguous, Male"
+Vilrik Landfarer,TOTT,Super Rare,35,Danian,45,35,70,40,35,2,,Mandiblor Minion Elementalist,{{MC}}: Target Elemental Attack loses all abilities.,,Sacrifice a Minion: Reveal a new active Location.,,,,,Male
+Vix'ben,TOTT,Super Rare,7,M'arrillian,35,40,65,35,35,0,Water,Fluidmorpher,"Fluidmorph
+When an opposing Creature plays a Mugic Card, remove all Mugic counters from Vix'ben. If the Mugic card's cost is less than the number of Mugic counters removed this way, negate that Mugic.",,,,1,,,Male
+"Xaerv, Monsoon Defender",TOTT,Rare,21,OverWorld,60,30,80,70,60,1,"Fire, Air",Elementalist,"Waterproof 10 
+Xaerv deals an additional 5 attack damage to Creatures with Water.",,,,,,,Male
+Yterio,TOTT,Super Rare,5,Mipedian,80,60,40,50,55,1,Earth,Warrior,Sacrifice Yterio: Target attack deals 0 damage.,"""You can't save everyone. But if you save just one, he will save another, and he another, until everyone is saved.""",,1,,,,Male
+"Aivenna, OverWorld Lieutenant",FUN,Rare,1,OverWorld,60,65,90,35,60,1,Fire,Hero Warrior,"{{MC}}: Heal 5 damage to target Creature for each Tribe you control. 
+If you control only Aivenna and Nivenna, Aivenna has an additional 20 Energy and ""Defender."" ",,,1,,,,Female
+Akkalbi,FUN,Super Rare,25,Mipedian,55,20,70,35,45,1,,Minion Muge,Reduce Recklessness damage dealt to Creatures you control by 10.,,Increase Recklessness damage dealt to Creatures by 10.,1,,,,Male
+Akkerbal,FUN,Uncommon,2,OverWorld,60,30,75,55,45,1,Earth,Guardian,"While you control a Mipedian, the first attack against Akkerbal each combat deals 0 damage.",The M'arrillians were confused why Akkerbal hated them so much. Don't cactuses like water?,,,,,,Male
+Anarkiar,FUN,Uncommon,9,UnderWorld,60,85,30,40,60,1,,Warrior,"Outperform Power 5
+Recklessness 10
+While you control an OverWorlder, Recklessness damage dealt to Anarkiar is reduced to 0.",,,,,,,Male
+"Barath Beyond, UnderWorld General",FUN,Super Rare,10,UnderWorld,40,90,20,75,60,0,"Fire, Air",Ethereal Warrior,"Sacrifice a Creature while Barath Beyond is engaged: If you sacrificed, 
+An OverWorlder, negate target Mugic.
+A Mipedian, the next attack played by Barath Beyond deals an additional 20 damage.
+A Danian, Barath Beyond gains 30 Energy.",,,,,1,,Male
+"Blügon, Winter Warrior",FUN,Super Rare,3,OverWorld,60,40,75,45,50,2,Water,Minion Warrior,{{MC}}{{MC}}: Target attack counts as the first attack this combat.,,{{MC}}{{MC}}: Target attack does not count as the first attack this combat.,,,,,Male
+Bo'aam,FUN,Ultra Rare,33,M'arrillian,55,50,85,40,45,0,Water,Kha'rall,"When Bo'aam becomes engaged, the opposing engaged Creature loses 5 Energy for each Elemental Type it doesn't have.","Just make one mistake, a single slight error... and your life is done.",,,,,,Male
+"Chaor, The Fierce",FUN,Ultra Rare,11,UnderWorld,80,105,45,45,65,0,Fire,Conqueror Warrior,Fire 10,"Exiled from the UnderWorld, Chaor has lost his homeland and his throne. But his anger still rages, and it drives him forward.",,1,1,,,Male
+Ebbikka,FUN,Uncommon,26,Mipedian,50,35,65,85,50,1,Air,Scout,"Battlegear equipped to OverWorlders you control have ""Untargetable.""","Though master of countless Mipedian weapons, something about OverWorld craftsmanship resonates with her.",,,,,,Female
+Elna,FUN,Super Rare,17,Danian,85,55,45,45,65,1,Earth,Mandiblor Muge,"While Elna is in your discard pile, at the beginning of combat, activate Hive.",The Cothica binds us all: the living and breathing with the dead and decaying.,,,,,,Male
+Em'swa,FUN,Uncommon,34,M'arrillian,60,25,70,50,40,0,Water,Fluidmorpher,"Fluidmorph
+4{{MC}}: Target Creature loses an Elemental Type of your choice.",No one is happier than Em'swa that the Tribes have teamed up. Maybe they'll finally prove to be a challenge.,,,1,,,Male
+Gan'nim,FUN,Common,35,M'arrillian,90,90,50,15,45,0,Water,Kha'rall,"When a Creature engaged with Gan'nim fails a Stat Check or Challenge on an attack it played, Gan'nim deals 10 damage to it.",Gan'nim loves the squishy sounds he hears each time he steps on an enemy.,,,,,,Male
+Ghar'lag,FUN,Rare,36,M'arrillian,40,35,65,75,60,0,Water,Chieftian,Discard a Mugic Card: Opposing Creatures lose and cannot gain Range and Swift.,,,1,1,,,Male
+Glapaal,FUN,Common,18,Danian,50,25,60,40,35,2,,Mandiblor Muge,{{MC}}: Heal 10 damage to target engaged Mipedian and deal 10 damage to the opposing engaged Creature.,"""Wamma says only fools rush into battle. In that case... call me a fool!?""",,,,,,Male
+"Gorram, Danian General",FUN,Super Rare,19,Danian,85,50,75,35,30,0,,Noble Elementalist,"While your discard pile contains, 
+An OverWorlder, your Creatures have ""Water 5.""
+An UnderWorlder, your Creatures have ""Fire 5.""
+A Mipedian, your Creatures have ""Air 5.""",,,,,1,,Male
+"Grantkae, Mipedian General",FUN,Super Rare,27,Mipedian,50,50,65,85,55,1,Air,Royal Elite,"On your turn, other Creatures you control have an additional: 
+25 to all Disciplines if you control an OverWorlder;
+""Intimidate: Energy 10"" if you control an UnderWorlder;
+""Waterproof 25"" if you control a Danian.",,,,,1,,Male
+"Hune Marquard, Brainwashed Scholar",FUN,Uncommon,4,OverWorld,45,30,70,45,35,2,,Minion Muge,Danians you control may play OverWorld Mugic.,,M'arrillians and Minions you control may not be Infected.,,,,,Male
+"Jorre, Mipedian Lieutenant",FUN,Rare,28,Mipedian,40,30,25,80,35,2,Air,Stalker Muge,"{{MC}}: Target Creature gains ""Range"" and ""Swift X,"" where X is the number of Tribes you control.","At home on the battlefield, Jorre wishes the war would never end.",,,,,,Female
+"Kamangareth, Unstable Ally",FUN,Uncommon,12,UnderWorld,55,80,45,60,50,1,"Fire, Earth",Commander,"While you control a Danian, unequipped Creatures you control have ""Outperform Power 5.""",Kamangareth has no problem fighting alongside former foes. The Danians are not as forgiving.,,1,,,,Female
+"Kepiaan, Danian Lieutenant",FUN,Rare,20,Danian,40,40,40,40,40,0,Water,Battlemaster,Kepiaan has an additional 10 Energy and 10 to all Disciplines for each Tribe you control.,"Though hundreds of Danians perish to defeat a single Kha'rall, Kepiaan willingly accepts those losses.",,,,,,Male
+Khorror,FUN,Ultra Rare,29,Mipedian,100,100,15,100,130,0,,Warbeast,Recklessness 50,"""I realize the battle is necessary, but this... this is too much. Even if we win the war, Perim is doomed."" 
+—Sobtjek",,1,1,,,Ambiguous
+"Klencka, Avenger",FUN,Uncommon,21,Danian,90,60,60,40,50,0,"Earth, Water",Mandiblor Warrior,"While you control an OverWorlder, when Klencka deals damage with its first attack each combat, it gains Energy equal to the damage it dealt.",,,,,,,Male
+Loderool,FUN,Common,5,OverWorld,65,70,50,30,55,0,"Fire, Earth",Warrior,"While you control an UnderWorlder, Loderool has ""Fire 5.""","""This alliance changes nothing! I've still never met an UnderWorlder that I liked!""",,,,,,Male
+"Lore, Ancestral Caller",FUN,Ultra Rare,22,Danian,100,40,60,30,55,3,Earth,Muge,"{{MC}}: Deal 5 damage to the opposing engaged Creature and heal 5 damage to Lore.
+If an opponent's Creature would go to the discard pile, remove it from the game and Lore gains a Mugic Counter instead.",,,1,1,,,Male
+"Magmon, Retalliator",FUN,Super Rare,13,UnderWorld,55,85,15,30,70,0,"Fire, Earth",Minion Elementalist,"Magmon deals an additional 5 attack damage to M'arrillians and Minions.
+Recklessness 5",,"Magmon deals an additional 5 attack damage to non-M'arrillians.
+Recklessness 5",,,,,"Ambiguous, Male"
+Majjcan,FUN,Common,30,Mipedian,70,40,50,80,60,0,"Air, Earth",Elementalist,"While you control a Danian, Majjcan has ""Earth 5.""",,,,,,,Male
+Masilbaat,FUN,Uncommon,23,Danian,70,45,55,30,50,1,"Fire, Earth",Battlemaster Muge,"While you control an UnderWorlder, if Masilbaat would take damage from a Mugic or activated ability, it gains that amount of Energy instead.
+
+",,,,,,,Male
+"Maxxor, Protector of Perim",FUN,Ultra Rare,6,OverWorld,110,55,80,45,55,0,"Fire, Earth",Hero Warrior,"When Maxxor is dealt attack damage, it gains ""Maxxor deals an additional 5 attack damage.""","""I don't just fight for the OverWorld! I fight for all of Perim!""",,1,1,,,Male
+"Nivenna, UnderWorld Lieutenant",FUN,Rare,14,UnderWorld,45,50,80,60,35,3,,Conqueror Muge,"{{MC}}{{MC}}: Deal 5 damage to target Creature for each Tribe you control.
+If you control only Nivenna and Aivenna, this ability costs 1 less Mugic counter to play.",,,1,,,,Female
+Raquanni,FUN,Super Rare,31,Mipedian,30,25,80,50,45,2,,Minion Muge,"{{MC}}: Target equipped Creature gains ""Outperform Speed 5.""",,"{{MC}}: Target equipped Creature gains ""Water 5.""",,,,,Female
+Shinadd,FUN,Uncommon,32,Mipedian,60,35,30,100,40,1,Air,Scout,"If Shinadd would become engaged on your turn, you may choose an UnderWorlder you control. If you do, Shinadd and the chosen UnderWorlder swap spaces, and the chosen UnderWorlder becomes engaged instead.",,,,,,,Male
+"Tangath Toborn, OverWorld General",FUN,Super Rare,7,OverWorld,55,75,95,35,60,0,"Fire, Water",Strategist Warrior,"Defender
+On an opponent's turn, Tangath Toborn has:
+""Fire 5"" if you control and UnderWorlder.
+""Disarm"" if you control a Mipedian.
+""Elementproof all Element Types 5"" if you control a Danian",,,,,1,,Male
+Tir'baleen,FUN,Rare,15,M'arrillian,25,40,85,35,45,0,Water,Fluidmorpher,"Fluidmorph
+{{MC}}{{MC}}: Target attack also counts as a Water attack.
+6{{MC}}: Target Water attack deals 0 damage.",,,,1,,,Female
+Torrna,FUN,Common,37,UnderWorld,50,80,40,65,55,1,Air,Scout,"While you control a Mipedian, Torrna has ""Disarm.""",,,,,,,Male
+Uksum,FUN,Super Rare,16,UnderWorld,60,95,15,35,20,0,Fire,Ethereal MinionWarrior,"At the beginning of combat, Uksum gains Energy equal to the lowest Scanned Energy among other Creatures you control.",,Uksum has an additional 40 Energy and Creature Type Kha'rall in addition to its other types.,,,,,Male
+"Vidav, Master Strategist",FUN,Super Rare,8,OverWorld,45,25,105,30,40,3,,Strategist,{{MC}}: Choose a Tribe. Target Creature also counts as the chosen Tribe.,,,1,,,,Male
+Vunhra,FUN,Super Rare,24,Danian,45,45,80,25,40,2,Earth,Squadleader Minion,Non-Danians you control deal 5 additional attack damage to Infected Creatures.,,Creatures you control deal an additional 5 attack damage to M'arrillians and Minions.,1,,,,Male
+Wilt'dred,FUN,Uncommon,38,M'arrillian,40,65,70,45,50,0,Water,Chieftan,Discard a Mugic Card: Target Minion plays its abilities as if that Creature's controller did not also control a Chieftain.,,,1,1,,,Ambiguous
+Afjak,AU,Rare,5,OverWorld,80,40,65,30,30,2,Water,Past Muge,Sacrifice Afjak: Put a Mugic counter on target Creature you control.,Najarin's apprentice was his proudest success... and his greatest sadness.,,,,,,Male
+Ajara,AU,Rare,57,Mipedian,40,35,40,80,40,2,,Past Scout,Past Creatures you control deal an additional 5 attack damage to Creatures with fewer Mugic counters than that Past Creature.,"Though the first to discover the problem, she was the last to be believed.",,1,,,,"Ambiguous, Female"
+Amblox,AU,Common,45,Danian,60,40,80,40,40,2,Water,Elementalist Muge,Expend Water: Infect target Creature.,"Amblox had his eyes set on a mysterious Danian project northwest of Mount Pillar, when he suddenly was moved to the Citadel Grounds.",,,,,,Male
+"Arrthoa, Captain of the Ezoa",AU,Rare,6,OverWorld,70,45,70,60,50,1,Water,Hero Scout,Your other Creatures with Water succeed on all Discipline checks on attacks they play.,"""Avast me hearties! Come about, hard starboard! The citadel is taking flight!""",,,,,,Male
+Ast'imal,AU,Rare,75,M'arrillian,50,45,70,50,40,0,Water,Kha'rall,Expend Water: Target unengaged Creature's controller swaps it with another unengaged Creature he or she controls.,"""Hard questions require answers too. Hard answers require thought. Sometimes thought calls for motivation. It's name is Ast'imal"" 
+—Fal'makin",,,,,,Male
+"Blazier, Citadel Cartographer",AU,Rare,7,OverWorld,70,40,60,40,40,1,Earth,Scout,Expend Earth: Look at the top card of your Location Deck. You may put that card on the bottom of that deck.,Blazier strives to be the first to discover new lands. History doesn't care about whoever comes second.,,,,,,Male
+Cromaxx,AU,Ultra Rare,1,Generic,90,60,20,50,70,0,"Earth, Water",Past Warrior,"Damage dealt to Cromaxx by Mugic is reduced to 0.
+Cromaxx's Energy cannot be reduced by Mugic.","Cromaxx and Maxxor: different branches, same tree.",,,,,,Male
+Dalgad,AU,Super Rare,8,OverWorld,50,70,75,40,60,0,"Fire, Water",Elementalist Scout,Dalgad deals an additional 5 damage with Elemental attacks.,"""The powers of the elements can make even the smallest Creatures mighty."" 
+—Heptadd",,,,,,Male
+"Donmar, Tablet Translator",AU,Common,9,OverWorld,60,40,75,30,45,1,Water,Caretaker,Expend Water: Heal 10 damage to target Creature.,"The glyphs on the First Tree which stands at the center of the Runic Grove speak only to him. They cry, ""Change is coming!""",,,,,,Male
+"Enre-hep, High Muge of the Desert",AU,Ultra Rare,58,Mipedian,50,30,80,60,30,2,Air,Muge,{{MC}}: Copy target Mugic played by a Creature you control. You may choose new target(s) for the copy.,The echoes of Mugic can be heard over the desert wind by those who know how to listen.,,1,1,,,Male
+Eremia,AU,Super Rare,10,OverWorld,70,60,65,45,60,1,,Elementalist Warrior,"When another Creature you control loses an Elemental Type, Eremia gains that Elemental Type.","""Those who deplete the powers of the elements must pay a tax to nature itself, and I am here to ensure it gets collected.""",,1,,,,Female
+"Fal'makin, Azai Inquisitor",AU,Ultra Rare,76,M'arrillian,35,40,90,30,55,0,"Fire, Water",Chieftan,"When Fal'makin deals attack damage, Fal'makin may immediately play a Mugic Card of cost 2 or less without paying its Mugic cost.",Very few expect us.,,1,1,,,Ambiguous
+Fasseph,AU,Rare,59,Mipedian,65,25,60,80,55,0,"Air, Earth",Warrior,"When a Battlegear equipped to a Creature engaged with Fasseph is flipped face-up or face-down, deal 10 damage to that Creature.","A master craftsman, his repairs are more powerful than the the originals.",,,,,,Male
+Gareep,AU,Common,46,Danian,70,50,70,30,40,2,Earth,Muge,"{{MC}}: Activate Hive.
+The first time a Creature you control goes to the discard pile each turn, Gareep gains a Mugic counter.",,,,,,,Male
+Ghundac,AU,Rare,47,Danian,80,40,40,80,50,1,"Air, Earth",Squadleader Scout,"Hive: Ghundac has ""Range"" and ""Swift 3.""",Ghundac is one of Oipoint's officers and was assigned as Tharc's personal guard during the translation of the Cothica tablet.,,,,,,Male
+"Gintanai, The Forgotten",AU,Ultra Rare,60,Mipedian,120,120,30,120,60,0,"Air, Earth",Warbeast,"When Gintanai wins combat, sacrifice another Creature. If you cannot, destroy Gintanai.
+Air 10
+Earth 10",,,1,1,,,Ambiguous
+Habekh,AU,Rare,61,Mipedian,45,35,60,60,30,0,,Conjuror,Reduce Recklessness damage to Warbeasts you control by 10 for each Elemental Type that Warbeast has.,Habekh has always claimed that the elements themselves can be a stabilizing influence on a conjured Warbeast.,,,,,,Male
+"Headmaster Ankhyja, Seeker of the Art",AU,Super Rare,62,Mipedian,60,30,45,95,45,0,Air,Elite Stalker,Your other Creatures with Air cannot be targeted by opposing Mugic or abilities.,"""For those of us who hide in plain sight, being sheltered by air is neither strange nor unreal.""",,,,,,Male
+Herken,AU,Common,11,OverWorld,60,25,75,30,50,1,Water,Caretaker,"{{MC}}: Heal 10 damage to target Creature. If that Creature has Water, heal 20 damage instead.","Despite numerous pleas, Herken refuses to reveal his secret ingredient.",,,,,,Male
+"Hiadrom, Rock Ripper",AU,Common,48,Danian,75,60,50,30,50,0,Earth,Mandiblor Warrior,Expend Earth: Hiadrom gains 20 Energy.,"The minerals and metals contained in the ore of the Citadel Grounds beckoned Hiadrom to them, and left the excavation of a new Danian home for another day.",,,,,,Male
+Hune Canin,AU,Common,12,OverWorld,60,50,75,30,35,2,Fire,Muge,Expend Fire: Target Creature gains or loses all Disciplines so they become their scanned values.,"Calm, contemplative, subdued: the exact opposite of his daughter, Kinnianne. He blames that on her mother.",,,,,,Male
+Ifjann,AU,Rare,63,Mipedian,30,30,60,70,45,1,Air,Muge,"Expend Air: Target adjacent Creature gains ""Untargetable.""","Much to the chagrin of his workers, Ifjann was living proof of his ""work harder, not smarter"" philosophy.",,,,,,
+"Ihun'kalin, Psionic Master",AU,Rare,77,M'arrillian,45,45,75,80,60,0,Water,Chieftan,Discard a Mugic Card: Ihun'kalin deals 10 additional damage with its next attack.,,,1,1,,,Ambiguous
+Illiar,AU,Super Rare,13,OverWorld,70,40,80,60,55,2,"Air, Earth",Warrior,Attacks with a Build Cost of 2 played against Illiar deal 0 damage.,"While he can wield six weapons at once, few realize his most powerful weapon is his mind.",,,,,,Male
+"Iparu, Metallic Ally",AU,Ultra Rare,14,OverWorld,50,50,50,50,50,1,,Hero,"At the beginning of each turn, Iparu becomes a copy of target opposing Creature. (Iparu gains all scanned characteristics of that card including Disciplines, Elemental Types, Energy, and abilities.)",,,1,1,,,"Ambiguous, Male"
+Ixxik,AU,Rare,64,Mipedian,90,80,30,80,85,0,"Air, Earth",Past Warbeast,Other Creatures you control have 10 less Energy.,At one time Warbeasts roamed wild and deserts were jungles.,,,,,,Ambiguous
+Kaal,AU,Ultra Rare,25,UnderWorld,60,95,30,60,50,2,Fire,Past Conqueror,"Fire 5
+{{MC}}: Deal 5 damage to target Creature for each Creature you control on your opponent's side of the Battleboard.",,,,,,,"Ambiguous, Male"
+Ketacc,AU,Super Rare,26,UnderWorld,75,80,40,20,70,0,"Fire, Earth",Warrior Scout,"Intimidate: Energy 10
+Recklessness 10","""On my signal, unleash the full wrath of the UnderWorld!"" 
+—Slufurah",,,,,,Male
+Ketun,AU,Rare,49,Danian,80,60,80,55,50,1,,Mandiblor Elementalist Warrior,Elemental attacks deal 5 less damage to Ketun.,He has been sent far from home to defend the Danian scholars and Muges who visit the Citadel of the Elements.,,,,,,Male
+Khenti,AU,Common,65,Mipedian,65,40,35,90,50,0,Air,Stalker Warrior,"Invisibility: Strike 10
+Expend Air: Khenti gains ""Range"" and ""Swift 1.""","Born to fight, the war never ends in his unsettled mind.",,,,,,Male
+"Khybon, Magma Dam Overseer",AU,Super Rare,27,UnderWorld,60,60,40,30,45,0,Fire,Taskmaster,"Expend Fire: Put a Magma counter on Khybon.
+Remove 5 Magma counters from Khybon: Deal 40 damage to all engaged Creatures.",,,,,,,Male
+Kiru,AU,Rare,28,UnderWorld,70,90,40,75,55,0,"Fire, Earth",Past Conqueror,"When Kiru wins combat put a Leadership counter on it.
+Other Creatures you control have an additional 10 Energy for each Leadership counter on Kiru.",,,,,,,Male
+Klik'ssi,AU,Common,78,M'arrillian,50,80,70,50,40,0,Water,Kha'rall,"While Klik'ssi is equipped with a Shard, it has ""Water 5.""
+
+","""The failure of Erak'tabb and Neth'uar means nothing except higher stakes."" 
+—Ihun'kalin",,,,,,Ambiguous
+Kojjbel,AU,Rare,66,Mipedian,65,35,35,85,55,1,Earth,Warrior,Expend Earth while engaged: Target attack deals 15 damage.,"As a student of Mudeenu, Kojjbel knows no fear.",,,,,,Male
+"Kolmo, Purified",AU,Super Rare,67,Mipedian,70,45,45,95,45,0,"Air, Earth",Elite Stalker,"Range
+Swift 1
+Kolmo has ""Invisibility: Strike 10"" for each Elemental Type the opposing engaged Creature has.","While part of hive, Kolmo learned all the Danians' secrets.",,,,,,Male
+"Kopond, High Muge of the Hearth",AU,Ultra Rare,29,UnderWorld,30,70,70,40,30,2,Fire,Muge,Mugic played by Kopond that deals damage deals an additional 10 damage.,"""Tonight we may dine as fellow Muges, but as the sun rises we are enemies once again.""",,1,1,,,Male
+Korg,AU,Rare,15,OverWorld,60,35,70,25,35,2,Water,Past Guardian,{{MC}}: Heal 10 damage to target Creature for each Creature your opponent controls on your side of the Battleboard.,Korg can remain immobile for days to get the jump on his unsuspecting prey.,,,,,,Male
+"Krekk, Phalanx Recon",AU,Rare,30,UnderWorld,65,55,30,60,45,1,Earth,Scout,"At the beginning of combat, if the active Location's Initiative is a Discipline, engaged Creatures with less than 60 in that Discipline lose 10 Energy.","Endlessly patrolling Gothos Tower, he waits for Lord Van Bloot's return.",,,,,,Male
+"Lomma, Desert Wanderer",AU,Super Rare,16,OverWorld,80,45,75,45,60,2,Water,Guardian,"Defender
+{{MC}}{{MC}}: Target Elemental Attack deals 0 damage to Lomma.","Catching the scent of the brute who destroyed her family, Lomma can finally get her revenge after all these years. But at what cost?",,,,,,Female
+"Lore, High Muge of the Hive",AU,Ultra Rare,36,Danian,80,30,90,30,35,2,Earth,Muge,"Lore may play Mugic Cards in your discard pile as if they were in your hand. If you play a Mugic Card this way, remove it from the game.","Burdened with tasks that would break others, Lore is never fazed by a challenge.",,1,1,,,Male
+"Maglax, Lodestone Seeker",AU,Rare,17,OverWorld,75,60,40,40,40,0,Fire,Guardian Scout,"Expend Fire while engaged: When target attack deals damage, deal the same amount of damage to the Creature that played that attack.",The immense magnetic powers of Maglax revealed the remarkable properties of the Citadel Lodestone.,,,,,,Male
+"Magmon, Engulfed",AU,Rare,31,UnderWorld,30,75,20,45,55,0,Fire,Elementalist,"Your other Creatures with Fire have ""Recklessness 5"" and ""Fire 5.""","As long as a single coal burns, his flame can never be extinguished.",,,,,,"Ambiguous, Male"
+Makromil,AU,Rare,50,Danian,65,25,35,70,50,1,"Air, Earth",Past Warrior,"Makromil has an additional 5 Energy for each other Danian you control.
+Makromil has an additional 5 Energy for each other Past Creature you control.",,,,,,,Ambiguous
+Mhein,AU,Common,39,Danian,80,60,40,30,50,0,"Air, Earth, Water",Mandiblor Warrior,Mhein has an additional 5 Energy for each Creature in all discard piles.,"""Let the determination of the defeated empower the standing to do right for one and for all."" 
+—Inscription on the Danian Hive Gallery",,,,,,Ambiguous
+"Milla'iin, Foothold Commander",AU,Super Rare,79,M'arrillian,50,50,80,60,50,0,Water,Milla'iin,"At the beginning of your turn, if all Creatures you control have no Mugic Counters, return target Mugic Card from your discard pile to your hand.",,,1,1,,,Ambiguous
+"Mock'adyn, Fluid Master",AU,Common,80,M'arrillian,60,65,50,50,35,0,Water,Elementalist,Expend Water: Mock'adyn gains a Mugic counter.,"With Aa'une's defeat, Mock'adyn has plans to become the new leader of the M'arrillians. Unfortunately for him, so do many others...",,,,,,Male
+"Najarin, High Muge of the Lake",AU,Ultra Rare,18,OverWorld,60,30,100,30,35,2,Water,Muge,Najarin pays 1 less Mugic counter to play Mugic Cards to a minimum of 1.,"""After all the marvels I've seen him preform, I still don't know the limits to Najarin's power... or if there are any!"" 
+—Maxxor",,1,1,,,Male
+"Najarin, Younger",AU,Super Rare,19,OverWorld,60,30,90,30,25,2,,Past Muge,"{{MC}}: Return target Mugic Card from your general discard pile to your hand, then discard a Mugic Card.",Little did he know then that his name would become synonymous with history itself.,,,,,,Male
+"Nauthilax, Aquatic Spy",AU,Common,32,UnderWorld,65,50,60,55,60,2,"Air, Water",Elementalist Scout,Recklessness 5,"Hiding impatiently, just out of sight, Nauthilax soon learned that it's hard to let others do the hard work for you.",,,,,,Male
+"Nimmei, Expedition Overseer",AU,Ultra Rare,40,Danian,80,50,70,30,60,0,,Noble Warrior,"When Nimmei takes attack damage, it gains all Elemental Types that attack had. When Nimmei gains an Elemental Type this way, it gains ""Element 5"" in the corresponding Elemental Type.",,,,,,,Male
+Ninren,AU,Rare,68,Mipedian,90,90,25,150,70,0,Air,Warbeast,"Range
+Swift 1
+Recklessness 25",Made of lightning and just as quick.,,,,,,Ambiguous
+"Nom, Servant of Earth",AU,Common,41,Danian,70,30,60,30,45,2,Earth,Elementalist,{{MC}}: Target Creature gains Earth.,"""Lore, let me guide and assist you with the Citadel exploration, and serve as a reminder that the Tree of Life has its roots in the elemental earth.""",,,,,,"Ambiguous, Male"
+"Nunk'worn, Assimilated",AU,Super Rare,42,Danian,70,60,70,40,35,0,"Fire, Water",Fluidmorpher,"Fluidmorph
+At the end of any combat, remove all Mugic counters from Nunk'worn.","""Parasites subjugate giants, crumble mountains and make servants of masters."" 
+—Infectionist motto",,1,1,,,Male
+"Odu-Bathax, Reservoir Reclaimer",AU,Common,51,Danian,90,50,30,30,55,1,Earth,Battlemaster Warrior,"Earth 5
+Expend Earth: Odu-Bathax gains ""Outperform Courage 5.""","Odu-Bathax never looks for trouble, but he always seems to find it.",,,,,,Male
+Orbaat,AU,Rare,52,Danian,60,35,60,25,40,2,Water,Muge,"While Orbaat is in your discard pile, if you would reveal a new active Location, instead look at the top two cards of your Location Deck and choose one. It becomes the new active Location.",,,,,,,Male
+Piddan,AU,Common,33,UnderWorld,50,60,20,50,45,1,Fire,Taskmaster Warrior,"{{MC}}: Target Creature deals an additional 10 damage with its next attack. If that Creature has Fire, it also gains ""Fire 5.""",,,,,,,Male
+Porthyn,AU,Rare,20,OverWorld,90,50,60,50,55,2,,Guardian,{{MC}}: All non-attack damage that would be dealt to target adjacent Creature is dealt to Porthyn instead.,"Najarin looks only ahead, for he has no need to watch his back.",,,,,,"Ambiguous, Male"
+Proboscar,AU,Super Rare,2,Generic,50,65,25,85,65,0,,Past Beast,"Proboscar may move into any unoccupied space as if it were adjacent.
+If Proboscar would move into an opposing Creature's space, it relocates that opposing Creature into Proboscar's space instead.",,,,,,,Ambiguous
+"Qwun, Solitary Scout",AU,Common,69,Mipedian,70,30,50,90,50,1,Air,Scout,Expend Air while engaged: Flip the opposing engaged Creature's Battlegear face-down.,Surviving alone in the desert takes a certain kind of cleverness.,,,,,,Male
+"Rath'tab, Mind Scryer",AU,Super Rare,81,M'arrillian,70,20,90,25,40,0,Water,Chieftan,Discard a Mugic Card: Target Creature with 0 in any Discipline loses an Elemental Type of your choice.,,,1,1,,,"Ambiguous, Male"
+"Rothar, Forceful Negotiator",AU,Rare,34,UnderWorld,60,100,50,60,70,0,"Fire, Air, Earth",Commander,Rothar must move into an adjacent occupied space if able.,"""Treaties are made to be broken... and so are your bones!"" 
+—Rothar",,,,,,Male
+Savitsa,AU,Common,35,UnderWorld,30,70,30,70,55,1,Fire,Elementalist,Expend Fire while engaged: Both players discard two Attack Cards and draw two Attack Cards.,"Like a burning portent, his flaming hair signals all who see it that they do not have long to live.",,,,,,Male
+"Seeryn, Servant of Fire",AU,Common,36,UnderWorld,45,80,40,45,35,2,Fire,Elementalist,{{MC}}: Target Creature gains Fire.,"Of the High Muges who helped raise the city, Seeryn warmed to Kopond and his inclination for destructive mugic.",,,,,,"Ambiguous, Male"
+Sepmek,AU,Super Rare,70,Mipedian,45,25,60,85,45,1,"Fire, Earth",Muge,"At the beginning of your turn, flip all Battlegear equipped to Sepmek face-up.","""Do not be afraid, for these symbols are as powerful as any shield.""",,,,,,Male
+Silchaw,AU,Rare,21,OverWorld,80,40,60,30,60,1,"Earth, Water",Elementalist,"At the beginning of combat, if the Initiative of the active Location is an Elemental Type, your engaged Creature gains that Elemental Type.","His uncanny ability to smell Vlarium earned him the name ""Major Miner.""",,,,,,Male
+"Silv, Servant of Air",AU,Common,71,Mipedian,40,35,30,85,40,2,Air,Elementalist,{{MC}}: Target Creature gains Air.,"""I am of storm and of gentle breeze. Of elegance, lightness and furious wrath. And now I am of your house, Enre-hep.""",,,,,,"Ambiguous, Female"
+"Skithia, Gothos Spy",AU,Super Rare,37,UnderWorld,70,75,40,70,35,2,"Fire, Earth",Commander Scout,{{MC}}: The controller of target engaged Creature reveals their attack hand. Deal 5 damage to that engaged Creature for each Elemental Type either of those revealed Attack Cards have.,,,,,,,Female
+Skorblust,AU,Rare,38,UnderWorld,60,80,20,50,55,0,"Fire, Earth",Past Elementalist,"When Skorblust takes damage from a Fire or Earth attack, deal 5 damage to opposing engaged Creature.","Wherever Skorblust goes, he leaves a part of himself behind.",,,,,,"Ambiguous, Male"
+"Slufurah, Treacherous Translator",AU,Super Rare,39,UnderWorld,40,60,35,30,30,1,Fire,Muge,"At the beginning of combat, sacrifice a Battlegear equipped to your engaged Creature. If you do, that Creature gains Fire and ""Fire 5.""","""There! We're done. Not much need for you now, is there? The alliance is broken!""",,,,,,Male
+Smildon,AU,Super Rare,3,Generic,60,90,35,60,60,2,Earth,Past Warrior Beast,"Defender: Earth
+{{MC}}: The active Location loses all abilities.","Though Smildon faced many worthy foes, none was as deadly as ""The Blight!""",,,,,,Male
+Somnort,AU,Common,22,OverWorld,60,30,65,45,55,1,"Fire, Water",Guardian Warrior,Defender: Water,Somnort's heart skipped a beat when he realized that Taffial had found the lost city of the ancient Mipedian King Kehn-sep.,,,,,,Male
+Son'las,AU,Common,82,M'arrillian,50,45,60,70,50,0,Water,Kha'rall Scout,"When Son'las becomes engaged, the opposing engaged Creature loses Invisibility and your opponent reveals his or her attack hand.","""Some can shade their eyes forever, and still see all."" 
+—Iflar",,,,,,Ambiguous
+"Stelgar, Vicious Mutation",AU,Rare,40,UnderWorld,20,20,20,20,20,0,Water,Warrior,"At the end of each turn, put a Growth counter on Stelgar.
+Stelgar has an additional 10 Energy and 10 in all Disciplines for each Growth counter on it.",,,,,,,Male
+"Taffial, Cothica Hunter",AU,Super Rare,72,Mipedian,70,20,65,65,40,1,Earth,Royal Stalker,"Expend Earth: Discard an Attack Card. If you do, return an Attack Card with Build Cost less than or equal to the discarded Attack Card to your hand.
+
+","Archaeology is the search for fact, not truth.",,,,,,Male
+Tarin,AU,Super Rare,53,Danian,75,40,35,40,45,0,Earth,Mandiblor Scout,Your other Creatures with Earth have an additional 10 Energy.,"Even though they are the least respected, Danian society would crumble in days without the hard-working Mandiblors.",,,,,,Male
+"Thar'lyn, Azai Spy",AU,Rare,83,M'arrillian,70,80,60,30,55,0,Water,Elementalist,"Expend Water while engaged: The next time Thar'lyn deals attack damage, the opposing engaged Creature loses X to all Disciplines, where X is the damage dealt.",,,,,,,Male
+"Tharc, Tablet Translator",AU,Rare,54,Danian,70,30,80,30,50,1,Earth,Noble Muge,"{{MC}}: Target Creature gains 50 Courage. If that Creature has Earth, it gains an additional 50 Courage.","""It pains me to admit that we could not have translated the tablet without the bugs' help."" 
+—Prince Mudeenu",,,,,,Male
+Toadore,AU,Rare,41,UnderWorld,60,70,30,35,50,0,Fire,Taskmaster,Expend Fire while engaged: Destroy all Battlegear on engaged Creatures.,You think H'earring's breath is bad after a bag of Dractyl scales? Wait 'til you get a whiff of Toadore's belches!,,,,,,Male
+"Ulmar, Perithon Racer",AU,Common,42,UnderWorld,40,30,70,30,45,1,Fire,Conqueror Muge,Expend Fire: Deal 10 damage to target Creature.,"To improve the Ulmanator's top speed, Ulmar removed all unnecessary components from the vehicle. Unfortunately, that included the brakes.",,,,,,Male
+"Unda, Servant of Water",AU,Common,23,OverWorld,55,35,80,45,40,2,Water,Elementalist,{{MC}}: Target Creature gains Water.,"""I am the servant to the Emperor of Water, and I am at your service, OverWorlders.
+",,,,,,"Ambiguous, Female"
+Ursis,AU,Ultra Rare,4,Generic,60,85,45,45,80,3,Earth,Past Warrior Muge,,"Though Ursis appears ferocious, in realty, he is much fiercer than you can imagine.",,,,,,Male
+Valban,AU,Super Rare,55,Danian,75,40,65,40,55,0,,Elementalist Warrior,"At the beginning of combat, Valban gains all Elemental Types Infected Creatures have.","Parasites feed off the strength of their host.
+",,,,,,Male
+Vlar,AU,Super Rare,24,OverWorld,80,60,50,60,60,0,"Fire, Earth",Past Scout,"At the beginning of combat, if Vlar is unequipped, any Battlegear equipped to the opposing engaged Creature becomes equipped to Vlar.",,,,,,,Male
+Voorx,AU,Rare,43,UnderWorld,40,70,60,30,50,0,"Fire, Water",Past Elementalist,"When Voorx becomes engaged, your opponent may sacrifice a Battlegear. If they do not, Voorx gains ""Fire 5"" and ""Water 5.""",,,,,,,"Ambiguous, Male"
+Ylinne,AU,Common,73,Mipedian,50,30,40,75,55,1,Air,Elite Warrior,"{{MC}}: Target Creature gains ""Invisibility: Strike 10."" If that Creature has Air, it also gains ""Invisibility: Surprise.""","None shall pass - at least, not in one piece.",,,,,,Female
+"Yondaf, Symbiotic Infector",AU,Super Rare,56,Danian,60,35,65,30,50,2,"Earth, Water",Controller,"At the beginning of the turn, if Yondaf is Uninfected, Infect it.
+Uninfect 3 Creatures: Deal 10 damage to target Creature.",,,,,,,Male
+"Zamool, Lord Van Bloost's Enforcer",AU,Ultra Rare,44,UnderWorld,75,60,40,80,55,1,Earth,Conqueror,"While Zamool is engaged, opposing Creatures cannot play Mugic or abilities.",Darker than night. Quieter than silence. More terrifying than fear.,,1,,,,Male
+"Zhade, Dig Site Defender",AU,Common,74,Mipedian,65,45,30,95,45,1,"Air, Earth",Stalker,Invisibility: Strike 15,Zhade makes sure that those spies unfortunate enough to learn what was unearthed never report their findings.,,,,,,Male
+"Arctus, Heptadd's Squire",FAS,Super Rare,25,OverWorld,100,50,75,40,60,0,,Elementalist,"At the beginning of combat, Arctus gains all Elemental Types your adjacent Creatures have.","As Arctus launched his Allmageddon attack, Bodal calculated that in 14.9 seconds, Rath'tab would become a very wise pool of blue jelly.",,,,,,Male
+"Aszil, the Young Queen",FAS,Ultra Rare,26,Danian,80,30,85,35,60,2,Earth,Noble,"At the beginning of combat, Danians you control gain Earth. Hive: Mandiblors you control have ""Earth 5.""",Queen of the Danians. Ruler of the Hive. Fate of Perim.,,1,1,,,Female
+Bidua,FAS,Common,15,OverWorld,70,30,70,85,55,0,"Air, Earth",Scout,Expend Earth while engaged: The opposing engaged Creature loses Invisibility.,"With his keen eyesight, Bidua can see even the faint shimmering of invisible Mipedians.",,,,,,Male
+"Bodal, Flamedrill Researcher",FAS,Super Rare,11,OverWorld,50,20,80,30,30,1,,Hero,"Expend Earth: Return target Battlegear in your discard pile to play equipped to another unequipped Creature you control.
+Expend Fire: Destroy a Battlegear you control. If you do, destroy target Battlegear.",,,,,,,Male
+Cyrenox,FAS,Common,21,UnderWorld,50,75,30,50,55,0,Fire,Warrior,"While all Creatures you control have Fire, Cyrenox deals an additional 5 damage with attacks.","Born of darkness, raised in gloom, wielder of sorrow, bringer of doom.",,,,,,Male
+"Ginar'rash, The Extinguisher",FAS,Rare,19,M'arrillian,50,75,70,30,45,0,Water,Kha'rall,"Fireproof 20
+When Ginar'rash deals Water attack damage to a Creature, that Creature loses Fire.","""Some say to fight fire with fire. My plan works much better, I assure you.",,,,,,Ambiguous
+"Malvadine, The King's Herald",FAS,Ultra Rare,27,Mipedian,85,50,45,100,65,1,Air,Elite Warrior,"Invisibility: Strike 10 While you control a Royal, Malvadine has ""Defender"" and ""Air 5.""","""We shall claim this city for Mipedim as we await King Theb-saar's return!""",,,,,,Male
+"Maxxor, Elemental Champion",FAS,Ultra Rare,,OverWorld,100,50,70,50,60,1,"Fire, Earth, Water",Hero,"Expend Fire: Maxxor deals an additional 10 damage with the next attack.
+Expend Earth: Reduce the damage dealt to Maxxor by the next attack by 10.",,,1,1,,,Male
+Riggan,FAS,Common,13,Danian,65,40,65,35,50,1,Earth,Mandablor Muge,Expend Earth while engaged: The active player reveals a new active Location.,"As the first through the Tremor Gate, he was the first to learn its secrets.",,,,,,Male
+"Tassanil, High Elementalist",FAS,Ultra Rare,24,Danian,65,40,70,40,30,0,"Fire, Air, Earth, Water",Nobel Elementalist,Expend any Elemental Type: Target Danian gains the expended Elemental Type. Use this ability only once per turn.,"""Challenge me!? That's like challenging nature itself!""",,1,1,,,Male
+"Wamma, Flame Guard",FAS,Common,20,Danian,70,65,40,25,50,1,"Fire, Earth",Mandablor,"Defender: Fire
+Defender: Earth","When assigned a task, Wamma feels obligated to do a good job... at least for an hour.",,,,,,Male
+Aimukk,OP1,Common,7,Danian,75,50,20,30,35,0,Earth,Mandablor,,What Aimukk lacks in strength he more than makes up for in willpower.,,,,,,Male
+Chargola,OP1,Uncommon,4,UnderWorld,75,80,65,50,60,1,,Commander,Recklessness 5,"Though widely renowned for his meticulous planning, Chargola throws all strategies out the window in the heat of the skirmish.",,,,,,Male
+Dyrtax,OP1,Common,5,UnderWorld,35,60,45,65,45,1,,Scout,Swift 1,Treasure hunters constantly try to steal valuable crystals at Jade Pillar. Dyrtax makes sure they don't get too greedy.,,,,,,Male
+Getterek,OP1,Super Rare,6,UnderWorld,50,95,25,45,60,0,Fire,Taskmaster,Intimidate: Power 10,It is recommended that you pay the toll before you cross the bridge.,,,,,,Male
+Ghatup,OP1,Uncommon,8,Mipedian,60,20,65,60,40,2,Air,Scout,,"Traveling far beyond the desert, Ghatup has seen many sights, including those he wishes he never had.",,,,,,Male
+Nakal,OP1,Rare,8,Danian,55,50,30,55,30,1,"Fire, Earth",Mandablor,,Maintaining the crumbling walls of Mount Pillar is the most important - and most thankless - job of the Mandiblors.,,,,,,Male
+Nebres,OP1,Common,1,OverWorld,70,80,45,50,50,0,,Warrior,Support: Power 5,"As the three-time reigning champion of the Perim Battle Royal, Nebres is one of the few OverWorlders who has earned the respect of all tribes, even the UnderWorlders.",,,,,,Male
+Neffa,OP1,Common,2,OverWorld,50,25,80,35,40,2,,Strategist,Support: Wisdom 5,"No matter how many times he recalculated the ancient equations, the solution always added up to seven.",,,,,,Male
+Sukoval,OP1,Uncommon,3,OverWorld,30,55,80,55,45,0,Water,Elementalist,Swift 1,"The thin layer of mucus secreted from his pores not only keeps Sukoval warm, but it also allows him to slither on land.",,,,,,Male
+Vasquin,OP1,Rare,10,Mipedian,65,40,85,35,55,1,,Muge,{{MC}}: Deal 5 damage to target Creature.,"After stealing Ulmar's top-secret Mugiblade, Vasquin earned himself an eternal enemy... but it was well worth it!",,,,,,Male
+Agitos,BR,Common,26,UnderWorld,65,40,85,35,55,1,,Commander,{{MC}}: Deal 5 damage to target Creature.,,,,,,,Male
+Banshor,BR,Uncommon,32,UnderWorld,75,85,65,50,60,1,,Ethereal,Recklessness 5,,,,,,,Ambiguous
+Cerbie,BR,Common,27,UnderWorld,50,95,25,45,60,0,Fire,Taskmaster,Intimidate: Power 10,"As the UnderWorld guardian of The Passage, Cerbie is forever vigilant against any potential invasion from the OverWorld.",,,,,,Male
+Ettala,BR,Common,36,OverWorld,50,50,20,30,35,0,Earth,Guardian,,,,,,,,Male
+Hoton,BR,Common,21,OverWorld,50,25,80,35,40,2,,Strategist,Support: Wisdom 5,,,,,,,Male
+Mezzmarr,BR,Uncommon,35,OverWorld,30,55,55,55,45,0,Water,Scout,Swift 1,,,,,,,Male
+Mishmoshmish,BR,Common,33,UnderWorld,35,60,45,65,45,1,,Scout,Swift 1,,,,,,,Ambiguous
+Mommark,BR,Common,31,OverWorld,50,20,45,35,30,3,,Caretaker,{{MC}}: Heal 10 damage to target Creature.,,,,,,,Male
+Prantix,BR,Common,37,OverWorld,40,50,30,40,30,1,"Fire, Earth",Caretaker,,,,,,,,Male
+Quadore,BR,Uncommon,38,OverWorld,60,20,65,60,40,2,Air,Muge,,,,,,,,Female
+Ulfhedinn,BR,Common,24,OverWorld,70,80,45,50,50,0,,Warrior,Support: Power 5,,,,,,,Male
+Abin-wor,LR,Common,7,Mipedian,25,30,55,45,30,1,Earth,Conjuror,"Reduce Recklessness damage dealt to Warbeasts you control by 5.
+Warbeasts you control have ""Waterproof 25.""",,,,,,,Male
+Blak'drin,LR,Super Rare,9,M'arrillian,60,65,55,70,45,0,Water,Kha'rall,"Air and Water attacks deal an additional 5 damage to Blak'drin.
+When Blak'drin is dealt Air or Water damage, deal 10 damage to the Creature which played that attack.",,,1,1,,,"Ambiguous, Male"
+"Ebkeex, Patchwork Minion",LR,Super Rare,1,OverWorld,65,40,80,80,60,0,Air,Minion Elementalist,"At the beginning of combat, Ebkeex gains all Elemental Types your Creatures have.",,"At the beginning of combat, Ebkeex gains all Elemental Types opposing Creatures have.",,,,,"Ambiguous, Male"
+Nukasai,LR,Rare,5,Danian,70,45,60,35,50,1,,Battlemaster Minion,"{{MC}}: Uninfect all opposing Creatures. For each Creature Uninfected this way, Infect an Uninfected Creature you control.",,"{{MC}}: Uninfect all Creatures you control. For each Creature Uninfected this way, Infect an opposing Uninfected Creature.",,,,,Male
+"Gazarbash, Infecting Terraformer",LR,Uncommon,6,Danian,70,35,45,45,45,2,Water,Squadleader,Uninfect three Infected Creatures: Reveal a new active Location.,,,,,,,Male
+Khybon's Engineered Automaton,LR,Common,3,UnderWorld,30,50,20,20,40,0,,Taskmaster Warrior,Sacrifice a Battlegear: Target Taskmaster gains 40 to all Disciplines. Use this ability only once per turn.,,,,,,,Ambiguous
+"Mommark, Clonemaster",LR,Ultra Rare,2,OverWorld,45,30,85,85,40,2,Water,Muge,"At the beginning of your turn, Mommark gains a Mugic counter.
+When another Creature you control is defeated, remove all Mugic counters from Mommark. If you have removed 5 or more Mugic counters this way, return that Creature to play in an unoccupied space with no Mugic counters.",,,1,1,,,Male
+Nis'dabba,LR,Common,10,M'arrillian,45,35,60,60,50,0,Water,Chieftain,Discard a Mugic Card: Swap two Shards equipped to two Kha'rall you control.,,,1,1,,,Ambiguous
+Farhkaj,LR,Uncommon,8,Mipedian,35,55,45,75,60,1,Air,Elite Warrior,Reduce damage dealt to Nukasai by Water attacks by 5.,,,,1,,,Male
+"Ulmar, Wavescrambler",LR,Rare,4,UnderWorld,35,55,65,65,30,0,Fire,Conqueror,"Minions may not play activated abilities if their controller also controls a Chieftain.
+Ulmar may not be the target of Mugic.",,,,,,,Male
+Antidaeon,DOP,Promo,1,OverWorld,35,60,40,70,40,2,Water,Scout,,"With thousands of hidden waterways linking the OverWorld and UnderWorld, Antidaeon remains in constant alert against enemy invasion.",,,,,,Male
+Epaluo,MI,Promo,17,Mipedian,40,30,75,60,50,1,Earth,Stalker Warrior,"Invisibility: Strike 5
+Invisibility: Surprise",,,,,,,Male
+"Ettala, Mind Controlled",MI,Promo,18,OverWorld,50,85,40,30,60,0,"Earth, Water",Guardian Minion,Earth 5,,Ettala has an additional 30 Power and 30 less Wisdom.,,,,,Male
+Gaffat-ra,TOTT,Promo,77,Mipedian,40,100,100,50,50,0,Air,Warbeast,"Defender: Conjuror
+Non-attack damage dealt to adjacent Royals is dealt to Gaffat-ra instead.
+Recklessness 10","As the war turns grim, even Royals have begun to accept the Warbeasts.",,1,1,,,Ambiguous
+"Heptadd, 2008 Hawaii Trade Conference",DOP,Promo,4,OverWorld,50,50,50,50,50,1,"Fire, Air, Earth, Water",Guardian Muge,Heptadd may play Mugic of any tribe.,Some in Perim believe that Heptadd knows where the Cothica is.,,1,1,,,Male
+"Ikkatosh, The Aich King",OP1,Promo,79,OverWorld,30,20,80,40,25,2,,Guardian Hero,"At the beginning of combat, if your engaged Creature has no Elemental Types, it gains 20 Energy.",The Aich King brings the power of nature even to those who cannot touch it themselves.,,1,,,,"Ambiguous, Male"
+Irsenog,MI,Promo,16,UnderWorld,75,60,30,40,50,1,Air,Warrior,Air 5,"Few realize his claws are as sharp as his serrated blade until it is much, much too late.",,,,,,Male
+Kapalor,MI,Promo,22,Danian,60,75,40,30,35,1,Earth,Mandablor Warrior,"Kapalor has an additional 5 Energy for each Mandiblor you control and each Infected Creature in play.
+While Kapalor is unequipped, it has an additional 10 Energy.",,,,,,,Male
+Nunk'worn,ROTO,Promo,80,M'arrillian,50,70,70,45,60,0,"Fire, Water",Fluidmorpher Warrior,"Fluidmorph
+Attacks played by Nunk'worn also count as Fire and Water attacks.
+If Nunk'worn has exactly 3 Mugic counters on it when it is defeated, you may return it to play in an open space on your side of the Battleboard with no Mugic counters.",,,1,,,,Male
+Opto,DOP,Promo,3,UnderWorld,70,50,50,40,30,0,Earth,Scout,"At the beginning of combat, Creatures engaged with Scouts you control lose and cannot gain Invisibility.",,,,,,,Male
+"Prince Mudeenu, Champion of the Guard",MI,Promo,5,Mipedian,85,40,20,80,55,0,Air,Royal Warrior,"Mipedians you control have ""Invisibility: Surprise.""","""You can either surrender or die... and I won't accept your surrender."" 
+—Prince Mudeenu",,1,,,,Male
+"Prince Mudeenu, Champion of the Guard",LR,Common,	68b,Mipedian,85,40,20,80,55,0,Air,Royal Warrior,"Mipedians you control have ""Invisibility: Surprise.""","""You can either surrender or die... and I won't accept your surrender."" 
+—Prince Mudeenu",,1,,,,Male
+Raimusa,DOP,Promo,2,OverWorld,60,65,40,45,50,1,"Earth, Water",Warrior,,The vicious winds of the Crystal Range slash the flesh but sharpen the soul.,,,,,,Male
+Simalin,MI,Promo,8,OverWorld,70,50,40,60,45,0,"Earth, Water",Elementalist Warrior,The first attack against Simalin each combat deals 20 less damage.,,,,,,,Female
+"Takinom, The Shadowknight",ROTO,Promo,75,UnderWorld,50,90,40,70,65,1,"Fire, Air",Commander,"Strike 10
+{{MC}}: The next attack made by Takinom counts as its first attack this combat.
+Swift 2",,,1,1,,,Female
+"Tangath Toborn, OverWorld General (Pre-Release)",FUN,Promo,70,OverWorld,55,75,95,35,60,0,"Fire, Water",Strategist Warrior,"Defender
+On an opponent's turn, Tangath Toborn has:
+""Fire 5"" if you control and UnderWorlder.
+""Disarm"" if you control a Mipedian.
+""Elementproof all Element Types 5"" if you control a Danian",,,,,1,,Male
+"Yokkis, Spooker",MI,Promo,71b,OverWorld,50,30,50,75,55,1,,Hero Scout,Surprise,,,,,,,Male
+Tarteme,LR,Rare,,Danian,50,65,35,40,40,0,Air,Mandiblor,Air 5,,,,,,,Male
+Kobarri,LR,Rare,,Mipedian,50,25,60,20,25,3,,Royal Muge,{{MC}} {{MC}}: Target creature you control may not be the target of Mugic or Abilites.,,,,,,,Male
+Heptadd (Tin Misprint),DOP,Ultra Rare,11,OverWorld,50,50,50,50,50,1,"Fire, Earth",Guardian Muge,Heptadd may play Mugic of any tribe.,Some in Perim believe that Heptadd knows where the Cothica is.,,1,1,,,Male
+Prince Mudeenu (Dardemus Stats),DOP,Super Rare,77,Mipedian,60,75,20,65,50,1,,Royal,Invisibility: Strike 20,"Obsessed with controlling the Cothica, he will risk the freedom of the Mipedians to find it.",,1,,,,Male
+Drazz (TTIT stats - online card is TTIT),MI,Super Rare,30,Danian,50,75,85,35,65,0,"Earth, Water",Mandiblor Minion,"While Infected, Drazz has ""Earth 5.""
+Hive: Outperform Courage 5",,Water 5,,,,,Male
+Blügon (New York Comic Con),DOP,Super Rare,34,OverWorld,35,65,70,45,40,0,Water,Elementalist,Water 5,"Despite his mammoth size, the biggest thing about Blügon is his heart.",,,,,,Male
